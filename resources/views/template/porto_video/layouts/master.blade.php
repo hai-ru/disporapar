@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ app()->getLocale() }}">
 	<head>
 
 		<!-- Basic -->
@@ -127,7 +127,7 @@
 
 			html .bg-color-light-scale-1 {
 				background-color: #f7f7f7 !important;
-				background-image: url(https://simtaru.melawikab.go.id/static/media/background_etnic_home.528c0674.png);
+				background-image: url("/theme/porto_video/img/background_etnic_home.528c0674.png");
 			}
 
 			.img_size_sidebar{

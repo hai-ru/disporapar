@@ -1,7 +1,12 @@
 <ul class="nav nav-pills" id="mainNav">
     <li class="dropdown">
-        <a class="dropdown-item dropdown-toggle" href="{{ route("/") }}">
+        <a class="dropdown-item" href="{{ route("/") }}">
             BERANDA
+        </a>
+    </li>
+    <li class="dropdown">
+        <a class="dropdown-item" href="{{ url("/".app()->getLocale()."/blog") }}">
+            BERITA
         </a>
     </li>
     <li class="dropdown">
@@ -10,7 +15,7 @@
         </a>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item dropdown-toggle">
+        <a class="dropdown-item dropdown-toggle" href="#">
             DATA LAPORAN
         </a>
         <ul class="dropdown-menu">
@@ -49,7 +54,7 @@
         </ul>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item dropdown-toggle">
+        <a class="dropdown-item dropdown-toggle" href="#">
             PROMOSI DIGITAL
         </a>
         <ul class="dropdown-menu">
@@ -71,7 +76,7 @@
         </ul>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item dropdown-toggle" href="index.html">
+        <a class="dropdown-item" href="index.html">
             REKAPITULASI
         </a>
     </li>

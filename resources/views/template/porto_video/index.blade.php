@@ -5,7 +5,7 @@
 <section class="section border-0 video overlay overlay-show overlay-op-8 m-0" 
     data-video-path="{{Helper::getThemeAssets()}}video/disporapar" 
     data-plugin-video-background 
-    data-plugin-options="{'posterType': 'jpg', 'position': '50% 50%'}" 
+    data-plugin-options="{'posterType': 'webp', 'position': '50% 50%'}" 
     style="height: 100vh;"
 >
     <div class="container position-relative z-index-3 h-100">
@@ -16,7 +16,7 @@
                         Selamat datang di website resmi
                     </h1>
                     <h1 
-                        class="text-color-light font-weight-extra-bold text-12 line-height-1 mb-2 appear-animation" 
+                        class="text-center text-color-light font-weight-extra-bold text-12 line-height-1 mb-2 appear-animation" 
                         data-appear-animation="blurIn" 
                         data-appear-animation-delay="1000" 
                         data-plugin-options="{'minWindowWidth': 0}"
