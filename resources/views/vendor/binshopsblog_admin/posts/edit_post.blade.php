@@ -14,13 +14,13 @@
             To apply changes, click save changes for each language.
         </p>
 
+        <input type='submit' name="submit_btn" class='btn btn-primary' value='Save Changes' >
+
         @csrf
         @include("binshopsblog_admin::posts.form", [
           'post' => $post,
           'post_translation' => $post_translation
         ])
-
-        <input type='submit' name="submit_btn" class='btn btn-primary' value='Save Changes' >
 
     </form>
 

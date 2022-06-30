@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-md-6">
                         <ul class="list list-icons list-icons-sm">
-                            <li><i class="fas fa-angle-right"></i><a href="page-faq.html" class="link-hover-style-1 ms-1"> FAQ's</a></li>
+                            <li><i class="fas fa-angle-right"></i><a href="{{ route("pages","faq") }}" class="link-hover-style-1 ms-1"> FAQ's</a></li>
                             <li><i class="fas fa-angle-right"></i><a href="sitemap.html" class="link-hover-style-1 ms-1"> Sitemap</a></li>
                             <li><i class="fas fa-angle-right"></i><a href="contact-us.html" class="link-hover-style-1 ms-1"> Contact Us</a></li>
                         </ul>
