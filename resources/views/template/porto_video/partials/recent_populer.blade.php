@@ -16,7 +16,7 @@
                         <div class="post-image">
                             <div class="img-thumbnail img-thumbnail-no-borders d-block">
                                 <a href="{{ $item->url($lang_id) }}">
-                                    <img src="{{ $post->image_url("thumbnail") }}" width="50" height="50" alt="">
+                                    <img src="{{ $item->image_url("thumbnail") }}" width="50" height="50" alt="">
                                 </a>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                         <div class="post-image">
                             <div class="img-thumbnail img-thumbnail-no-borders d-block">
                                 <a href="{{ $item->url($lang_id) }}">
-                                    <img src="{{ $post->image_url("thumbnail") }}" width="50" height="50" alt="">
+                                    <img src="{{ $item->image_url("thumbnail") }}" width="50" height="50" alt="">
                                 </a>
                             </div>
                         </div>

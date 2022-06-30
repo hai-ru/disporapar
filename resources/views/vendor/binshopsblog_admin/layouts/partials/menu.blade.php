@@ -74,7 +74,7 @@
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
                             <a 
-                                href='{{ route('binshopsblog.admin.index') }}'
+                                href='{{ route('admin.pages') }}'
                                 class="nav-link"
                             >
                                 <i class="fa-fw nav-icon fas fa-circle-notch">
@@ -86,7 +86,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href='{{ route('binshopsblog.admin.create_post') }}'
+                            <a href='{{ route('binshopsblog.admin.create_post',["type"=>1]) }}'
                                 class="nav-link"
                             >
                                 <i class="fa-fw nav-icon fas fa-circle-notch">

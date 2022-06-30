@@ -24,3 +24,7 @@ Route::get('/pages/{slug}', [PagesController::class,"show"])->name("pages");
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::group(["middleware"=>"auth"],function(){
+    Route::get("admin/pages",[PagesController::class,"index"])->name("admin.pages");
+});

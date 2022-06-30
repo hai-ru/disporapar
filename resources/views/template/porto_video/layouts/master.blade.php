@@ -136,6 +136,7 @@
 			}
 
 		</style>
+		@yield('css')
 
 		<!-- Head Libs -->
 		<script src="{{Helper::getThemeAssets()}}vendor/modernizr/modernizr.min.js"></script>
@@ -201,6 +202,7 @@
 				$(".preloader").fadeOut();
 			})
 		</script>
+		@yield('js')
 
 		<!-- Theme Initialization Files -->
 		<script src="{{Helper::getThemeAssets()}}js/theme.init.js"></script>

@@ -1,5 +1,14 @@
 @extends('template.porto_video.layouts.master')
 
+@section('css')
+    <style>
+        .post-content img {
+            max-width: 100%;
+            margin: 0px auto;
+        }
+    </style>
+@endsection
+
 @section('content')
     
 <div role="main" class="main">
@@ -9,6 +18,12 @@
             <div class="row">
                 <div class="col-md-12 align-self-center p-static order-2 text-center">
                     <h1 class="text-dark font-weight-bold text-8">{{$post->title}}</h1>
+                    @if(\Auth::check() && \Auth::user()->canManageBinshopsBlogPosts())
+                        <div>
+                            <a href="{{$post->edit_url()."?type=1"}}" class="mt-2 btn btn-outline-secondary btn-sm pull-right float-right">Edit
+                                Page</a>
+                        </div>
+                    @endif
                 </div>
                 <div class="col-md-12 align-self-center order-1">
                     <ul class="breadcrumb d-block text-center">

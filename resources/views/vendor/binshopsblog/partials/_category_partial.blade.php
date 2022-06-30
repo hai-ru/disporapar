@@ -1,5 +1,8 @@
 @foreach($category_tree as $category)
-    @php $trans =  $category->categoryTranslations->where('lang_id',$lang_id)->first();@endphp
+    @php 
+        $lang_id = $lang_id ?? Helper::getLocaleID();
+        $trans =  $category->categoryTranslations->where('lang_id',$lang_id)->first();
+    @endphp
     @if($trans != null)
         <li class="nav-item">
             @php $nameChain = $nameChain .'/'. $trans->slug @endphp

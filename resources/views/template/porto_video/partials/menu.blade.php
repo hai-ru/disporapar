@@ -10,9 +10,41 @@
         </a>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item dropdown-toggle" href="{{ route("pages","profil") }}">
+        <a class="dropdown-item dropdown-toggle" href="#">
             PROFIL
         </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","profil-pimpinan") }}">
+                    PROFIL PIMPINAN
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","sambutan-kepala-dinas") }}">
+                    SAMBUTAN KEPALA DINAS
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","struktur-organisasi") }}">
+                    STRUKTUR ORGANISASI
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","profil-dinas") }}">
+                    PROFIL DINAS
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","visi-misi") }}">
+                    VISI & MISI
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","sumber-daya-aparatur") }}">
+                    SUMBER DAYA APARATUR
+                </a>
+            </li>
+        </ul>
     </li>
     <li class="dropdown">
         <a class="dropdown-item dropdown-toggle" href="#">

@@ -6,6 +6,7 @@
     <p>Change language option to translate your post in different language</p>
     <form id="add-post-form" method='post' action='{{route("binshopsblog.admin.store_post")}}'  enctype="multipart/form-data" >
         <input type='submit' name="submit_btn" class='btn btn-primary' value='Add new post' >
+        <input type='hidden' name="type" class='btn btn-primary' value='{{ Request::get("type") ?? 0 }}' >
         @csrf
         @include(
             "binshopsblog_admin::posts.form",
