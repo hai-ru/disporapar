@@ -27,4 +27,11 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::group(["middleware"=>"auth"],function(){
     Route::get("admin/pages",[PagesController::class,"index"])->name("admin.pages");
+    Route::get("admin/filemanager",function(){
+        return view('template.porto_video.filemanager');
+    })->name("filemanager");
+});
+
+Route::group(['prefix' => 'filemanager', 'middleware' => ['web']], function () {
+    \UniSharp\LaravelFilemanager\Lfm::routes();
 });

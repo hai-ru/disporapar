@@ -21,10 +21,20 @@
                         </p>
                     </a>
                 </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route("/") }}">
+                        <i class="fas fa-fw fa-database nav-icon">
+                        </i>
+                        <p>
+                            Data Laporan
+                        </p>
+                    </a>
+                </li>
 
                 <li class="nav-item has-treeview">
                     <a class="nav-link nav-dropdown-toggle" href="#">
-                        <i class="fa-fw nav-icon fas fa-comments">
+                        <i class="fa-fw nav-icon fas fa-newspaper">
 
                         </i>
                         <p>
@@ -63,7 +73,7 @@
 
                 <li class="nav-item has-treeview">
                     <a class="nav-link nav-dropdown-toggle" href="#">
-                        <i class="fa-fw nav-icon fas fa-comments">
+                        <i class="fa-fw nav-icon fas fa-file-alt">
 
                         </i>
                         <p>
@@ -102,7 +112,7 @@
 
                 <li class="nav-item has-treeview">
                     <a class="nav-link nav-dropdown-toggle" href="#">
-                        <i class="fa-fw nav-icon fas fa-comments">
+                        <i class="fa-fw nav-icon fas fa-cogs">
 
                         </i>
                         <p>

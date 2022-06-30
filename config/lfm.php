@@ -53,14 +53,7 @@ return [
             'thumb' => true,
             'thumb_width' => 80,
             'thumb_height' => 80,
-            'valid_mime'   => [
-                'image/jpeg',
-                'image/pjpeg',
-                'image/png',
-                'image/gif',
-                'application/pdf',
-                'text/plain',
-            ],
+            'valid_mime'   => [],
         ],
         'image' => [
             'folder_name'  => 'photos',
@@ -174,6 +167,6 @@ return [
     | directives are not supported.
      */
     'php_ini_overrides'        => [
-        'memory_limit' => '256M',
+        'memory_limit' => '9999999999999999M',
     ],
 ];
