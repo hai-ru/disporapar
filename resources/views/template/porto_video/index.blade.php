@@ -70,7 +70,7 @@
                     </h1>
                     <a 
                         class="btn btn-primary btn-rounded btn-with-arrow-solid mt-5" 
-                        href="#"
+                        href="{{ route("destinations") }}"
                         data-appear-animation="blurIn" 
                         data-appear-animation-delay="1000" 
                     >EXPLORE KALBAR<span><i class="fas fa-chevron-right"></i></span></a>
