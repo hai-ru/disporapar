@@ -93,9 +93,9 @@
                 ajax:"{{route('recap.data')}}",
                 columns: [                               
                     { 
-                        "data": "cover",
+                        "data": "photos",
                         "render": (data,type,row)=>{
-                            console.log(row)
+                            // console.log(row)
                             const cover = JSON.parse(row.photos.replace(/&quot;/g,'"'));
                             const image = cover.length > 0 ? cover[0] : "/storage/foto_google/No_Image_Available.jpeg" ;
                             return `<img class="img-prw" src="${image}" />`;

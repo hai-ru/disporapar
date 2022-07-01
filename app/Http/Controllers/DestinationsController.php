@@ -26,7 +26,6 @@ class DestinationsController extends Controller
     {
         $query = \App\Models\Place::select("id","alamat","slug","name","phone","rating","description","category_place_id","wilayah_id","photos")
         ->addSelect(DB::raw("ST_X(location) as latitude, ST_Y(location) as longitude"))
-        ->addSelect(DB::raw('photos -> "$[0]" as cover'))
         ->with("wilayah","category_place")
         ->orderBy("created_at","asc");
 
@@ -37,7 +36,6 @@ class DestinationsController extends Controller
 
         $place = \App\Models\Place::select("id","alamat","slug","name","phone","rating","description","category_place_id","wilayah_id","photos")
         ->addSelect(DB::raw("ST_X(location) as latitude, ST_Y(location) as longitude"))
-        ->addSelect(DB::raw('photos -> "$[0]" as cover'))
         ->with("wilayah","category_place")
         ->orderBy("created_at","asc");
 
