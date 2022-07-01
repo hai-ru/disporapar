@@ -45,4 +45,18 @@ class DestinationsController extends Controller
             "data"=>$place->get()
         ];
     }
+
+    public function show(Request $request,String $slug = "")
+    {
+        $data["place"] = \App\Models\Place::where("slug",$slug)
+        ->addSelect(DB::raw("*, ST_X(location) as latitude, ST_Y(location) as longitude"))
+        ->firstorfail();
+        $data["nearest"] = DB::select(DB::raw("SELECT *, (ST_Distance(location, POINT( 0.8101939, 109.4419984)) * 111195) / 1000 as distance FROM `places` WHERE id != 26 order by distance ASC LIMIT 5"));
+        $data["related"] = \App\Models\Place::where("category_place_id",$data["place"]->category_place_id)
+        ->where("wilayah_id",$data["place"]->wilayah_id)
+        ->orderBy("views","desc")
+        ->take(5)
+        ->get();
+        return view("template.porto_video.places",$data);
+    }
 }

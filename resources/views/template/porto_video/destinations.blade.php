@@ -3,6 +3,9 @@
 @section('css')
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
     <style>
+        .star_active{
+            color: orange;
+        }
         .category_list {
             display: flex;
             align-items: center;
@@ -46,7 +49,7 @@
             padding: 20px;
         }
         img.destination_image{
-            height: 101px;
+            height: 111px;
             width: 100%;
         }
         .destination_details{
@@ -136,27 +139,7 @@
                         </div>
                     </form>
                 </div>
-                <section class="list_places" id="list">
-                    {{-- @for ($i = 0; $i < 20; $i++) 
-                        <div class="card mb-3">
-                            <div class="row g-0">
-                                <div class="col-lg-4">
-                                    <img 
-                                        src="https://disporapar.test/storage/foto_google/bengkayang.json-UkzcPbGL.jpg" 
-                                        class="rounded-start destination_image" alt="..."
-                                    >
-                                </div>
-                                <div class="col-lg-8">
-                                        <div class="card-body destination_details">
-                                            <h4 class="card-title mb-1 text-4 font-weight-bold">Card Title</h4>
-                                            <p class="card-text mb-2">Lorem ipsum dolor sit amet</p>
-                                            <a href="/" class="read-more text-color-primary font-weight-semibold text-2">Selengkapnya <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
-                                        </div>
-                                </div>
-                            </div>
-                        </div>
-                    @endfor --}}
-                </section>
+                <section class="list_places" id="list"></section>
             </div>
             <div class="col-md-8 map_container">
                 <div id="map"></div>
@@ -194,11 +177,20 @@
             elm.empty();
             list.map( item => {
                 item.cover = JSON.parse(item.photos);
-                const image = item.cover.length > 0 ? item.cover[0]: "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg";
+                const image = item.cover.length > 0 ? item.cover[0]: "/storage/foto_google/No_Image_Available.jpeg";
                 const alamat = item.alamat === null ? "" :
                 `<p class="mb-0 pb-0"><i class="fa fa-map-marker-alt"></i> ${item.alamat}</p>`
                 const phone = item.phone === null ? "" :
                 `<p> class="mb-0 pb-0"><i class="fa fa-phone"></i> ${item.phone}</p>`
+                let star = "";
+                for (let index = 0; index < Math.floor(item.rating); index++) {
+                    star += '<i class="fa fa-star star_active"></i>';
+                    
+                }
+                for (let index = 0; index < 5 - Math.floor(item.rating); index++) {
+                    star += '<i class="fa fa-star "></i>';
+                    
+                }
                 elm.append(`
                     <div class="card mb-3">
                         <div class="row g-0">
@@ -217,6 +209,7 @@
                                         </a>
                                         ${alamat}
                                         ${phone}
+                                        <div>${star}</div>
                                         <a href="/places/${item.slug}" class="read-more text-color-primary font-weight-semibold text-2">Selengkapnya <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                                     </div>
                             </div>

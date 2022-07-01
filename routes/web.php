@@ -23,7 +23,7 @@ Route::get('/', function () {
 
 Route::get('/pages/{slug}', [PagesController::class,"show"])->name("pages");
 
-Route::get('/places/{slug}', [PagesController::class,"show"])->name("pages.index");
+Route::get('/places/{slug}', [DestinationsController::class,"show"])->name("pages.index");
 Route::get('/destinations/{slug?}', [DestinationsController::class,"index"])->name("destinations");
 
 Auth::routes();
