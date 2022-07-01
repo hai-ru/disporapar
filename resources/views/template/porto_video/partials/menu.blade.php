@@ -64,25 +64,17 @@
         </ul>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item dropdown-toggle" href="index.html">
+        <a class="dropdown-item dropdown-toggle" href="{{ route("destinations") }}">
             DESTINASI
         </a>
         <ul class="dropdown-menu">
-            <li>
-                <a class="dropdown-item" href="index.html">
-                    WISATA ALAM
-                </a>
-            </li>
-            <li>
-                <a class="dropdown-item" href="index.html">
-                    WISATA BUDAYA
-                </a>
-            </li>
-            <li>
-                <a class="dropdown-item" href="index.html">
-                    MINAT KHUSUS
-                </a>
-            </li>
+            @foreach (Helper::getCategoryPlace() as $item)    
+                <li>
+                    <a class="dropdown-item" href="{{ route("destinations",$item->slug) }}">
+                        {{$item->name}}
+                    </a>
+                </li>
+            @endforeach
         </ul>
     </li>
     <li class="dropdown">
@@ -108,7 +100,7 @@
         </ul>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item" href="index.html">
+        <a class="dropdown-item" href="{{route("recap")}}">
             REKAPITULASI
         </a>
     </li>

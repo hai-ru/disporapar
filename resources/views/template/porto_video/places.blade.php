@@ -63,6 +63,14 @@
                         @if(!empty($place->phone))<p class="mb-1"><i class="fa fa-phone"></i> {{$place->phone}}</p> @endif
                         <h5 class="mt-5">Highlight</h5>
                         {!! $place->description !!}
+                        <div class="post-block mb-5 post-share">
+                            <h4 class="mb-3">Share this Post</h4>
+
+                            <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                            <div class="addthis_inline_share_toolbox"></div>
+                            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60ba220dbab331b0"></script>
+
+                        </div>
                     </article>
 
                 </div>

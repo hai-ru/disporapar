@@ -27,6 +27,13 @@
             padding: 4px;
             margin-right: 10px;
         }
+        .category_list li.active a{
+            color: white;
+        }
+        .category_list li.active{
+            background-color: #007dc5;
+            color: white;
+        }
         .category_list li:hover a{
             color: white;
         }
@@ -105,8 +112,8 @@
             <h3 class="text-center">Kategori Destinasi</h3>
             <ul class="category_list">
                 @foreach ($category as $item)    
-                    <li>
-                        <a href="#">
+                    <li class="{{ $category_place === $item->slug ? "active" : "" }}">
+                        <a href="{{ route("destinations",$item->slug) }}">
                             <img 
                                 src="{{ $item->icon }}" 
                                 class="icon"
@@ -134,7 +141,7 @@
                                         <option value="{{$item->id}}">{{$item->name}}</option>
                                     @endforeach
                                 </select>
-                                <button class="btn btn-primary"><i class="fa fa-search"></i></button>
+                                <button class="btn btn-primary" id="search_btn"><i class="fa fa-search"></i></button>
                             </div>
                         </div>
                     </form>
@@ -158,6 +165,7 @@
     ></script>
     <script src="https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js"></script>
     <script>
+        const category = "{{ $category_place_id }}";
         let map;
         let markers = [];
         let clusterer;
@@ -181,7 +189,7 @@
                 const alamat = item.alamat === null ? "" :
                 `<p class="mb-0 pb-0"><i class="fa fa-map-marker-alt"></i> ${item.alamat}</p>`
                 const phone = item.phone === null ? "" :
-                `<p> class="mb-0 pb-0"><i class="fa fa-phone"></i> ${item.phone}</p>`
+                `<p class="mb-0 pb-0"><i class="fa fa-phone"></i> ${item.phone}</p>`
                 let star = "";
                 for (let index = 0; index < Math.floor(item.rating); index++) {
                     star += '<i class="fa fa-star star_active"></i>';
@@ -226,6 +234,14 @@
                 url:"{{route('load_markers')}}",
                 type:"POST",
                 data:body,
+                beforeSend:function(){
+                    $("#search_btn").html('<i class="fas fa-sync fa-spin"></i>')
+                    $("#search_btn").attr('disabled',true)
+                },
+                complete:function(){
+                    $("#search_btn").html('<i class="fas fa-search"></i>')
+                    $("#search_btn").removeAttr('disabled')
+                },
                 success: res => {
 
                     if(!res.status) return console.log(res.message);
@@ -307,7 +323,9 @@
 
 
         $(document).ready(()=>{
-            loadData()
+            loadData({
+                "category_place":category
+            })
             $("#wilayah").select2()
         })
 
@@ -318,6 +336,7 @@
             loadData({
                 "wilayah_id":wilayah,
                 "name":search,
+                "category_place":category
             })
             return false;
         })

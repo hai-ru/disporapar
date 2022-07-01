@@ -30,7 +30,7 @@
                                     <form role="search" action='{{route("binshopsblog.search", app()->getLocale())}}' 
                                         method="get">
                                         <div class="simple-search input-group">
-                                            <input class="form-control text-1" id="headerSearch" name="q" type="search" value="" placeholder="Search...">
+                                            <input class="form-control text-1" id="headerSearch" name="s" type="search" value="" placeholder="Search...">
                                             <button class="btn" type="submit">
                                                 <i class="fas fa-search header-nav-top-icon"></i>
                                             </button>

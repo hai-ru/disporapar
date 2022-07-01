@@ -27,5 +27,11 @@ class Helper
         }
         return $query->orderBy("created_at")->get();
     }
+
+    public static function getCategoryPlace(){
+        $lang = BinshopsLanguage::where("locale",app()->getLocale())->first();
+        return \App\Models\CategoryPlace::where("lang_id",$lang->id)->orderBy("order_at")
+        ->get();
+    }
 }
 

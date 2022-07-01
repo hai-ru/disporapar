@@ -17,13 +17,12 @@ use \App\Http\Controllers\LogicController;
 |
 */
 
-Route::get('/', function () {
-    return view('template.porto_video.index');
-})->name("/");
+Route::get('/', [DestinationsController::class,"home"])->name("/");
 
+Route::get('/recap', function(){return view("template.porto_video.recap");})->name("recap");
+Route::get('/recap-data', [DestinationsController::class,"recap"])->name("recap.data");
 Route::get('/pages/{slug}', [PagesController::class,"show"])->name("pages");
-
-Route::get('/places/{slug}', [DestinationsController::class,"show"])->name("pages.index");
+Route::get('/places/{slug}', [DestinationsController::class,"show"])->name("places");
 Route::get('/destinations/{slug?}', [DestinationsController::class,"index"])->name("destinations");
 
 Auth::routes();
@@ -41,11 +40,14 @@ Route::group(['prefix' => 'filemanager', 'middleware' => ['web']], function () {
     \UniSharp\LaravelFilemanager\Lfm::routes();
 });
 
-Route::get("test",function(){
-    $places = \App\Models\Place::select("id","name","photos","google_places_api")->get();
-    foreach($places as $place){
-        $place->alamat = $place->google_places_api["vicinity"] ?? null;
-        $place->save();
-    }
-    return $places;
-});
+// Route::get("test",function(){
+//     $places = \App\Models\Place::select("id","name","photos","google_places_api")->get();
+//     // $places = \App\Models\Wilayah::get();
+//     foreach($places as $place){
+//         // $place->name = Str::replaceLast('.json', '', $place->name);
+//         $place->slug = Str::slug($place->name);
+//         $place->google_places_api = json_decode($place->google_places_api,true);
+//         $place->save();
+//     }
+//     return $places;
+// });

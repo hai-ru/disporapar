@@ -46,7 +46,7 @@ class InjectPlaces extends Command
                 $filename = basename($filepath);
                 $data = \json_decode(\file_get_contents($filepath),true);
                 $wilayah = \App\Models\Wilayah::firstOrCreate([
-                    "name"=>$filename
+                    "name"=>"Kab ".ucfirst(pathinfo($filename, PATHINFO_FILENAME))
                 ]);
                 foreach ($data["results"] as $key => $value) {
                     $photos = [];
