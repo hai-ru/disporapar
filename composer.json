@@ -9,6 +9,7 @@
         "artesaos/seotools": "^0.22.0",
         "binshops/laravel-blog": "^9.2",
         "fruitcake/laravel-cors": "^2.0",
+        "grimzy/laravel-mysql-spatial": "^4.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",

@@ -23,7 +23,7 @@
                 </li>
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ route("/") }}">
+                    <a class="nav-link" href="{{ route("filemanager") }}">
                         <i class="fas fa-fw fa-database nav-icon">
                         </i>
                         <p>
