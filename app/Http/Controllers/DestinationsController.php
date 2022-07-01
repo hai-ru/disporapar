@@ -68,7 +68,9 @@ class DestinationsController extends Controller
             ->whereHas("post",function($q){return $q->where("type",0);})
             ->take(10)
             ->get();
-        $data["destinations"] = \App\Models\Place::where("featured",1)->take(10)->get();
+        $data["destinations"] = \App\Models\Place::where("featured",1)
+        ->orderBy("order_featured","asc")
+        ->take(10)->get();
         $data["link_terkait"] = \App\Models\LinkTerkait::orderBy("created_at","desc")->take(10)->get();
         return view('template.porto_video.index',$data);
     }
