@@ -1,0 +1,725 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDkiNPZvqCSJBPGmLxnbA4Xm-j4VrLSChtf3DqlJ9T0xiwLJbJ3EHYFvPJGW8B1P39x1yb0SP5MXdeMFDyli8b3snR1zERL7HXkeY2K95BoVDjJhgK9Xd7_Dce8SRcXWEPoHL1YLYgWYlyjwefVdh2OCyDoRzU3KJ3jwaIWWKdfeJDrPVGYsqQHEcvutHr87WmEQQ8gpZrva86_-pVKPvK20qHMVXphEkmU8WlC7gXl-bhfrsKJUoVzoZH19c2o1n9Ys7ZbXrVbi2GpI4nLwqZaFn5pO4THG_jX11rVqhka8VJ_skQ5iCsSAp-AbauA_9DH8qyFmXqktKxWy7R9wxHMgiGmJtVq3MP1OdlzfRMuvq6w1XhPjtVFTxg84QPM8XbnOi23-O1U9neWkGq4zJ3AoydjQ8jJLoU2xKl4Z0esz-oRoVvDJIq0gjAyEbnoYG4gASE",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3968263,
+               "lng" : 108.9462068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3983746302915021,
+                  "lng" : 108.9475395802915
+               },
+               "southwest" : {
+                  "lat" : 0.395676669708498,
+                  "lng" : 108.9448416197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mempawah Mangrove Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105959424974419838100\"\u003eMempawah Mangrove Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDkCdZZfuRW02hTN4X7_uLAeS7-I4mjHG_P-CwZFjTNcag37Vg46al1Anm3MDfnqczJ49bsjMDONAZw8VKczpZqmlB6PR3gtj0Xj-_YtOWhX14zO389jvgTwShNYuOw49sdtfG0SmR6LJoIOQ7sSDBcvWnNjbmBhKEa6RI7sJ9qKAFk",
+               "width" : 820
+            }
+         ],
+         "place_id" : "ChIJVVVVVYXv4jERbZyRsqiWB8c",
+         "plus_code" : {
+            "compound_code" : "9WWW+PF Pasir, Kabupaten Mempawah, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGC9WWW+PF"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVVVVVYXv4jERbZyRsqiWB8c",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1216,
+         "vicinity" : "Pasir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3547366,
+               "lng" : 109.1840115
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3560837802915021,
+                  "lng" : 109.1851688302915
+               },
+               "southwest" : {
+                  "lat" : 0.353385819708498,
+                  "lng" : 109.1824708697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gua Maria Ratu Pencinta Damai Anjongan",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116421672132773691275\"\u003eCifta 21\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB0gImYGcqKO4SAwczLduO7pWCNxLBgv61UI5OjkEY6fdOWqMFB4L3DkYAYdPiihhBe8hpnppUulSlPKoBpDHQ0zV1uG5zHFi9e1imwOb7_mru9vkBDL1qtOZ9D38tm3kV1t4TXd5pC3i-lb6-YS2oP7AucsGD06K4gFU_rTeqRcICe",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAQAAAMDp4jERhTQd6H47gUY",
+         "rating" : 4.4,
+         "reference" : "ChIJAQAAAMDp4jERhTQd6H47gUY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "place_of_worship",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 171,
+         "vicinity" : "953M+VJR, Bilado"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3527740000000001,
+               "lng" : 109.1836936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3544746302915021,
+                  "lng" : 109.1847673302915
+               },
+               "southwest" : {
+                  "lat" : 0.351776669708498,
+                  "lng" : 109.1820693697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Loncek, Anjongan",
+         "photos" : [
+            {
+               "height" : 1704,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115260970004325224358\"\u003eAjie Arief\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB6QFckQfpNRNTTj7iH3yIe4QMoq9S5U0JMUncSOoeBHfqlDzOoYTGJOMc7_yp3CO4W9vN2YWwwje4ULeLwf5eu6BcJ-orCoShpdz31kGICJitDt9b9JpDcuBc7LJ8d9QLJbfoeLNSsVMvHOKeSYPBKnu4S8KWa5zjQE3OTdhKBZBI-",
+               "width" : 2272
+            }
+         ],
+         "place_id" : "ChIJIQFpJhPr4jERsD9xx0Vq5SY",
+         "plus_code" : {
+            "compound_code" : "953M+4F Kepayang, Kabupaten Mempawah, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGF953M+4F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJIQFpJhPr4jERsD9xx0Vq5SY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Dusun 1 Bilado, Kepayang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3529372,
+               "lng" : 109.1947527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3542861802915021,
+                  "lng" : 109.1961016802915
+               },
+               "southwest" : {
+                  "lat" : 0.351588219708498,
+                  "lng" : 109.1934037197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Loncek",
+         "photos" : [
+            {
+               "height" : 1704,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115260970004325224358\"\u003eAjie Arief\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAqmQUEjYIoKyzuNlscnoDHYeMxHqEIOqIWEaaNScVDK_n-HoqE0IDE6P4cbns7RgrA_4eqH5VTAFbLGDC6aLqvZ_WVDF0dWdATMWV_aMMOryVt8NCUIQVujC1TPOjBK-aFC6gYJn31Y33rLtxbGd1J7o6Q9yZoSzEWTx7XQkb24KgA",
+               "width" : 2272
+            }
+         ],
+         "place_id" : "ChIJ5wRAGBnB4jERNSf9WAxk7Jg",
+         "reference" : "ChIJ5wRAGBnB4jERNSf9WAxk7Jg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "953V+5WC, Jalan Lintas Kalimantan Poros Tengah, Pak Bulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.342502,
+               "lng" : 109.1296012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.343850980291502,
+                  "lng" : 109.1309501802915
+               },
+               "southwest" : {
+                  "lat" : 0.3411530197084979,
+                  "lng" : 109.1282522197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bakumpe'",
+         "place_id" : "ChIJd_8AkCnr4jERcQ1PSE-PNQc",
+         "reference" : "ChIJd_8AkCnr4jERcQ1PSE-PNQc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "84VH+2R, Anjungan Melancar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4075159999999999,
+               "lng" : 109.1475676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.408864980291502,
+                  "lng" : 109.1489165802915
+               },
+               "southwest" : {
+                  "lat" : 0.4061670197084979,
+                  "lng" : 109.1462186197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Bintanungan",
+         "place_id" : "ChIJCUQmatzp4jERq2iNsXIQ7RU",
+         "reference" : "ChIJCUQmatzp4jERq2iNsXIQ7RU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C45X+22, Anjungan Melancar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4102239,
+               "lng" : 109.1471898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4115728802915021,
+                  "lng" : 109.1485387802915
+               },
+               "southwest" : {
+                  "lat" : 0.408874919708498,
+                  "lng" : 109.1458408197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mentiduk'ng",
+         "place_id" : "ChIJ36pHOMbp4jERMUXzzgL7tR8",
+         "reference" : "ChIJ36pHOMbp4jERMUXzzgL7tR8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C46W+3V, Anjungan Melancar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4140487,
+               "lng" : 109.1479093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.415397680291502,
+                  "lng" : 109.1492582802915
+               },
+               "southwest" : {
+                  "lat" : 0.4126997197084979,
+                  "lng" : 109.1465603197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Balao'ant",
+         "place_id" : "ChIJ0Tn_4iHp4jERtjOKYzgC1Uo",
+         "reference" : "ChIJ0Tn_4iHp4jERtjOKYzgC1Uo",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C47X+J5, Toho Hilir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3110968,
+               "lng" : 109.1967013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3118880500000001,
+                  "lng" : 109.19877
+               },
+               "southwest" : {
+                  "lat" : 0.3087230499999999,
+                  "lng" : 109.1904952
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Hulu Sungai Purun Besar",
+         "place_id" : "ChIJK9DgIQ3B4jERsaOUpDc43rQ",
+         "reference" : "ChIJK9DgIQ3B4jERsaOUpDc43rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "856W+CMP, Unnamed Road, Kepayang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4220400999999999,
+               "lng" : 109.1180221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4233890802915019,
+                  "lng" : 109.1193710802915
+               },
+               "southwest" : {
+                  "lat" : 0.4206911197084978,
+                  "lng" : 109.1166731197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Katung",
+         "place_id" : "ChIJz6yY7Nvp4jERQ-eq7J2Sj8k",
+         "reference" : "ChIJz6yY7Nvp4jERQ-eq7J2Sj8k",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C4C9+R6, Toho Hilir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3300017,
+               "lng" : 109.2259585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3311132802915021,
+                  "lng" : 109.2273378302915
+               },
+               "southwest" : {
+                  "lat" : 0.328415319708498,
+                  "lng" : 109.2246398697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "pondok madonang",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109852204300940998409\"\u003epondok madonang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBmpP0NfNzq01y93REt9YHnRYntoi1Q6rAJcG2eXa7avplpBYUz6IyP0WLDCog9qKRqBDdeWRvVwNl2Z4p_aBhZwGcn4tr7T3Hkd5qmPyfRavtbEty1kly1Eqe_malmk6vKYh5RPei18-CkZWbAJPgpzh2IZyPj2Dx0yHDMSjS-Z8Tl",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJTfVgqIjB4jERViyS5GGJ0Js",
+         "plus_code" : {
+            "compound_code" : "86JG+29 Ngarak, Kabupaten Landak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGF86JG+29"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTfVgqIjB4jERViyS5GGJ0Js",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Anjungan - Mandor, Ngarak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4264374999999999,
+               "lng" : 109.0930625
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4277864802915019,
+                  "lng" : 109.0944114802915
+               },
+               "southwest" : {
+                  "lat" : 0.4250885197084978,
+                  "lng" : 109.0917135197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SUNGAI SANGKING",
+         "photos" : [
+            {
+               "height" : 534,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117984090054167623119\"\u003eMuhammad Idris\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDCo31Hc-3mTf0x2yEetA9ZOm4q2TaTvq97CTBXKD8s2LOVw6VBbYyvepqB-c_Ajm2vQy30OwvHZDfRokaB3OZbVY1Su9sLD7bzqyAlVyf6IvP9YpfyQhazNd1Q5z_9CQQPztjHv5KZ9L7kRdeiPog15i7MkJtrg_4SEwA9Lsh30yFw",
+               "width" : 534
+            }
+         ],
+         "place_id" : "ChIJIbEVNqvn4jERas9dm33hbb4",
+         "plus_code" : {
+            "compound_code" : "C3GV+H6 Penibung, Kabupaten Mempawah, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGFC3GV+H6"
+         },
+         "reference" : "ChIJIbEVNqvn4jERas9dm33hbb4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Boyan No.16, Sejegi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4182103,
+               "lng" : 109.0804484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.419559280291502,
+                  "lng" : 109.0817973802915
+               },
+               "southwest" : {
+                  "lat" : 0.4168613197084979,
+                  "lng" : 109.0790994197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JEJAK DODON",
+         "place_id" : "ChIJISkWPkbv4jERNV4sMFfcitA",
+         "reference" : "ChIJISkWPkbv4jERNV4sMFfcitA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C39J+75, Sei Bakau Besar Laut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3031579,
+               "lng" : 109.0894066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3044608302915021,
+                  "lng" : 109.0907462302915
+               },
+               "southwest" : {
+                  "lat" : 0.301762869708498,
+                  "lng" : 109.0880482697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata durian",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105970095265154876659\"\u003eAmir Hamzah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAbCHd7re5uFXwf3tjFihDtt8yp5h0UWbiA7VD9rjY5tDyCaIe29tnpMLoG36Zc0uC-fbWJswVgCJRUQ4_G8Wx4cXTo8I1pKwsC7ORaYDKhn6px8CdlQCnUd2Y-JAMJ73U_xaAplS3D9uAgWzY3Rfr9CwtrtVijm60VidS0R1vGa6hL",
+               "width" : 1968
+            }
+         ],
+         "place_id" : "ChIJceho29_t4jERtIGCW69hclw",
+         "rating" : 5,
+         "reference" : "ChIJceho29_t4jERtIGCW69hclw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "833Q+7Q7, Jl. Siliwangi, Sungai Rasau"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4197972,
+               "lng" : 109.0803009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4211461802915021,
+                  "lng" : 109.0816498802915
+               },
+               "southwest" : {
+                  "lat" : 0.418448219708498,
+                  "lng" : 109.0789519197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DERMAGA DANAU TEBU",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117984090054167623119\"\u003eMuhammad Idris\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkkj4ZY2-sOUHq-ZuyEvP7KrR1X7FdrhbaTDAOxoZLnVfFyyQhtDhkxkLucMIKJHy3_D03jLlTa6yTh8y2kWS0VT0j_2NfIxXBzGRmSCQLS38Qu1zgS3pMouCZjwYcAUbzoBuWFm4ldIntQHMpQGdpYf1l1Wl29adBVsHELG2HKeVh",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJFexW-TLv4jERB9B9UlSX1_M",
+         "rating" : 5,
+         "reference" : "ChIJFexW-TLv4jERB9B9UlSX1_M",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "C39J+W47, Sejegi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3565504,
+               "lng" : 109.2566682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.357899380291502,
+                  "lng" : 109.2580171802915
+               },
+               "southwest" : {
+                  "lat" : 0.3552014197084979,
+                  "lng" : 109.2553192197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air Terjun Desa Sambora",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101848354110510065532\"\u003enoor fatiha\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAW7vEE5PZA0oXnDLqdEd9j_1b5uAWVnRlqH49vh-cMUa3ufCpk7bpDtHG3oiaDE1k8wRq3-tqAUDdTDfMP1lrDbGDRgYUZcnbZDpQR5jZRt-Wi2hziqeQ7Q_-XK1z-Wa8IcLN2rBIsR6_5f6dB0U05hM1b8NllT0ZH_Zp4rbHm5qWH",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJcfuung_D4jERZMCTVT22XOI",
+         "rating" : 3.7,
+         "reference" : "ChIJcfuung_D4jERZMCTVT22XOI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "9744+JMF, Sambora"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4210417,
+               "lng" : 109.0738424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.422390680291502,
+                  "lng" : 109.0751913802915
+               },
+               "southwest" : {
+                  "lat" : 0.4196927197084979,
+                  "lng" : 109.0724934197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Onggont",
+         "place_id" : "ChIJdVO6a_bv4jERraOjKHQrBkc",
+         "reference" : "ChIJdVO6a_bv4jERraOjKHQrBkc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C3CF+CG8, Pasir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.2626578,
+               "lng" : 109.1885622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.263758530291502,
+                  "lng" : 109.1899611802915
+               },
+               "southwest" : {
+                  "lat" : 0.2610605697084979,
+                  "lng" : 109.1872632197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "menara sawit",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101848354110510065532\"\u003enoor fatiha\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDOy7aSgMbmDBGcEe4GOTeB9RXyDoTynS3PQQp66t-zhYJkWzkheF1XSPb3N7iULJQGpJE9VqW-NXzRkZKPKPo22DrokePGE3Ax7xf07ChVQgPoK__agp1C70lC86MetxjMcOwW7UZniYbs9MjdS5lG0rcIw4CeyVJvH8s3eVoTNcvS",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJa6qdSRW_4jERbx-C1bzbfR0",
+         "rating" : 3,
+         "reference" : "ChIJa6qdSRW_4jERbx-C1bzbfR0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "757Q+3C7, Peniti Besar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.2541063000000001,
+               "lng" : 109.1541183
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.2554552802915022,
+                  "lng" : 109.1554672802915
+               },
+               "southwest" : {
+                  "lat" : 0.2527573197084981,
+                  "lng" : 109.1527693197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau biru",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101848354110510065532\"\u003enoor fatiha\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECdRaMqmLVuvHYjL7kg62VfLi2Vzzllfgmh9XVUzjLrOY51IbZfHim5SMXPaaPWt69XEjSmmxBGLhV3Rd-I9qvQ7L2kSn4Ff65kEPeVgXlHk12WdVfyZY2hqp8xGVACTKkGIqrEmlhwNrwQY0jUCEkRi5KND18JgNDgM01ZC-0Y9R83",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJlRHL0haV4jERk3Wd_WXcEDw",
+         "rating" : 4.3,
+         "reference" : "ChIJlRHL0haV4jERk3Wd_WXcEDw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "7533+JJ, Peniraman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.2539346000000001,
+               "lng" : 109.1542795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.2552835802915021,
+                  "lng" : 109.1556284802915
+               },
+               "southwest" : {
+                  "lat" : 0.252585619708498,
+                  "lng" : 109.1529305197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Da",
+         "place_id" : "ChIJG0G0AtCV4jERR2sPlqDXqMg",
+         "reference" : "ChIJG0G0AtCV4jERR2sPlqDXqMg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "7533+HP, Peniraman"
+      }
+   ],
+   "status" : "OK"
+}

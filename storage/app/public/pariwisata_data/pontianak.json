@@ -1,0 +1,845 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDIKJI9GENhCCJb4RogkiSU-XHOYJHANAObQLS3FVIOFvEMZUWYpzVtvn-bMUrC4ZjvIZvBqbNK9xAp673Crt2YmvLG8m_v_R2-CPpDFtk6HpHzEsK3tPuZoqR3W9aqM1fcGvAZtsZ-dvlWUXbT0TXtuoxZT6dgAAAc-o-YqOBKZxU_dVWNmYJmwerZ0XDw9ixDaGJhPj_fY3mhPK2p_CPro1Flx8px5tZG7b6nZfrICUJNiU4cwAIU5MP45vw6JCKzurt7VIfcVKzwM5JHS0-BvcF8Q4i5EZ4smTcH-sWQNss8QmOXNaBPq3NxE6xKr5SVpDAP_hBEbAA0bitTx8Thbu4nl1QyqysiEXKXei4PW5_pPo31rsA2gYlPe8KMMovsheylwi7vfvQrqnW-N_rRs6LK-lnWqinxrBnTb83ITAFYEGRGUDayDjJYsVIYr5Mjshs",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0273212,
+               "lng" : 109.3380823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02575981970849797,
+                  "lng" : 109.3393619802915
+               },
+               "southwest" : {
+                  "lat" : -0.02845778029150203,
+                  "lng" : 109.3366640197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Gereja Katedral Santo Yosef",
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115141100326233054087\"\u003egavin frinsley\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAwfvp8TIc-kee2r1W6xTmlrrv6OTqt7CgcwMDDBSUe_vv8xTAd-VVZaw046KyweLMJ1cTiNS078c5Z0OZkPSvwledUJ8lmyQh9tlmsrLxjJlhR7Nnfam6puoLloK6uHLxIzaaZRD_2y3IR2yU4Mt3zopDkqUMgd7RXRNPEG-q8OHFI",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ-0wAllBYHS4RL6LrTFQKC5c",
+         "plus_code" : {
+            "compound_code" : "X8FQ+36 Darat Sekip, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX8FQ+36"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ-0wAllBYHS4RL6LrTFQKC5c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2683,
+         "vicinity" : "Jalan Pattimura Indah No.195, Darat Sekip"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0207794,
+               "lng" : 109.3393204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.01958421970849797,
+                  "lng" : 109.3402919802915
+               },
+               "southwest" : {
+                  "lat" : -0.02228218029150203,
+                  "lng" : 109.3375940197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kapuas River Cruise",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 611,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101318633019470805801\"\u003eBunda Rara\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAgK3UmH1mZ9L3ytaJt6F4Me8546aelu8l9cpr-v0P9ivJWk6HTITJHfrGI5DSw-gZXGaXaMkQvN30Axzg5vjMUo957b9ZNFkCUKRNlmS93X5OG5nNOChZrUKlx2R-OHRsD4OQJcXrzFMWzmsWScAqqyOaZnLVnTfLnu27duhGaRQWL",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJXcGpQ1xYHS4R-u7PQJudujQ",
+         "plus_code" : {
+            "compound_code" : "X8HQ+MP Siantan Tengah, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX8HQ+MP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJXcGpQ1xYHS4R-u7PQJudujQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "Jalan Rahadi Usman No.2, Siantan Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.02112,
+               "lng" : 109.3396446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.01988596970849797,
+                  "lng" : 109.3406353802915
+               },
+               "southwest" : {
+                  "lat" : -0.02258393029150203,
+                  "lng" : 109.3379374197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Miniatur Tugu Khatulistiwa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110403687697896746083\"\u003eMulyadi Ardiansyah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED9M4C41rqXJZv3ECDubTHx01gXDvvxbWUEvfTi-LeKWz8-ttLhasGQM7PaGJs7zYnfH-zQUma2KIg75BPrvPXSdDmu88gi8j-AX0Usp9dnQ1US3Ou5BPxZ7bFn7vDVY2rUWwt8Nsh8RYJOJ153JacCXkv9LkJPs6PeO4xmpTWkWqCL",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJlwDhYVxYHS4Rw_WqB6zlUcE",
+         "rating" : 4.2,
+         "reference" : "ChIJlwDhYVxYHS4Rw_WqB6zlUcE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "X8HQ+HV2, Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0215568,
+               "lng" : 109.3393574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02030111970849797,
+                  "lng" : 109.3406159802915
+               },
+               "southwest" : {
+                  "lat" : -0.02299908029150203,
+                  "lng" : 109.3379180197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Alun Melayu Kapuas",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110195660828410379521\"\u003ericky tanujaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDV9u6SdWmE4bce7aeVfXVhgfXYCKdcnvwYLZsVSo40yvSfqEnnQ4bvLR9hjebKNZZCRmnN6jV0H15Nlil5A06s3SyXX8BdJiA1GBQ_rml2WPS0vTxMQwYGzt3i5tvjiv-gBOrFwfGj1JbRt7RejwfLRHX_Yy4OhIAlP98D-fxXpxbc",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJC15Cx1pYHS4RY9v-z4bp_50",
+         "plus_code" : {
+            "compound_code" : "X8HQ+9P Tengah, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX8HQ+9P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJC15Cx1pYHS4RY9v-z4bp_50",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12334,
+         "vicinity" : "Jalan Rahadi Usman, Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0223063,
+               "lng" : 109.339648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02106706970849797,
+                  "lng" : 109.3411384302915
+               },
+               "southwest" : {
+                  "lat" : -0.02376503029150203,
+                  "lng" : 109.3384404697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Air Mancur Alun Kapuas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102871313819174937879\"\u003eAkun Dewa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB37YHPlcKVJPqNsVigSqk4RiHm7oGicrLmmnk9ksr5kOIGyUpO8ZNYSQZvHQUQZLEums25ZiYhtTKTNQm6gNA6HyNx1IdId_NajGKl3cd6kWpnsFswRYj2S-5R_x55MD39cNrqFsV_GLBslG9fGEAOGzmNjuHXQ6R7yp3Bb04yhxLC",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ0acHgltYHS4RzF5i0J9-rbI",
+         "rating" : 4.5,
+         "reference" : "ChIJ0acHgltYHS4RzF5i0J9-rbI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 116,
+         "vicinity" : "X8HQ+3VC, Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0288441,
+               "lng" : 109.3498122
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02744011970849797,
+                  "lng" : 109.3510896302915
+               },
+               "southwest" : {
+                  "lat" : -0.03013808029150203,
+                  "lng" : 109.3483916697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Keraton Kadariah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3346,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100189107371172834862\"\u003eAsriel Aja\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAPLpR1lFhHplHsEQjnS-kxrpNEz4US2IENXbe3zAwtvX_xlX_8FkYRonJpdUmKlUkJ-5PbfXu_FJ0zhPo5lCIdkQSM5mCBG9A_yGadSYIYZXC37nX7-Ep4uUEvhM53uNEA4KWs0WguOfPKZIRntV7O0ZaInnqTg3a2Kx7HryRTVbT0",
+               "width" : 4411
+            }
+         ],
+         "place_id" : "ChIJa2AmIklYHS4RfDfcCWMPGTA",
+         "rating" : 4.6,
+         "reference" : "ChIJa2AmIklYHS4RfDfcCWMPGTA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "premise", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2119,
+         "vicinity" : "X8CX+FW7, Jalan Tanjung Raya 1, Dalam Bugis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0176791,
+               "lng" : 109.3400037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.01626781970849797,
+                  "lng" : 109.3415764802915
+               },
+               "southwest" : {
+                  "lat" : -0.01896578029150203,
+                  "lng" : 109.3388785197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tempat perbaikan kapal",
+         "place_id" : "ChIJJ83AJUpZHS4Ro07J11Y8g5s",
+         "reference" : "ChIJJ83AJUpZHS4Ro07J11Y8g5s",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "X8JR+W2C, Siantan Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0209201,
+               "lng" : 109.3375123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.01953446970849797,
+                  "lng" : 109.3388666802915
+               },
+               "southwest" : {
+                  "lat" : -0.02223243029150203,
+                  "lng" : 109.3361687197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Tugu Pancasila",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100944957470778230925\"\u003eEka Marta Cahyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDcird4mdJ4ohE05zK8VW20eABW9EPRv7nh7d2GAZV8XB121WVSr4to6cpbfdr9ELQd6giCAIT4sUmS1hFX4yLJh4mU4M7_u8CwKLDd7II2bbqz9ZTue2dgOYOEXFW1YWncULIvFEgMitkIVgWWpfJ0hJlFIqmkC_34k3afAItwJp9n",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJZ8_XFlxYHS4Rb5G7l5jc2mc",
+         "rating" : 4.5,
+         "reference" : "ChIJZ8_XFlxYHS4Rb5G7l5jc2mc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "X8HQ+J2J, Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.02186639999999999,
+               "lng" : 109.3402726
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02055856970849796,
+                  "lng" : 109.3416746302915
+               },
+               "southwest" : {
+                  "lat" : -0.02325653029150202,
+                  "lng" : 109.3389766697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jembatan alun kapuas - water front",
+         "photos" : [
+            {
+               "height" : 886,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114556719759509920890\"\u003eJeki Suryadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBGrGqwiMbtCYgs6CMhu9-3NSFmXxbDiSRgxJrfi94ABG2Y9pwY_MF7IUUbMCcWr0b5snqZ1zYorMtVFl96gAvFkXfGVskttglx9O7n_r_-bV7Jmd69fscJnJv9j-uZbIi7xEf1mCVAWNMgwsjR0ITBHrdUspMf_3UcS_LoM1KAveO9",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJdxrD2e9ZHS4RAfkkFjCrMEs",
+         "rating" : 4.8,
+         "reference" : "ChIJdxrD2e9ZHS4RAfkkFjCrMEs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "X8HR+742, Jalan Rahadi Usman, Darat Sekip"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0258609,
+               "lng" : 109.343254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02451041970849797,
+                  "lng" : 109.3446021302915
+               },
+               "southwest" : {
+                  "lat" : -0.02720838029150203,
+                  "lng" : 109.3419041697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Curup rejang lebong",
+         "place_id" : "ChIJicRulbJZHS4RmGQzcX9qszY",
+         "plus_code" : {
+            "compound_code" : "X8FV+M8 Dalam Bugis, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX8FV+M8"
+         },
+         "reference" : "ChIJicRulbJZHS4RmGQzcX9qszY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Pasar Tengah, Jalan Asahan, Dalam Bugis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0297353,
+               "lng" : 109.3408299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02832806970849796,
+                  "lng" : 109.3421489302915
+               },
+               "southwest" : {
+                  "lat" : -0.03102603029150203,
+                  "lng" : 109.3394509697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fenny Home",
+         "place_id" : "ChIJR4ZL5SBZHS4Rd31JplZf_yM",
+         "plus_code" : {
+            "compound_code" : "X8CR+48 Benua Melayu Darat, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX8CR+48"
+         },
+         "reference" : "ChIJR4ZL5SBZHS4Rd31JplZf_yM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Gang Gajah Mada 10 No.1"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.02895099999999999,
+               "lng" : 109.345977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02763476970849797,
+                  "lng" : 109.3472452302915
+               },
+               "southwest" : {
+                  "lat" : -0.03033273029150203,
+                  "lng" : 109.3445472697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pelabuhan Seng Hie 成喜港",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117429652610327841936\"\u003eBang Yadi&#39; Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDKuLmfgV2MsNmQQ2tVDZkYy4JJf83kuZY2Ps9kctOWo6EM1gJNqzIUqeJU2lU8ObBectfF6t-AgkmgVaentexzDV7KOuV8YufANj9xPdLO1BT5FL7pcmjTLG4uq0yBv1G8UQFmbvSHyXdzjdIHTupLNSDvwtGr54BDOL8jR4BJZ-J3",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJmQHg-05YHS4RcuAtbwhBppo",
+         "rating" : 4.4,
+         "reference" : "ChIJmQHg-05YHS4RcuAtbwhBppo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "natural_feature",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 551,
+         "vicinity" : "X8CW+C99, Jalan Sultan Muhammad, Benua Melayu Laut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0300463,
+               "lng" : 109.3378344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02878046970849797,
+                  "lng" : 109.3389544302915
+               },
+               "southwest" : {
+                  "lat" : -0.03147843029150203,
+                  "lng" : 109.3362564697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "PontiBonti, Toko Oleh Oleh Pontianak Cokroaminoto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 855,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116030296361984665877\"\u003ePontiBonti, Toko Oleh Oleh Pontianak Cokroaminoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnGiQuYX36NJgHlljwzpRIgq4skQT3B-UqwimUwlCn5_z4i2SRh8gBtufZr0uTR5dl8eSwqOo5gBenm2VVxq-vCsGJvXpCGizFxTRlMGJCIXHN4O1YgO44kIxCi84DJ0bXawJXNvm5HRscPSbiJTJidy_6JDY-sXNXyJthzlqZK_BK",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJe5GjRFFYHS4RLslSDdcbvpM",
+         "plus_code" : {
+            "compound_code" : "X89Q+X4 Darat Sekip, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX89Q+X4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJe5GjRFFYHS4RLslSDdcbvpM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 185,
+         "vicinity" : "Jl. HOS Cokroaminoto no. 15 deretan centrum pasar mawar, Darat Sekip"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.029563,
+               "lng" : 109.3460306
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02821346970849797,
+                  "lng" : 109.3473288802915
+               },
+               "southwest" : {
+                  "lat" : -0.03091143029150203,
+                  "lng" : 109.3446309197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Waterfront kota Pontianak",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114563010616608260521\"\u003eawal pribadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQGM33wp_x00BQf-GKtKqWM25tyIfmMzx95CqEllkFnQ35NMmaUFGmS39TLGZL_3DE_BzbI1fbxF_kNB4Tw0x1DeJjQXvTsAfspqJpH5nxgR5MwFfLoMUPBBawnb3RHLF8kdKOAmc4nhnC2Wyan07rUiPKeoDXw66z_4RYxJCEACYp",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJl5BJ-NdZHS4R2L0ExxMETL4",
+         "rating" : 4.6,
+         "reference" : "ChIJl5BJ-NdZHS4R2L0ExxMETL4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 177,
+         "vicinity" : "X8CW+5CC, Benua Melayu Laut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0298054,
+               "lng" : 109.3463498
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02835921970849797,
+                  "lng" : 109.3474780302915
+               },
+               "southwest" : {
+                  "lat" : -0.03105718029150203,
+                  "lng" : 109.3447800697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata cafe terapung kapal keliling",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112067192818188884371\"\u003eapri andi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB98O0_gP5AifrmAxISaNbf9LU6ILxsiHpkgaa4u2jsUL-Xesn0oXKZYIspzeM5TvIQU59jdy82G46ppxrpF-UcNForjxw2QUEFDbQ3UUuVTxF__Y1gM-v10Qfy0M2UwKN2M7yGxyx5V6jA5F5n-HQWmKn-EE-OT96cSp27jqzoV8RA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ617biZhZHS4RG16DRr0bRRY",
+         "rating" : 5,
+         "reference" : "ChIJ617biZhZHS4RG16DRr0bRRY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "X8CW+3GH, Benua Melayu Laut"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0227317,
+               "lng" : 109.3230025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02138536970849797,
+                  "lng" : 109.3243429302915
+               },
+               "southwest" : {
+                  "lat" : -0.02408333029150202,
+                  "lng" : 109.3216449697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kampung sayur pontianak",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110788034993154035728\"\u003ePriyono Bibit pontianak\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDf35wj8IMhUaU592mwvjAwCw9NI-2McaD25tTWlCUZOotlzvZKfqLIxwdT9YGq1-8MtI2RiNidD140RRiJHYKZ7yKB1zNRlpEMnHUerHFyM0gv5DsgYFV6QT2zNo_Z7a6msg4aAU7SCujp5Z33HJwaX1skNvB7s4GhP6so0E8gWNrx",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJF3eXfnJZHS4RBb9JyoMCyPM",
+         "reference" : "ChIJF3eXfnJZHS4RBb9JyoMCyPM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "X8GF+W62, Gang Nilam 7, Sungai Jawi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0308199,
+               "lng" : 109.3464655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02935426970849797,
+                  "lng" : 109.3477458302915
+               },
+               "southwest" : {
+                  "lat" : -0.03205223029150203,
+                  "lng" : 109.3450478697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Home Bunda",
+         "place_id" : "ChIJT5DJAe5ZHS4RpCNGXT28pxE",
+         "reference" : "ChIJT5DJAe5ZHS4RpCNGXT28pxE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "X89W+MHG, Benua Melayu Laut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0311964,
+               "lng" : 109.3469594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02990336970849797,
+                  "lng" : 109.3482577802915
+               },
+               "southwest" : {
+                  "lat" : -0.03260133029150204,
+                  "lng" : 109.3455598197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Riverfront Kapuas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100836420376423155851\"\u003eBukhari Ramadhani\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA3qH5Mooe2xpeGSb2mThm87KG8dyMURe5zC9fYr5YxP3pQOM9bXosmJlJDhPAPO8dR_O_1Buz8kfLZ1hVp6LgrbFbVjxhl0MwOv6mB_CMdwdGM2fR21X7qsQd-xCq3xqSwNn9KLp66F0c3QixdmTVaFnAq6_7xoTtb9h9xE6dKUllR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT19aIkxYHS4RnTGHX_8bwNE",
+         "rating" : 4.5,
+         "reference" : "ChIJT19aIkxYHS4RnTGHX_8bwNE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 107,
+         "vicinity" : "X89W+GQG, Benua Melayu Laut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.78e-05,
+               "lng" : 109.3216806
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.00137573029150203,
+                  "lng" : 109.3230601802915
+               },
+               "southwest" : {
+                  "lat" : -0.00132223029150203,
+                  "lng" : 109.3203622197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tugu Kulminasi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103815502225716042472\"\u003eChris Tian\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA8EQ2UbnaTTymzlNhH1CAoUbvxp1q53ZbBNAFyvYv4drT8adsJpPVvSkZi-Vkt2Xp1NSlQPCHZcjOxjzaQH9RHGGfBpef9MUqMGRTurmLAk6skV-DhCZ5-llP43zG_oiloofsKpUsHbmZd6Cwy7NEAbn4jpYOgzTgLAA_jNZyOaPJ3",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ75wvgIJYHS4RI78I3s4CGxI",
+         "plus_code" : {
+            "compound_code" : "X8XC+XM Siantan Hilir, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFX8XC+XM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ75wvgIJYHS4RI78I3s4CGxI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 146,
+         "vicinity" : "Jalan Khatulistiwa No.300, Siantan Hilir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0009995,
+               "lng" : 109.3222052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.00246978029150203,
+                  "lng" : 109.3236149802915
+               },
+               "southwest" : {
+                  "lat" : -0.0002281802915020299,
+                  "lng" : 109.3209170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Khatulistiwa Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100248740018990053636\"\u003eKhatulistiwa Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAzgiLgRuMAhn1WBXUCnYAEtInmOtCtb1ebIwV9OtSSwDxOA6TiUIi3Pt-QyQji3KoW_0UTbRzJMkiymIbTDg2VnceJyJQLYhVxMk8bZQitq_dr_mAqhJxWPV4gHyR22gb0vMyg16KXQhHzGJaGj_x1Bl1ad1KxdHPoc7Ob7RGi8LMA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHdQYf1un4jERKKB-pOCSmZU",
+         "plus_code" : {
+            "compound_code" : "282C+9V Batu Layang, Kota Pontianak, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGF282C+9V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHdQYf1un4jERKKB-pOCSmZU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "museum",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7179,
+         "vicinity" : "Jalan Khatulistiwa No.Kel, Batu Layang"
+      }
+   ],
+   "status" : "OK"
+}

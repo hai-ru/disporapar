@@ -1,0 +1,768 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECWX1rU7FRfuuKBCcJQ7IEhIKDX_NaDiuD-eGCok81QhXDAz6kxmrKf3zspoFnYY63_5xmyVtEl0rtm9W-_WFbUJIYyyX5s1epgzGFoQPhfjCGJgfx1U62u8sjhQN9cmyxFxzpr9JDYIf-uMV2bP3YSxZPBZNUOgj315_6Tj3k99GKn44g-EWnl0bLxnKq9Ch2FGBdjsufUtOZJTVUw_86cXSY_H8ipkSzIYnlfAo_Hta8bMaESGLzC_7IzEKZnkhna9fVbZYplhgZ2OLudF--HXIf6DFZgytvo_XeKkGOECsjMD-pDqleNchWUQcvjalgw1DQRde_H-ApVJhl5lUkkqAnoqWWiYyxjN8GcBf6jME7CKUZGeUpbMGPbvSzCBkNGVuieO3L4fBGptprPSOBEhNDianIrSoJB1y6xZfv70UEmT2rVCVMBdYfFOJ7xwYblE0A",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1162623,
+               "lng" : 110.5821351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.117681280291502,
+                  "lng" : 110.5835107802915
+               },
+               "southwest" : {
+                  "lat" : 0.114983319708498,
+                  "lng" : 110.5808128197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ff max",
+         "place_id" : "ChIJ16U5-nuP_TERslkUa7Bj5KU",
+         "rating" : 3.8,
+         "reference" : "ChIJ16U5-nuP_TERslkUa7Bj5KU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "4H8J+GV2, Ilir Kota"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1203801,
+               "lng" : 110.5978863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.121803330291502,
+                  "lng" : 110.5992131302915
+               },
+               "southwest" : {
+                  "lat" : 0.119105369708498,
+                  "lng" : 110.5965151697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Eet",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ5_Q0aBWP_TERIVXmwNW_kOI",
+         "reference" : "ChIJ5_Q0aBWP_TERIVXmwNW_kOI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "4HCX+552, Jalan Kartini, Ilir Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1248349,
+               "lng" : 110.5982079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.126156830291502,
+                  "lng" : 110.5995632302915
+               },
+               "southwest" : {
+                  "lat" : 0.123458869708498,
+                  "lng" : 110.5968652697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Bumi Daranante",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117610846957370234286\"\u003eMASIH HANGAT CHANNELS\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA2V8WLG9umLKXuNOhlHhl0jx-BE1vGT4S6bD75YLz_SGOwm46UG6OpuyHaqYu2xqTMOKntTPLNnHSg8dLHBnLBQYP_GOOM3BpVvg3JSHbWBIfTey1WCSRi613tDOfVlRTmpJa5aCfHM9kUxBbdsvctMR0jNc6anGSSSmKm9lkOIr--",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ0TlEYxSO_TERQaNUjth6vAU",
+         "rating" : 4.4,
+         "reference" : "ChIJ0TlEYxSO_TERQaNUjth6vAU",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 127,
+         "vicinity" : "4HFX+W7P, Ilir Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0998536,
+               "lng" : 110.5674597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.101173280291502,
+                  "lng" : 110.5687936802915
+               },
+               "southwest" : {
+                  "lat" : 0.09847531970849796,
+                  "lng" : 110.5660957197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Wisata Pancur Aji",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100015352764810635735\"\u003eSUPARWAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDIBc5O6FGU96_-j8j1_BZNHmzh8dmy_dAsgyyQzjvOB83dH9lU-5lbPDu_nUCKNTw1_Ih1a3jig9iLpchrWi_2GaCdgeHADpt9fcyXbtRGcLhs3dm4o3HOXP7KcgoBid60uvEsrV3G1QU0-ueiPtVpvn-FVrGNOJf5LmC4U8M8NgRe",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJMfAvO5OP_TERb0iaqCQcu2Q",
+         "rating" : 4.9,
+         "reference" : "ChIJMfAvO5OP_TERb0iaqCQcu2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "3HX8+WXW, Jalan Sanggau Permai, Beringin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1140608,
+               "lng" : 110.5689399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.115424330291502,
+                  "lng" : 110.5703166302915
+               },
+               "southwest" : {
+                  "lat" : 0.112726369708498,
+                  "lng" : 110.5676186697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kartini",
+         "place_id" : "ChIJgfcEoNmP_TERlMgm-aS3gk4",
+         "reference" : "ChIJgfcEoNmP_TERlMgm-aS3gk4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "4H79+JHG, Jalan Pancur Aji, Beringin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1217007,
+               "lng" : 110.605967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.123032580291502,
+                  "lng" : 110.6073201802915
+               },
+               "southwest" : {
+                  "lat" : 0.120334619708498,
+                  "lng" : 110.6046222197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Siring Sanggau",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114466368557496086166\"\u003eMatalika Silpa Mandala Putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA4eHIE8DldLHWj8J7XP5jRIE77O5dzRAVenBVBsGlmaCYCRsvA1oz01PuhxDqwHyc6TOPzE5GdxqcrP0V-oUkitcIVV5fIxO508ne6_rKw-YriWaFlzKMBbHlqr8DyznSmivSdbuWOvMo0OqawWro29CH_lmepa6_KSNAF3cSbB6nd",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ8Vyo7OaP_TERLJXec0a9Zok",
+         "rating" : 5,
+         "reference" : "ChIJ8Vyo7OaP_TERLJXec0a9Zok",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "4JC4+M9P, Jalan Mangga, Sungai Sengkuang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1220857,
+               "lng" : 110.6068768
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.123431880291502,
+                  "lng" : 110.6082275802915
+               },
+               "southwest" : {
+                  "lat" : 0.1207339197084979,
+                  "lng" : 110.6055296197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kawasan Istana Surya Negara",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104786843692294239988\"\u003eRamanda Kusuma Wiguna\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDt6Giy9uo1-3z5qeyDGmiVO8-TVeggOjFlsytMw8XDUGKAx8p5-KgURLG7GBpaIEldsig1ZTThi3Tel_co-GM-Q8pYPDocQd8U9wr5NLdBOz_UiqFtMcj4pp1W9RebqRSGjLxktmhuGef4qgXWAyEcxNgUrd1nZhckM9P2Qdcz7Ilt",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJxxgyCx-P_TERBjhkp8AJKvU",
+         "plus_code" : {
+            "compound_code" : "4JC4+RQ Sungai Sengkuang, Kabupaten Sanggau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGG4JC4+RQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJxxgyCx-P_TERBjhkp8AJKvU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Taman Muara Kantu, Jalan Durian, Sungai Sengkuang"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1216297,
+               "lng" : 110.5719799
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.122917680291502,
+                  "lng" : 110.5734585302915
+               },
+               "southwest" : {
+                  "lat" : 0.120219719708498,
+                  "lng" : 110.5707605697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kolam Renang Pak Donat",
+         "permanently_closed" : true,
+         "place_id" : "ChIJi-vl8TmP_TERi7KGltfCN40",
+         "reference" : "ChIJi-vl8TmP_TERi7KGltfCN40",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "4HCC+MQ5, Jalan Wisata Pancur Aji, Bunut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1220823,
+               "lng" : 110.6085451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.123427130291502,
+                  "lng" : 110.6099415302915
+               },
+               "southwest" : {
+                  "lat" : 0.120729169708498,
+                  "lng" : 110.6072435697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Water Front ,Kampung Sentana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101722722652283776499\"\u003eYuli Yuliantini\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBg9XpjKFJXSX72aCt6rB5iQD3PGIs1ilWJwHvQ0InO4BFhO1QmhEZuzqrXW79jliWqL8OoJ-vuqVMUQ6SwqMwoKNjQFfMd-IG1e7UmsXSk24q8CsW6VWz9pF5vTJJ1jCgQ3H2adqi6Vo8xg0JFeNZWvIgBy5iFYrBVVMDCMEIXD84-",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJWzBvMnOO_TERiX8sVgC7w-Y",
+         "plus_code" : {
+            "compound_code" : "4JC5+RC Tanjung Sekayam, Kabupaten Sanggau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGG4JC5+RC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJWzBvMnOO_TERiX8sVgC7w-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 241,
+         "vicinity" : "Tanjung Sekayam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1250753,
+               "lng" : 110.6093665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.126427030291502,
+                  "lng" : 110.6106997802915
+               },
+               "southwest" : {
+                  "lat" : 0.123729069708498,
+                  "lng" : 110.6080018197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Taman Sentana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104786843692294239988\"\u003eRamanda Kusuma Wiguna\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECbPewMBO5lUFyzj016rO6pm-szuqXc3w_SZlvF9c1NwopkEwjgrZoo-wR9rIqyTILzusy2thgkBH_o8xV06KOqsK3nK4UfFAwoTPvlYjcOx_UVYlhSy9De02ezfHSE_dbMY9g7_ImSpGeQcbla1svAc9Hb1BH2rcKfZR81okxsKhyy",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJQUx7JnOO_TERDUBhk1ukHhk",
+         "rating" : 4.4,
+         "reference" : "ChIJQUx7JnOO_TERDUBhk1ukHhk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "tourist_attraction",
+            "park",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 211,
+         "vicinity" : "4JG5+2PQ, Jalan Pangeran Mas, Sungai Sengkuang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1300934,
+               "lng" : 110.6065143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.131402930291502,
+                  "lng" : 110.6076471802915
+               },
+               "southwest" : {
+                  "lat" : 0.128704969708498,
+                  "lng" : 110.6049492197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "bg zul",
+         "place_id" : "ChIJx-m4CjyP_TERlHNIfokhrjE",
+         "reference" : "ChIJx-m4CjyP_TERlHNIfokhrjE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "4JJ4+2JJ, Sungai Sengkuang"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1370534,
+               "lng" : 110.5984409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.138476230291502,
+                  "lng" : 110.5997208802915
+               },
+               "southwest" : {
+                  "lat" : 0.135778269708498,
+                  "lng" : 110.5970229197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "MDC(MakDiwa)",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103695108587800568584\"\u003eFaisal Caiii\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDHipB79KIxqswQXt6ciPLvvud64GS7NrDbzSkmujdBDPoML0V1hAy49mNehXn_C05THnna__SitaAAzgWloL_Dk6uy92ZCR3VJJ2X4gjN-uesHds0gmx3WTtJJAkuLw0hTo2oSRkB6-f5LtHRlKAaTH2fMDHw_YLFUw37TPdZW0PnH",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJw9Mn0QKP_TER1zhij_DfC8I",
+         "rating" : 5,
+         "reference" : "ChIJw9Mn0QKP_TER1zhij_DfC8I",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "4HPX+R9G, Ilir Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1407614,
+               "lng" : 110.5533486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.141994230291502,
+                  "lng" : 110.5546572302915
+               },
+               "southwest" : {
+                  "lat" : 0.139296269708498,
+                  "lng" : 110.5519592697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Sabang Merah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115470598839171393032\"\u003eCUT DESI ZALINAR SSI\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECM3yKDpqD6rrQ7AZ0CXPcldPmtoMyvGS3uIr3g0Kx6uTtN5OeRAGpHkaAbAEzREKqbw7ewhjr3Hbb15wFpM1IBDG6bzTRzK6PmMMUcJamt1PVaxKNy1Mto4RMcA0KHvhIEx1Jzafa1ONqgz5bScJX1L3Iklz620xlBUSS9e_dlYqV0",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_2MuJSeQ_TERCAqQQyc1uPI",
+         "plus_code" : {
+            "compound_code" : "4HR3+88 Bunut, Kabupaten Sanggau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGG4HR3+88"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ_2MuJSeQ_TERCAqQQyc1uPI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 296,
+         "vicinity" : "Jalan Sabang Merah, Bunut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1379161,
+               "lng" : 110.5377243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.1387870999999999,
+                  "lng" : 110.5386939
+               },
+               "southwest" : {
+                  "lat" : 0.1353031,
+                  "lng" : 110.5348155
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata My Dream",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100730148015708257648\"\u003eWisata My Dream\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECxuz0tQY87rBij6nfXi0C29KEKRec78pUl-_3V-3lI3tEK9RkAgRjJavCjg0Ueua83glAWQ-P94Qvmn91Jww3hKZonp11ouXcm6o8ohrAUAevOUbH_Dr3riLC0VzLTzIJ22dwQGOvAhiy3AZri83D5-eEa14wzYQ85y8vXcvkR0b6Z",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ8WD2BXmP_TERyZTObG9yMJA",
+         "plus_code" : {
+            "compound_code" : "4GQQ+53 Sungai Mawang, Kabupaten Sanggau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGG4GQQ+53"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ8WD2BXmP_TERyZTObG9yMJA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "Sungai Mawang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0341888,
+               "lng" : 110.5996271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.03535158029150204,
+                  "lng" : 110.6007351302915
+               },
+               "southwest" : {
+                  "lat" : 0.03265361970849797,
+                  "lng" : 110.5980371697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dangau Datok JAYA",
+         "place_id" : "ChIJ31NQRZiJ_TERIg1YaC5ZvXY",
+         "reference" : "ChIJ31NQRZiJ_TERIg1YaC5ZvXY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2HMX+MV, Lintang Kapuas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.02444,
+               "lng" : 110.5669749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02153525,
+                  "lng" : 110.5688291802915
+               },
+               "southwest" : {
+                  "lat" : -0.02540825000000001,
+                  "lng" : 110.5661312197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Macan PT. Erna Sanggau",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117610846957370234286\"\u003eMASIH HANGAT CHANNELS\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB0Jv1LVeqJHtgj-bjInGe0mh4dRSesWJuRG3kj5lpEt7omvG4U5We2UMqetd_djjGjjjSHmAxP2VdVsvZCXIkVimVR8MZGkwL2RCa3GyAC9JWRye0eE5hgNHdDbCXiweUMvLJDAr3TZuslUI2XKuER0L4B5byocsKDcxtdOtVpRQIk",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJmThLHtB3Ai4RNk3gJNkLuIQ",
+         "rating" : 4.3,
+         "reference" : "ChIJmThLHtB3Ai4RNk3gJNkLuIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "XHG8+6QH, Belangin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0208125,
+               "lng" : 110.6300625
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.01946351970849797,
+                  "lng" : 110.6314114802915
+               },
+               "southwest" : {
+                  "lat" : -0.02216148029150203,
+                  "lng" : 110.6287135197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Asam padu tiga",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110065961503155721659\"\u003eirwan saputra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDJ2UQhHo13abMOpL3dwX8T3ysREKKv2d0RpQ6MK59OIEV62Gly0EwFBM4QPct_4aXtHvyh60LpwHgD2ZRtYtqNWAxFHckYH1H1MaZlDqYohiX-ZmWE4Kvn7jDmXWGl31lvWjBJzHkm1iDSLNABCTGfYDMe09GlMUV9ix_fn5KJz1xf",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJHWmfHTV1Ai4RosSSDi3sfjs",
+         "rating" : 5,
+         "reference" : "ChIJHWmfHTV1Ai4RosSSDi3sfjs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "XJHJ+M2, Nanga Biang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.236594,
+               "lng" : 110.6135786
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.24276935,
+                  "lng" : 110.6148530802915
+               },
+               "southwest" : {
+                  "lat" : 0.23453555,
+                  "lng" : 110.6121551197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Setinting",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103002122806600224763\"\u003eRahmat Wok\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBPM6V5kbWBD_QJGS36uDMD1UCpKZEeFE6LY-_kfOTrl8DmunJtBcURRPo-ATmnQDO4JClZJi_bwhyeC3rwtT-Zw96B5HdFKrJ88HA1uvXuxgLWRoy86IqZIB5dsPQSbMMoZAulMjhNMqooQ0knbQuU0pChfxHmCAhvD0OcFW1EySRz",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJfXYKMRuX_TERvhZewqN6Pj0",
+         "rating" : 5,
+         "reference" : "ChIJfXYKMRuX_TERvhZewqN6Pj0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "6JP7+JCP, Mengkiang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0303834,
+               "lng" : 110.7252088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.03196498029150203,
+                  "lng" : 110.73131065
+               },
+               "southwest" : {
+                  "lat" : 0.02926701970849797,
+                  "lng" : 110.72317485
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Padong Jurong",
+         "place_id" : "ChIJbf1Estf1_TERiVm45KCvrhc",
+         "reference" : "ChIJbf1Estf1_TERiVm45KCvrhc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2PJG+534, Inggis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0449173,
+               "lng" : 110.5502295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.04356831970849797,
+                  "lng" : 110.5515784802915
+               },
+               "southwest" : {
+                  "lat" : -0.04626628029150204,
+                  "lng" : 110.5488805197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gurong manah",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114463530009903248860\"\u003eBang Dhe_Channell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDzq4K4lvqvkKY0spp1YWYgMlgamMDQ9aqmt4iHxH3uL5ezlyJyHPcO6DjsFYozkbX_eHpV-1_5j7wcOVmnK_8A557uRlioGQPjyffYty2a4I4VSXCtF87lWjz1sDqb92HQejQealpmPJAv1xHVXrGQuqjQC0g8KNv3Pnj7O6-rQ5Ox",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJzeqhMvR3Ai4RlxnAqvVDTQ4",
+         "reference" : "ChIJzeqhMvR3Ai4RlxnAqvVDTQ4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "XH42+23Q, Lintang Pelaman"
+      }
+   ],
+   "status" : "OK"
+}

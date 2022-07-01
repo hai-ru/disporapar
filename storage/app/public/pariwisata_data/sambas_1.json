@@ -1,0 +1,176 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3642696,
+               "lng" : 109.3231273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.365544180291502,
+                  "lng" : 109.3243919302915
+               },
+               "southwest" : {
+                  "lat" : 1.362846219708498,
+                  "lng" : 109.3216939697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Lunggi Sambas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104925539386660992042\"\u003eAbdul Fattah Naufal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBguv852kSuWcML_ihE5FGjien4mPYIQdDukQhBkfdDCkN-1y7vdxApTQTgnGWGs5_8C7DWMsuh_7PnEnhZfwgjia5ahypgkCIsXrTnL2EQTxuV_oK5QFTuOGy34wRWvrjOHWM1tIk1HVIHdARt92EyDVU18YV3TWCCdYP3QC_e02Ns",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ2Xu0tX255DERxvP9jkslBVo",
+         "rating" : 4.3,
+         "reference" : "ChIJ2Xu0tX255DERxvP9jkslBVo",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 686,
+         "vicinity" : "987F+P72, Jalan Pembangunan, Dalam Kaum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3211542,
+               "lng" : 109.2771693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.322457180291502,
+                  "lng" : 109.2784918302915
+               },
+               "southwest" : {
+                  "lat" : 1.319759219708498,
+                  "lng" : 109.2757938697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kolam Renang Sambas",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102208575413652384449\"\u003eIsmail Harun\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAIIB1mJuJvRaJkpKkfsB3bF8WfAemvn6oFvDm9r50IXs5rGU68R12L3p9u4pvMLWhAjZQjiRqTh9Jiek728wGCnmoLyIt0z0cqa3TfmCt48EgCqLJqdY5Q7u9A5FQY9NSmUv8AwBVUNF1yXrWcGbLld5ezh7pRINpuBr5yd4UXanTS",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJrc5lB4S85DERz4M_lJ9p-L0",
+         "rating" : 4.2,
+         "reference" : "ChIJrc5lB4S85DERz4M_lJ9p-L0",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "87CG+FV7, Sei Rambah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1769215,
+               "lng" : 109.5530352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.178356380291502,
+                  "lng" : 109.5543800302915
+               },
+               "southwest" : {
+                  "lat" : 1.175658419708498,
+                  "lng" : 109.5516820697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Alun Alun sepandak",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110581666725016089093\"\u003epramono yoni\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBYF06m582fkwea3-KhiG72sj72fDm_iiz98XeX8heF0YTSao65a0bhbmKxLi8clRb5ykAeSzC0zOe4J-Ihl-17HexAA9D3UNd4RO8whBJOF19rgAIH6WCOihHPI8wlZ7HtYGPlsiVuus-AsDN5RwenumE32qceHyUW3Cu8GlCspAvj",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJbZaReXer5DERZUrLm8gLZmg",
+         "rating" : 5,
+         "reference" : "ChIJbZaReXer5DERZUrLm8gLZmg",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "5HG3+Q67, Danti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1210717,
+               "lng" : 109.0360233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.122388230291502,
+                  "lng" : 109.0372855302915
+               },
+               "southwest" : {
+                  "lat" : 1.119690269708498,
+                  "lng" : 109.0345875697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "fendy taman relif",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108165059758616651906\"\u003efendy taman relif\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBoFguntn8T1Ol_Om2TcteThtA_Qxge-WheCJGSEt28nOAu_W3IJp9dKT5OEAcsjcBt5ubReTGdn-IauFIPfAPgGNkUw7Mb-gwuSqqhgFg13V9wsSmOyn1d1-2p40CK_WziWPEzxy5G-XXGylL7_-d8GCwfzec-XqJifClh7kIh-yXL",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ0WQYzHNj4zERkyeDa6loBIU",
+         "plus_code" : {
+            "compound_code" : "42CP+CC Sungai Toman, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHF42CP+CC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ0WQYzHNj4zERkyeDa6loBIU",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "dusun batubedinding,sui toman"
+      }
+   ],
+   "status" : "OK"
+}

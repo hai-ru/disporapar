@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5848067,
+               "lng" : 108.8901208
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.583457719708498,
+                  "lng" : 108.8914697802915
+               },
+               "southwest" : {
+                  "lat" : -1.586155680291502,
+                  "lng" : 108.8887718197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air Terjun Riam Bidadari",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100667138124654768388\"\u003esardi whawhan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDG1Hhl40R33eTcuIS5MQbkSQZBo422pCBLhQ0qB9neIl-lH_tqvtvCuPNd-JJC7WMg9400gi7Awj9sKAE5UZAoCIAddU70KfQ5SmyV9t1ihMPZZfTis5SG6KKCK_gVRl7w80tiSTPPiReJUxwvyQfKm1UFHr7ImBPff539TW1VuiMd",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJpUPP56cIGy4RZvgdr0nGwug",
+         "rating" : 4.6,
+         "reference" : "ChIJpUPP56cIGy4RZvgdr0nGwug",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "CV8R+32H, Betok Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5777522,
+               "lng" : 108.7911433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.576403219708498,
+                  "lng" : 108.7924922802915
+               },
+               "southwest" : {
+                  "lat" : -1.579101180291502,
+                  "lng" : 108.7897943197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Karimata Tus",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101388824910035444147\"\u003eRIDHO\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECl2a_dp8CkDJv_4deyw3RgzrO9bquyHw_l2uUaPLQ1w3ygnGMmYv-opO2hkveVqTMhh1ls3ztJeEuXtgFljIPpaVAQJy9Io8fmrrJ-Xi0sCLESyitnruqKp1gGcE66A6cfAaqyL8iUfIGMm8L4KrSDTIjTIZSrPYGGLHjdS50knwuR",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJGbE5W2enGy4RWYh162kUJIc",
+         "reference" : "ChIJGbE5W2enGy4RWYh162kUJIc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "CQCR+VF, Betok Jaya"
+      }
+   ],
+   "status" : "OK"
+}

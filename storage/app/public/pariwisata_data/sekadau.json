@@ -1,0 +1,730 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBI3YS0h5o0IcAymG8-5cKyUH66m83DXx4ioSICsSu6DIrl8m82aS2z58jSF0D1tgMl0QOpXYRVJDeA75dNXMgI1ai6QsYzrkz7p16A9UFdMrTL9Z1uHzlhIbsmgoD-ztA1SkYiJwpiEpeK0as45ZatHsfKR9vsODivoy1q7WE-6So9jaQUQCuAbrFdwBF3uCLHDN1TA7h4ksfpna2ZZo9q81U8Pni5PzZItYdrGxW6jb_NqxywapeotDiyDShQsGpE2UIdhMqSrrbinbWPlpEpsngixVFPFOg8_WgPz4JsiMyWhV6Q7SZ9XR7-qhJJb0zyxpelPjYf1WDqP8GlpVaXK-LWXEINOtcZ-1yn_hg8qx9Wm9l9COoU5NJbYdC5P2KAzwe3c2qRc7YCvzK6Dt5go-ydijtXPBEbZcJ92pr1IkETzCSXKVorP-VTjn-2PNuFmeA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3608367000000001,
+               "lng" : 110.8383472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.358848219708498,
+                  "lng" : 110.8397483302915
+               },
+               "southwest" : {
+                  "lat" : -0.361546180291502,
+                  "lng" : 110.8370503697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "WISATA BATU JATO",
+         "photos" : [
+            {
+               "height" : 6144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104719540568226643934\"\u003ePaijil Riyantara\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBrIDRoVu2FfEFGEtNtAlaUXI8OAVqQ2LYz_MDU3kRTf-iPKR-RsP4C4udnRCEsf5n11xFJaOW30DDZOp_HjB5DikJ5uOtnI1oqCV5kz_LcKO8Z5bPzNxRL1mnwZw9x4OxtT_KvuOYhSvczYoiSwv_OsnkE2l17gDAKTMQ0odfT8j4Z",
+               "width" : 8192
+            }
+         ],
+         "place_id" : "ChIJnwxgmpE7Ai4RsAQXQsOoqC8",
+         "plus_code" : {
+            "compound_code" : "JRQQ+M8 Pantok, Kabupaten Sekadau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFGJRQQ+M8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJnwxgmpE7Ai4RsAQXQsOoqC8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 107,
+         "vicinity" : "Batu Jato"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.024449,
+               "lng" : 110.8939667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.02588863029150203,
+                  "lng" : 110.8954837302915
+               },
+               "southwest" : {
+                  "lat" : 0.02319066970849797,
+                  "lng" : 110.8927857697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Andi Ardiyansyah",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108188946218268364007\"\u003eAndi Ardiyansyah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB9SVGV7mK0yWhceJ3CJMt5VDhAj7jSts1NyIlW8wnD6HLp6zFZkHxMu7A9xxsn9_DwBVKWAIPiXxuMuS8pP92bJWySGUBcwdFdT8g5buFsd27lfLXcau57xEjNxM8IE5Dd1SUwDJO2tXM1mFhUicRzALDuvtRYg7MprNBorYvfb-qB",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJv48hC633_TERDHbalAusOpo",
+         "rating" : 1,
+         "reference" : "ChIJv48hC633_TERDHbalAusOpo",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2VFV+QHG, Tanjung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0248048,
+               "lng" : 110.8897953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.02612353029150203,
+                  "lng" : 110.8911354802915
+               },
+               "southwest" : {
+                  "lat" : 0.02342556970849797,
+                  "lng" : 110.8884375197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AOK SKY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115900060460383498355\"\u003eAOK SKY\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQiWwUAdoxp79z4xVrGe4rMJzeDr5jzaoZ7zosBhObQR_KY6o0Jq0RNwMdRZkds2N-lXYJsMQUv30gSjbgFF4-tep1i-VjGV70xEYkf6Z83N95BAXKwX3uZ3AgjwQsalRjX1jzcd_m5k0o3yg6_KipIJSBT2uERp1F7aktp_V6_PHr",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJt2u5HHD3_TERnfDuAt7Ekc8",
+         "plus_code" : {
+            "compound_code" : "2VFQ+WW Sungai Ringin, Kabupaten Sekadau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGG2VFQ+WW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJt2u5HHD3_TERnfDuAt7Ekc8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Kapuas No.1, Sungai Ringin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.28e-05,
+               "lng" : 110.9574304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.00136383029150203,
+                  "lng" : 110.9587543802915
+               },
+               "southwest" : {
+                  "lat" : -0.00133413029150203,
+                  "lng" : 110.9560564197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Menara Khatulistiwa Sekadau",
+         "place_id" : "ChIJsSslsr75_TERN938iljpIEA",
+         "reference" : "ChIJsSslsr75_TERN938iljpIEA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2X24+2X, Gonis Tekam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0001753,
+               "lng" : 110.9663642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.00150548029150203,
+                  "lng" : 110.9677288302915
+               },
+               "southwest" : {
+                  "lat" : -0.00119248029150203,
+                  "lng" : 110.9650308697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Equator marker Sekadau",
+         "place_id" : "ChIJvdMC04f5_TERkjnRea2V01s",
+         "reference" : "ChIJvdMC04f5_TERkjnRea2V01s",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2X28+3G, Gonis Tekam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0445428,
+               "lng" : 110.9032729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.04579263029150203,
+                  "lng" : 110.9048644302915
+               },
+               "southwest" : {
+                  "lat" : 0.04309466970849796,
+                  "lng" : 110.9021664697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dau haji Umar",
+         "place_id" : "ChIJj8krrgr5_TERb3VDT-LUb1U",
+         "reference" : "ChIJj8krrgr5_TERb3VDT-LUb1U",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2WV3+R86, Seberang Kapuas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0259755,
+               "lng" : 110.8521048
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.02766058029150202,
+                  "lng" : 110.8534260802915
+               },
+               "southwest" : {
+                  "lat" : 0.02496261970849796,
+                  "lng" : 110.8507281197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Goa Lawang Kuwari",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107832734481637693022\"\u003eSeno Zeno\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDrAWq_0a0q4TSTGhvyldPVhAeKbsPXZUBUjAqm3KHeqi1EDjeLcFd71i0oVcknpnRsqhKnGTdhoJXL7HbstrlE75Tc5tPYdk6jlJOLApZaBrdtfUlqFZ-L9jmlBbOPHkgqLy8BcSY6Qw6wcprkpw8re0YbCFB2Qfxzv3FmqDaxPJpd",
+               "width" : 4736
+            }
+         ],
+         "place_id" : "ChIJDyLgqTf3_TER2h6VEnQbjpo",
+         "rating" : 4.5,
+         "reference" : "ChIJDyLgqTf3_TER2h6VEnQbjpo",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "2VG2+9RX, Unnamed Road, Seberang Kapuas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0298309,
+               "lng" : 110.8179944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.03117988029150203,
+                  "lng" : 110.8193433802915
+               },
+               "southwest" : {
+                  "lat" : 0.02848191970849797,
+                  "lng" : 110.8166454197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gurun Sahara",
+         "place_id" : "ChIJYSRPVcX3_TERg2AELERyeO4",
+         "reference" : "ChIJYSRPVcX3_TERg2AELERyeO4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2RH9+W5Q, Sungai Kunyit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0280368,
+               "lng" : 110.8164931
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.02938578029150203,
+                  "lng" : 110.8178420802915
+               },
+               "southwest" : {
+                  "lat" : 0.02668781970849797,
+                  "lng" : 110.8151441197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Telaga warna",
+         "place_id" : "ChIJldV3j7r3_TERt1NBzy0FpKY",
+         "reference" : "ChIJldV3j7r3_TERt1NBzy0FpKY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2RH8+6H9, Sungai Kunyit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4e-06,
+               "lng" : 110.787899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.00131953029150203,
+                  "lng" : 110.7892151302915
+               },
+               "southwest" : {
+                  "lat" : -0.00137843029150203,
+                  "lng" : 110.7865171697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ekuator Lintas Sekadau",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118163010012316628880\"\u003eCAHYO PRIHATMOKO\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECu-fgagvjSjtATPVjoA0TJEp74AtqRb6x1OVWH-kvSLok7b_YSfAS5uH39qtfC-0x6-F91Q8YVTbv_rBTLHOahU6intxTSEe0DtyN7tL1ZqxROq_6q6rZrLzqbF21PZxJ3C_O20RyaJUAxg40EX4D82Dw32Iv_HCs2pVNPmXq4a4q9",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJNbN3okr1_TER1vpNYnVwlVQ",
+         "reference" : "ChIJNbN3okr1_TER1vpNYnVwlVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2Q2P+5XR, Peniti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.08825370000000002,
+               "lng" : 110.9851691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08948860000000002,
+                  "lng" : 110.9864447
+               },
+               "southwest" : {
+                  "lat" : 0.084549,
+                  "lng" : 110.9813423
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gua air terjun segang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101712092249379445099\"\u003eYupentus Bio Samuel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDv9ZC2nHt0YqN_BARQSw_fNXK6CcuO5vfeXW72NzT9GAEDOHiAJOGYz4F2vVK5GRhUat0Fpsrj8xQ6b2SE0RI_vO59686pyxtTEJxGK8ddErLFqmOi24-O8peuigACfSnoipUNXJdtPtHMOf4OmST8BZlsnhcDRrUbeEM8ryUBqzOF",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-yKbypv7_TERZGMutDGRdx8",
+         "rating" : 5,
+         "reference" : "ChIJ-yKbypv7_TERZGMutDGRdx8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "3XQP+833, Seraras"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.06805130000000001,
+               "lng" : 111.0221102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.06940028029150205,
+                  "lng" : 111.0234591802915
+               },
+               "southwest" : {
+                  "lat" : 0.06670231970849798,
+                  "lng" : 111.0207612197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Batu Pingai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJj_fFyb3__TERTvPBjIhA2Ok",
+         "reference" : "ChIJj_fFyb3__TERTvPBjIhA2Ok",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "329C+6R, Seraras"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.1647038,
+               "lng" : 110.9407659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.163377369708498,
+                  "lng" : 110.9421305802915
+               },
+               "southwest" : {
+                  "lat" : -0.166075330291502,
+                  "lng" : 110.9394326197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sulang Betung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108468332284161939639\"\u003eAlias Sepanya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDKHohmKKcjfSskeCaMbTSHz5yrJ4wpVG8zV3yivVibshK9fHLhm_icD4VrWCKPkCEde3PLFxVYMlU89_QqR-hKfA2WNcTb3J-IAjVP2w_zeIXsOUppfRpro20Te-wSDNItSRXaXF1VuB0i9ynDMHXQf5vRXgjDXbVbMEgaDY_PSW7x",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJKQLQO-obAi4RriPHlZJAmGM",
+         "rating" : 5,
+         "reference" : "ChIJKQLQO-obAi4RriPHlZJAmGM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "RWPR+486, Sungai Sambang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0303834,
+               "lng" : 110.7252088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.03196498029150203,
+                  "lng" : 110.73131065
+               },
+               "southwest" : {
+                  "lat" : 0.02926701970849797,
+                  "lng" : 110.72317485
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Padong Jurong",
+         "place_id" : "ChIJbf1Estf1_TERiVm45KCvrhc",
+         "reference" : "ChIJbf1Estf1_TERiVm45KCvrhc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2PJG+534, Inggis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1011662,
+               "lng" : 111.0673126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.102628180291502,
+                  "lng" : 111.0680832802915
+               },
+               "southwest" : {
+                  "lat" : 0.09993021970849796,
+                  "lng" : 111.0653853197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Getsemani",
+         "photos" : [
+            {
+               "height" : 3468,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115035573823319275763\"\u003eagustinus heli\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDzsfbayr_HNMzW8aFZsv0KMIKyM3jBmiDM1FJKYuqwDgIHcIsKxm1VLzPtRYv7BFq8ug6xEp9UYMNss414wV75bVAvs1DcA2loEnvoMwFxsD5TyGRkvYwUrKxU44IMkAltDb-4NTVydpAs2pNdc2b_P_DZL5c1ROlL6ahvKUC8rMiB",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ5bFDHUj9_TERiap_T7bKd9I",
+         "rating" : 4.5,
+         "reference" : "ChIJ5bFDHUj9_TERiap_T7bKd9I",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "4328+FW8, Sungai Ayak III"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.08599390000000001,
+               "lng" : 111.0802766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08792488029150203,
+                  "lng" : 111.0817515
+               },
+               "southwest" : {
+                  "lat" : 0.08522691970849797,
+                  "lng" : 111.0758519
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Pulau Beginsit",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105655321982933324863\"\u003eDesi Purwanti\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBGeoAeB_s--DiSm8ZsoKCKWXW15jof0A0UKbAl0e-vZq_AVBP8Ch7lX0f29uxOyFMzQkiOwhsUgaRVRBWz1Accg6VGHk7PKkpk5SF3JGzBJw9ucC8c3Gthzbxem8E8C1O33TY6_0yrWOfGKxB3ZGpqambesXtpe45vyACrMXOjVNBf",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJtedPFe39_TERf8CEj1iCnlI",
+         "plus_code" : {
+            "compound_code" : "33PJ+94 Sungai Ayak III, Kabupaten Sekadau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH33PJ+94"
+         },
+         "rating" : 4,
+         "reference" : "ChIJtedPFe39_TERf8CEj1iCnlI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "jl. R.A kartini ds. sui ayak 4 kec. belitang hilir kab. sekadau kalbar, Sungai Ayak III"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.09605649999999999,
+               "lng" : 110.7480064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.09706593029150204,
+                  "lng" : 110.7490334
+               },
+               "southwest" : {
+                  "lat" : 0.09436796970849796,
+                  "lng" : 110.7449254
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Peta denah tanah empadik",
+         "place_id" : "ChIJvSflJArz_TERb27x-tOwQnI",
+         "reference" : "ChIJvSflJArz_TERb27x-tOwQnI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "3PWX+C6C, Semuntai"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1104798,
+               "lng" : 111.0892325
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.111828780291502,
+                  "lng" : 111.0905814802915
+               },
+               "southwest" : {
+                  "lat" : 0.109130819708498,
+                  "lng" : 111.0878835197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai spantak",
+         "permanently_closed" : true,
+         "place_id" : "ChIJpSk-EFX9_TERxGXf-UR1YeQ",
+         "reference" : "ChIJpSk-EFX9_TERxGXf-UR1YeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "436Q+5MX, Sungai Ayak III"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.1225286,
+               "lng" : 111.0906373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.123877580291502,
+                  "lng" : 111.0919862802915
+               },
+               "southwest" : {
+                  "lat" : 0.121179619708498,
+                  "lng" : 111.0892883197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Simpi",
+         "photos" : [
+            {
+               "height" : 2348,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104719540568226643934\"\u003ePaijil Riyantara\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAnAOPWI0PSu2I7JhtrIL8GZzwRh5czuWOY44rz0jZghr83tMgsZ8XSkcZyJQSero9OdbmDKz5SymdKrIoGAEg-aJmiYc7tEVqz2gJdpDLmVk8jmkZZ3JW9detMxFKeyJ8Ok0tMPGXTrVsH_QjyTmoPOEqJ3p99rjcrHf8uvJ7skujh",
+               "width" : 3429
+            }
+         ],
+         "place_id" : "ChIJYSMGxaX9_TERzBBMV-4BNdo",
+         "rating" : 4.8,
+         "reference" : "ChIJYSMGxaX9_TERzBBMV-4BNdo",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "43FR+276, Jalan Adi Sucipto, Sungai Ayak III"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.219745,
+               "lng" : 110.794753
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.217958319708498,
+                  "lng" : 110.7958232
+               },
+               "southwest" : {
+                  "lat" : -0.220656280291502,
+                  "lng" : 110.7915424
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sawit dan karet",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101326286442746251740\"\u003eRabuan Syahputra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDq-XfqjvbMPXHh7L1NHVADLgNfVKd0BYmfyfgXiHr3fhBFKZur4U7HkVPe6oXayBlAEtfk7wNGEFb8q_RH2Lvb4eYD_ZORCmzZf_LS_4mm0yMOyxgQE0yE5rZHdSGtdANabdmmZQ97VeYxrRumKVSrrqrbNDrRU_qCy5a3OiCiTiYy",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ1-3qSnIVAi4RAbl852YkgLE",
+         "plus_code" : {
+            "compound_code" : "QQJV+4W Nanga Kiungkang, Kabupaten Sekadau, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFGQQJV+4W"
+         },
+         "reference" : "ChIJ1-3qSnIVAi4RAbl852YkgLE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Unnamed Road, Nanga Kiungkang"
+      }
+   ],
+   "status" : "OK"
+}

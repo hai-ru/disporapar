@@ -1,0 +1,850 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEA_7z6uVNkYzTU3KZTynNdknSs2CPsuTvRPZLhimeEApGZiaOiSszgo6UkB_4P5eRvJs_Q3P1bXqsypAk-SYCWInhbNv9JfLIFUeQtAeOxmkiz05ogoMP-y6ff0tV4WqmY-dQZelP0j2YEgIILsXcsZ4hZ6clRfLuZxoXgZUpyuG_4GvCaCXKIeeqBw-XwRidSriGznnsWT2AMTbbElP5fFWchtYbpVXg5p9ngm6Zu0qjN1kXOGU9Io3p3cQVMt6E39YmrCOcXLY12b6J1Hbakjj2eZo2e7tzH9U-UqisWpnz-jZEjs2333BUh61gfXiweyxsN3jpSHHLLXmWC07SNbS3tR9-IKIuTzW-OgBVVq3YC0T8QI7U4z0w4oCqa1jMxzAESVepKVkvXwDuDZGfrzdtMykW2UydqEWBqf1aF2Xx4fCtGYxa4wcPZzjBum8ni5XMk",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0422223,
+               "lng" : 111.474274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.04377878029150203,
+                  "lng" : 111.4754796802915
+               },
+               "southwest" : {
+                  "lat" : 0.04108081970849796,
+                  "lng" : 111.4727817197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DANAU BIRU",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103013940564911562062\"\u003eDANAU BIRU\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDx4P0dKgTtsjzFbFemJUPzczNFd3sCHHGGPXYuQ7lrN48xjamU2KFxa9Y_cABfJofyhUnZSamTDfrnz1AJQ-dQBvkVJqkJhmF6r8eQdNgQYmbpH3T6f8qHh5729r4fkwLef1xOvlU0mhAWwy2aDGsyGnLmYyGmRH32ZobpHBxWWsI",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJIRg5qNEf_jERSEZFc9MUSbQ",
+         "plus_code" : {
+            "compound_code" : "2FRF+VP Marti Guna, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH2FRF+VP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJIRg5qNEf_jERSEZFc9MUSbQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "Marti Guna"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0398018,
+               "lng" : 111.4750695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.04115573029150203,
+                  "lng" : 111.4764093802915
+               },
+               "southwest" : {
+                  "lat" : 0.03845776970849796,
+                  "lng" : 111.4737114197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Open trip dan private trip gunung bukit raya jalur sintang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100180215780418447237\"\u003eOpen trip dan private trip gunung bukit raya jalur sintang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBqa_hnbd5CURtEHyOP0Trdqsq6MPw5U6HFVKemwTHsfMeX9HRd9ke5vpDPbHO5DMK6UBhqclWz1WgalypW4Vd0Zrj_xLNzBXohWgHy3V53o7KVQofdeKGojmMOMmg33q0sTubHFyutD8MWdOwpsgADDu2nF6Jc0PELZ0uKwetWvQIo",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ605Hvjwf_jERssg5pxEnaRg",
+         "plus_code" : {
+            "compound_code" : "2FQG+W2 Marti Guna, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH2FQG+W2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ605Hvjwf_jERssg5pxEnaRg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Btn cipta mandiri II"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.06407399999999999,
+               "lng" : 111.496693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.06547178029150202,
+                  "lng" : 111.4980870302915
+               },
+               "southwest" : {
+                  "lat" : 0.06277381970849796,
+                  "lng" : 111.4953890697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Kantor Balai Taman Nasional Bukit Baka Bukit Raya",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107353657541343743315\"\u003eSantoso Broost\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBbIwKFDbQoZfiuIXaDI7d06COAu_eLFtB-SvVWAYkLr2TSdcG-fUgFvdaQ_GNqm-IKE_wTizahxgXioC-qdwbanJmQwEHuD8vKi0p2vQFoPfucJytqxm_7N61C9n0lNWW7JK7nWE-s5iVPxAHRfT-0TejhkABuLO_guSWxMTFdhuhS",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8SApc_Mh_jERDJy9XNKCJP8",
+         "rating" : 4.1,
+         "reference" : "ChIJ8SApc_Mh_jERDJy9XNKCJP8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 203,
+         "vicinity" : "3F7W+JMG, Jl. DR. Wahidin Sudirohusodo Baning Kota Sintang Sub-District, Sintang Regency, Kapuas Raya, Baning Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.07864799999999998,
+               "lng" : 111.4788354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08004248029150202,
+                  "lng" : 111.4800591802915
+               },
+               "southwest" : {
+                  "lat" : 0.07734451970849794,
+                  "lng" : 111.4773612197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Serantung Water Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111733056479887460263\"\u003eTukang bangunan chanel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAQ2vIe5qks0Fuj-tabj0mqbLXul8Vdz86_woKbYox2mk3aIVQiaeJFzFzXs3POqueBtPE5z2eg--7JTnNVePcUf0c3nhbjIw9CIXpeprC3VeE-kK6W-5meNgNJhKVzPNiW2ezGtexwjvJkQARHcc5pLw8UqiFjyZFVy3dBs6cZraPa",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ3TMKhQgi_jER9dV7fYN6u5U",
+         "plus_code" : {
+            "compound_code" : "3FHH+FG Kapuas Kanan Hulu, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH3FHH+FG"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ3TMKhQgi_jER9dV7fYN6u5U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 544,
+         "vicinity" : "Kapuas Kanan Hulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0781283,
+               "lng" : 111.4923552
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07949738029150205,
+                  "lng" : 111.4937035802915
+               },
+               "southwest" : {
+                  "lat" : 0.07679941970849799,
+                  "lng" : 111.4910056197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Taman Bunggur Sungai Kapuas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107051530902818375631\"\u003ekasmin Pnr\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDRo8mWNQgVok5b9DBEJOgjd7kIPeFlufDCueNL4j-zIgOgQR2YrJj-YbM479rSVSh4NAzE3m06E4x920NLsGYcgy0JzoW3X0juAyNoDJBD0AUhkYv-l-UCMyBvovaW3dNBruisNx-tK-9oE27ny2ItW59wHzh9ypx79IOItuNMAGjL",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJoYXXqBAi_jERidEQiTMiudQ",
+         "plus_code" : {
+            "compound_code" : "3FHR+7W Tanjung Puri, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH3FHR+7W"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJoYXXqBAi_jERidEQiTMiudQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68,
+         "vicinity" : "Jalan Pembangunan No.103, Tanjung Puri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0788475,
+               "lng" : 111.4933643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07991378029150203,
+                  "lng" : 111.4947707802915
+               },
+               "southwest" : {
+                  "lat" : 0.07721581970849797,
+                  "lng" : 111.4920728197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata kapal bidar",
+         "photos" : [
+            {
+               "height" : 4624,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100714499757457869584\"\u003echairina Maryanti\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLzGzIJiEJVF6VJvS7KlS-phuI1yO-OOz8ZQviz8HOHQXZUY4eoHqtvNHc9mxwAAoRp6cCh2YqDS430NaHHZzGYZxC9XLUM2QWIjHMlyX1B3xhagCMy8S8ScSbJMHxpi3cBbymGpGT85FAjX_rgq8r9C_h8r2RbtuLrG1Z6sDXpAHC",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJUzaWSKcj_jER69avBG7OWQs",
+         "rating" : 4.5,
+         "reference" : "ChIJUzaWSKcj_jER69avBG7OWQs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "3FHV+G8Q, Tanjung Puri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.08239409999999998,
+               "lng" : 111.489836
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08371668029150202,
+                  "lng" : 111.4912198802915
+               },
+               "southwest" : {
+                  "lat" : 0.08101871970849796,
+                  "lng" : 111.4885219197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Masjid Jami' Sultan Nata",
+         "photos" : [
+            {
+               "height" : 657,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114185020307355159505\"\u003eAdy Setiawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAZRJQ3Axzx1vgGRX5IqmOwZ4gAK0zESEmAf8R2822B2l0pD3mBMWmDMwNo7Yf_3tR0Nbm-CqFGM1AJKIBh3h-cvfavysZ-3FEMYBZ1Hd35dOREnt2bNRJmsFhd_Bg-91J2tQL8OqWTaaIC8M9JOnTaVSWoloMoa3alc1YfkmM6G0Fi",
+               "width" : 951
+            }
+         ],
+         "place_id" : "ChIJ2zdlhxEi_jERC6OrKPN8GI8",
+         "rating" : 4.7,
+         "reference" : "ChIJ2zdlhxEi_jERC6OrKPN8GI8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 105,
+         "vicinity" : "3FJQ+XW4, Kapuas Kiri Hilir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.08318399999999999,
+               "lng" : 111.4916587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08447523029150203,
+                  "lng" : 111.4929635802915
+               },
+               "southwest" : {
+                  "lat" : 0.08177726970849797,
+                  "lng" : 111.4902656197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Dara Juanti",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 958,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107406833333978105248\"\u003eHafidh Yusril\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB5EwqLAiOo2tmZCsA15nLRO93GX4j36F_lK5yXLTPolF4kBZ7UZGF-LHYAP-Zj25Sghdt-L0yHaNpICWX4VWbCMIf6tmk6a_KIESfCOP_Y1BuOns9ghg0OV_GwFgpKaI8Br-1Tx6aNNN7YbkiPbO-M_gH5XQa0dsLKpS2MQnxAvbLN",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJ236RNREi_jERXC16RCWYJJE",
+         "rating" : 4.2,
+         "reference" : "ChIJ236RNREi_jERXC16RCWYJJE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 117,
+         "vicinity" : "3FMR+7MF, Kapuas Kiri Hulu, Sintang, Kapuas Kiri Hilir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0487672,
+               "lng" : 111.4479065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.05011618029150203,
+                  "lng" : 111.4492554802915
+               },
+               "southwest" : {
+                  "lat" : 0.04741821970849797,
+                  "lng" : 111.4465575197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pt. Sugi graha indah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108420719111588040920\"\u003esugi sgi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNBq-hZ6pbSV7Z_eq5nBRXk5Q2FZ4X6TzlJgXZ5MheffTEevk5ryKCUHfNfghKF3eEw03mEzDRYhT4tLSkcAWtVZ5MSLhpBmeGRaepunveAyOMctW9CkHjIDuhGz7csRjNtpAYyjCdd3hjGQUqB0uut3Gip5lNd_yuIHhZ59KSKymn",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ3xRd7s0f_jERXGScb_eg8jk",
+         "rating" : 5,
+         "reference" : "ChIJ3xRd7s0f_jERXGScb_eg8jk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2CXX+G53, Kapuas Kanan Hulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0712434,
+               "lng" : 111.5087789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07328255,
+                  "lng" : 111.5096179802915
+               },
+               "southwest" : {
+                  "lat" : 0.06512594999999999,
+                  "lng" : 111.5069200197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Wisata Alam Baning",
+         "place_id" : "ChIJnfRZybEj_jERMXDRxapJA9Q",
+         "rating" : 4,
+         "reference" : "ChIJnfRZybEj_jERMXDRxapJA9Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "3GC5+FGR"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0771727,
+               "lng" : 111.5062813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07842023029150202,
+                  "lng" : 111.5077071302915
+               },
+               "southwest" : {
+                  "lat" : 0.07572226970849796,
+                  "lng" : 111.5050091697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rumah Betang Kobus",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117221637748985825445\"\u003eBombastic Borneo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBWEdCXAJeU7mIBNbOih4PNAbqtzc3wZiMjttIqhSYabQi6yWsIOpjeGU9dyJiIk3DzMz7S84Iqm98YVPN_sUOtS3jaFc0X0-lNBdaA9N7tv6kNd72gxHHklkhhg8bstmvrMq32cF1vlpeW_Uzsc9y7agwk3-KmLwxwg-hZr1hIoT0X",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJLWtqkSQi_jERo60YdmIATac",
+         "rating" : 4.5,
+         "reference" : "ChIJLWtqkSQi_jERo60YdmIATac",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 148,
+         "vicinity" : "3GG4+VG7, Jalan Alambawa, Tanjung Puri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.07247289999999999,
+               "lng" : 111.5124874
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07442504999999999,
+                  "lng" : 111.51575035
+               },
+               "southwest" : {
+                  "lat" : 0.06661644999999999,
+                  "lng" : 111.51139975
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "POLISI HUTAN SINTANG",
+         "place_id" : "ChIJaSiQD8Ij_jERUIV9w-V-3BA",
+         "plus_code" : {
+            "compound_code" : "3GC6+XX Tanjung Puri, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH3GC6+XX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJaSiQD8Ij_jERUIV9w-V-3BA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Kelam No.31, Tanjung Puri"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0849197,
+               "lng" : 111.5428517
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.08590039999999999,
+                  "lng" : 111.5443820302915
+               },
+               "southwest" : {
+                  "lat" : 0.08197760000000003,
+                  "lng" : 111.5416840697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kerambak",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108511875785586395420\"\u003eSuhardi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC-KNq94GbGJiJv64FZ01Yv5yoF2vEpO5TLVT8SzKpoQG6iBSdgrtogQ_uG6G4F23Jw2NFnToqzOgoJZ30yir7gf1VFpUhi-R1i7zVJ9D-hnB7QV8WXVPZ_SI5K5csI0uc9EDEo9meIV5KzgD4FNFkH6dROoUIfGfY4RH5PPyhi6jxn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2RFk0Hkj_jERH09DYsgnDoc",
+         "rating" : 5,
+         "reference" : "ChIJ2RFk0Hkj_jERH09DYsgnDoc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "3GMV+X49, Tanjung Puri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.04985589999999999,
+               "lng" : 111.5517543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.05120488029150203,
+                  "lng" : 111.5531032802915
+               },
+               "southwest" : {
+                  "lat" : 0.04850691970849796,
+                  "lng" : 111.5504053197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SENENTANG AGRO WISATA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJhyef8KEh_jERuo40RvAMP3I",
+         "rating" : 5,
+         "reference" : "ChIJhyef8KEh_jERuo40RvAMP3I",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2HX2+WP, Tertung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.04788649999999999,
+               "lng" : 111.5516829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.04923548029150202,
+                  "lng" : 111.5530318802915
+               },
+               "southwest" : {
+                  "lat" : 0.04653751970849795,
+                  "lng" : 111.5503339197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Dull",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2184,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109165902620871604121\"\u003eAmin Amrullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDBhCmS6Rs81_13jdhJIQ5ykXnbQcxqficsRTOwqwicBbTHFaXVHH9R_kCBKsA-QQhZDRhYO_iZK0ZyNKMv5JpScidNND62-8hDgp4Sxlxdad1pUSbUk-Vw9GVqtaEI6yu3WU4DImV7eLz9pbcsVGk9vaGTiEelZ85-cH-LMsstmRrh",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJSfN_Uekh_jERnmO1h3wr8wM",
+         "rating" : 4.5,
+         "reference" : "ChIJSfN_Uekh_jERnmO1h3wr8wM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2HX2+5M3, Tertung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0375969,
+               "lng" : 111.360378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.03856895,
+                  "lng" : 111.3621168302915
+               },
+               "southwest" : {
+                  "lat" : 0.03468075,
+                  "lng" : 111.3594188697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Panorama Kedah Tempunak",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110833276377233694410\"\u003eSigitarius Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECCGfWTuA5g06fvGLlUOn1N7fbqzfHFtjLBgG_z8KnvsgQl-xV7fuSo7lKWQcnJOWAf4c3TrojcDZjd7UrzEEdmYHrOAbVvI2GL9vEQ_AYYUfAATH8I8JN1i2cIvsuBWveTES-6VrTyE9y3LbRQ11jVyMgvwSFMmIM17ipNcWDlg91e",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJceBsxYMd_jERhstmQBNIcik",
+         "rating" : 4.2,
+         "reference" : "ChIJceBsxYMd_jERhstmQBNIcik",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89,
+         "vicinity" : "29Q6+25J, Tempunak Kapuas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.06922979999999998,
+               "lng" : 111.6319218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07072423029150202,
+                  "lng" : 111.6334409802915
+               },
+               "southwest" : {
+                  "lat" : 0.06802626970849794,
+                  "lng" : 111.6307430197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Keling Kumang Agrowisata",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2574,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111543283438337331520\"\u003eAde Putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBRN3OCsGldowNKW-WK1ptRbKaJzMAICuJkTdZ3OOYSNBzRkHBokXmYrtdbvPUK2bQyWecx6jck-IWwEVprFvmWDuoFdHG0AuSRGIFiiFfRC-T48MOjn5-ov8cIZkBw2vYQHUcl75cTeztis6gKCr0UgVoZwO-8qv6KIEBOTMUVrlu9",
+               "width" : 4576
+            }
+         ],
+         "place_id" : "ChIJDzhffWEn_jERz46Wb7HbfUk",
+         "plus_code" : {
+            "compound_code" : "3J9J+MQ Kebong, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH3J9J+MQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJDzhffWEn_jERz46Wb7HbfUk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 84,
+         "vicinity" : "Kebong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.07431829999999999,
+               "lng" : 111.6334581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.07566368029150203,
+                  "lng" : 111.6343223
+               },
+               "southwest" : {
+                  "lat" : 0.07296571970849795,
+                  "lng" : 111.6308655
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Wisata Alam Gunung Kelam",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106419659082293968097\"\u003eTaman Wisata Alam Gunung Kelam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECWEqKTWaDNslI0dtDToJJNg3injTKmQFo7awL7-cF1uBgJQdqpLh8vnB4aryBDnQhwEJR28YJRe4PDkuor4ZMhztN8UYLga-9DcEhB696jqpORTPhDjEw0GCAHBhkO7Ikvh6lVxkP2cTxET6XzCYF9BRoMhvnEVGm0AFPSTH9DYEe4",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ_Xlw8l8l_jERZbJBjY7XXso",
+         "plus_code" : {
+            "compound_code" : "3JFM+P9 Merpak, Kabupaten Sintang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGH3JFM+P9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ_Xlw8l8l_jERZbJBjY7XXso",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 101,
+         "vicinity" : "Jalan Lingkar Kelam, Merpak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.0936188,
+               "lng" : 111.642648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.09496653029150202,
+                  "lng" : 111.6440020302915
+               },
+               "southwest" : {
+                  "lat" : 0.09226856970849796,
+                  "lng" : 111.6413040697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Sawah Kumpai",
+         "photos" : [
+            {
+               "height" : 707,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109239413491791093103\"\u003emudrikah zain\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBQ9LbGo3hyhIMj0rNHAnVHMAbltVdzEPK2Dd6mkxJG6C4wgjIkzOqRLuqsA4C5fhvacxfau1jvulKlyuQ1x8H6ZOrZF0Q9tm9kG096QoXQUtkczKF6MhdhT8q2HfLfoHIIANmFrJMve3u42XS9IyWVyqazE4B4NvnzOmTY8ahRx1Fn",
+               "width" : 1210
+            }
+         ],
+         "place_id" : "ChIJEYrUrv4l_jERvrzpHzf5tlQ",
+         "rating" : 4.4,
+         "reference" : "ChIJEYrUrv4l_jERvrzpHzf5tlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "3JVV+C3R, Kebong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0021997,
+               "lng" : 111.6410604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.0006778697084979699,
+                  "lng" : 111.6425646802915
+               },
+               "southwest" : {
+                  "lat" : -0.00337583029150203,
+                  "lng" : 111.6398667197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Batu PTP jetak",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114732971693295744662\"\u003eApriandi Rusdi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED7u0sXp_YFTT0MMwhzdSy_f_jrKG9o4aDL-Me8Sjiwq49BqHtzXhBZS6GAey9gWpGA-RsJ8APuFdGgakW7Acl_6Njt1rcpLZ2NIKEOEa9Mz94DNszAgbX4zaG1rDJAnIMqvVuqbQoTzDsa2_aGC2cdeWbI4yZrFpOL7mMaakF0dtvp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiZ9JS5HZAS4R32AAmv5F3aw",
+         "rating" : 4.7,
+         "reference" : "ChIJiZ9JS5HZAS4R32AAmv5F3aw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "XJXR+4CF, Nanga Jetak"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,117 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3013512999999999,
+               "lng" : 109.3387601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.302700280291502,
+                  "lng" : 109.3401090802915
+               },
+               "southwest" : {
+                  "lat" : 0.3000023197084979,
+                  "lng" : 109.3374111197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tebing TEMAN Main MANDOR",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103884787500453566926\"\u003eBenjamin Mitshu\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDK0lOx9apt9Lwr2-sqPThMIKWdaBTDgpGr1d0RETZP0AnLPGCIEKMiL4bfCeEEXge40nTy7vSSzzzJ8us4O5m9Dfug6s__oBdTURYX8IVnY3wOSAZrGKQJFAe3dJPwUgwUc3b50jp2xinREStQFZ3MlAxjmqwk1MzDE8rtXX6lzZgz",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJN9PkaKLH4jERLR4oV6kdlyo",
+         "rating" : 4.3,
+         "reference" : "ChIJN9PkaKLH4jERLR4oV6kdlyo",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "882Q+GGR"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.2254601,
+               "lng" : 109.1964354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.226799330291502,
+                  "lng" : 109.1977580802915
+               },
+               "southwest" : {
+                  "lat" : 0.2241013697084979,
+                  "lng" : 109.1950601197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Layang-layangan",
+         "permanently_closed" : true,
+         "place_id" : "ChIJIcug1UWV4jEREdjndyDGgqM",
+         "rating" : 5,
+         "reference" : "ChIJIcug1UWV4jEREdjndyDGgqM",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "65GW+5HM, Jl. Parit Lurah, Peniti Besar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3276016,
+               "lng" : 109.0572086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.329220580291502,
+                  "lng" : 109.0581797302915
+               },
+               "southwest" : {
+                  "lat" : 0.3265226197084979,
+                  "lng" : 109.0554817697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Jongjet / Mangrove Park",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104594638668499342059\"\u003eHennyy Chenn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBrBg_dIMQRjH0tT33lL5LkJP9cnZVx41xw8twrka5uHLS7jXX96zuLLLjakPO_vcC6AOMIutWIpP4MaWQNT5zugfwu1SL1gop4jcvQuCxp0u0azA5Oz9UtE3poCJQhzWjrAtlfZyVm2MVoU0XnpQE5RXlxod-GSEJcWj_0l4RELRZT",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJAQAAAFDs4jER8W9tIweHGbo",
+         "rating" : 3.4,
+         "reference" : "ChIJAQAAAFDs4jER8W9tIweHGbo",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "83H4+2VW, Sei Bakau Besar Laut"
+      }
+   ],
+   "status" : "OK"
+}

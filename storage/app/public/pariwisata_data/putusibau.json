@@ -1,0 +1,369 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8562022999999999,
+               "lng" : 112.921254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8571898802915019,
+                  "lng" : 112.9226502802915
+               },
+               "southwest" : {
+                  "lat" : 0.8544919197084978,
+                  "lng" : 112.9199523197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PANTAI TELUK BARAK",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116825456921653307020\"\u003eGia Puspita\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB7hhLexgRxYzgiOY0XK3V8l3mlKcV65XPSdy5qO6YOwEuGlcWyjegKy__kZfYztYDwHpj-V9-yXSK4yBjaGniG2ASok9p_ZR00K8o3LciwmJO_6i4y_B65YJsfBiedRf9iYZapWvCeUbQGTYtaEWoKQ1QRBPOh5whYCL1J3h7uauXV",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJCQVrhzvqATIRTR9FYVwFbIk",
+         "rating" : 4.5,
+         "reference" : "ChIJCQVrhzvqATIRTR9FYVwFbIk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139,
+         "vicinity" : "VW4C+FGJ, PANTAI TELUK BARAK PUTUSSIBAU, Kedamin Hilir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8388174,
+               "lng" : 112.9320573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.840196930291502,
+                  "lng" : 112.9333989802915
+               },
+               "southwest" : {
+                  "lat" : 0.8374989697084979,
+                  "lng" : 112.9307010197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tugu Jam",
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117040023092814012505\"\u003eproject smk2021\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdsUvz9FdgIiHB8uV_dgvNaP9RzsqqB7REXFxSSvQrbJUExdyQw4NrDUwPpR1BQxm3eEY7sUc79peoiQcjhMt7eRFtV7H9MLtEn_Grox8Z4IZvL02FbQ6hfVICRevAkFq2g4Uq7ZrZ4B8p6rlxnEDroyWHnG3iZntUwsVRCWs8UsI",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJN1aiDDrrATIRN-gQzGUu9NE",
+         "reference" : "ChIJN1aiDDrrATIRN-gQzGUu9NE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "RWQJ+GRF, Jalan Angkasa Pura, Kedamin Hulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8927578999999999,
+               "lng" : 112.9458787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8942639302915019,
+                  "lng" : 112.9469821802915
+               },
+               "southwest" : {
+                  "lat" : 0.8915659697084978,
+                  "lng" : 112.9442842197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Mupa",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115181406692440822086\"\u003eMuhammad Taufan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAMCF6Ft5dAlhTj2ksCklWfEPt1W-368-CDD6-5TfoNPZoGb4GMTWfA-Qu9-mxNi2z7UIdFf7CMbPA1Rr3nhSkVStlGZi1GxbwKiez3fypl-XyB6VZM_PL07c_RfN0o8xoWnhVrwD-Snw0hNQkX9I5eiPUTkQHfN0_KvZxqlKe1JPvV",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ5bfdvJvrATIRKMBC3cTbhh0",
+         "rating" : 3.9,
+         "reference" : "ChIJ5bfdvJvrATIRKMBC3cTbhh0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "VWVW+492, Desa Pala Pulau, Dusun Mupa, Putussibau Utara, Kapuas Hulu, Kalimantan Barat, Pala Pulau"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.792493,
+               "lng" : 113.040001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7956939999999999,
+                  "lng" : 113.04082045
+               },
+               "southwest" : {
+                  "lat" : 0.7914260000000001,
+                  "lng" : 113.03754265
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mother Mary Cave",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100897747603420108621\"\u003eSim Bol\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDreMXH4G7qrMKIB6xT7qt9JU_Aq2yAFQl11eigHC4AKw_zzp51XE07he300djZBqWUa6lm3RZlOaGFXQhqL68PFtGpH3Y7jZPArUg3wH_ueDsdxOnxjUbSvgsmDE4Fgpvx7aZqH7XSupK_JeETV3owzja_2DNeX0IqB9MMCxKIzwE",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJpyx-KQm_ATIRp3xqx_WxryA",
+         "plus_code" : {
+            "compound_code" : "Q2RR+X2 Sayut, Kabupaten Kapuas Hulu, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGMQ2RR+X2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJpyx-KQm_ATIRp3xqx_WxryA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Lintas Kalimantan Poros Utara, Sayut"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6121637,
+               "lng" : 112.8561135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6135200802915021,
+                  "lng" : 112.8574375802915
+               },
+               "southwest" : {
+                  "lat" : 0.610822119708498,
+                  "lng" : 112.8547396197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air Terjun Lubuk Mantuk",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103163803699699722215\"\u003eDavid Purnomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDd2LGX7uQewxyavIKQBVO1PaZ7RQI0-t4qp_PqSA4UoTh_AnmQJzJ_aMU3IwyspMEkq08Tihxlm9ySM6XFqbF5IFIvVQRA4l9LoN5UMsSADFTIBQ2rVZtNOJKOVCpzsa2HhIR5PyKb-yMED-e_fz_Rl4oNc9mKZ2d0CmnlPuoPKrCH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR-NxoUPMATIRowC3nUrEh8o",
+         "rating" : 4.4,
+         "reference" : "ChIJR-NxoUPMATIRowC3nUrEh8o",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "JV64+VC9, Tekudak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5978441999999999,
+               "lng" : 112.9481688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.599294530291502,
+                  "lng" : 112.9495781802915
+               },
+               "southwest" : {
+                  "lat" : 0.5965965697084979,
+                  "lng" : 112.9468802197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Arung Jeram OTL Rantau Kalis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1069,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118281341398729925768\"\u003eArung Jeram OTL Rantau Kalis\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDWwZ0yPzl8uvHXqyzbC4rLBscfYyTOkZZJ3bIN5dFZEzt2wtOkfTSg0FwAvaRWJYYZaeJ6-SYrCNmH55zabYnYSC9BwRVfPP2qf1Rh1UkvdaB_x9_dVgAEZJroVvkz1XTvHlD8xzV-ZkoUId29APFQrt9-684X2wqxXPd-eyRoYAbj",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ6RvvfsfLATIR0oHZ3szK0tQ",
+         "plus_code" : {
+            "compound_code" : "HWXX+47 Rantau Kalis, Kabupaten Kapuas Hulu, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGJHWXX+47"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6RvvfsfLATIR0oHZ3szK0tQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Pantoan, Rantau Kalis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5977419999999999,
+               "lng" : 112.8939647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5990909802915021,
+                  "lng" : 112.8953136802915
+               },
+               "southwest" : {
+                  "lat" : 0.596393019708498,
+                  "lng" : 112.8926157197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Hulu Tubuk",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118149721092308688488\"\u003eJejak Dua Tapak\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDEOu5o7cpi3qoPeD1N5rRjrsMpk9iCOlpDo9a8fzXX7lJmVFZ5qN7-tTo2UQ6vZbeGJLCmL_LDEnx5hOclCywNWO4KrKXkx5LKtq0FB_83ErfOhqgauko558D9A-0SV22B01Yjx0uzbvfAM2KD5bOJsbX10MwstE_b_VAamYQDCxP9",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJsXNZzW_NATIRBOn4vBLy8Jw",
+         "plus_code" : {
+            "compound_code" : "HVXV+3H Nanga Tubuk, Kabupaten Kapuas Hulu, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGJHVXV+3H"
+         },
+         "reference" : "ChIJsXNZzW_NATIRBOn4vBLy8Jw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Hulu Tubuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.7643576,
+               "lng" : 112.6569642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7657065802915021,
+                  "lng" : 112.6583131802915
+               },
+               "southwest" : {
+                  "lat" : 0.763008619708498,
+                  "lng" : 112.6556152197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Ponti",
+         "place_id" : "ChIJu1q-A-fZATIRqPQ8VEZUHE4",
+         "reference" : "ChIJu1q-A-fZATIRqPQ8VEZUHE4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "QM74+PQW, Bunut Hulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2015147,
+               "lng" : 113.1885775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.202863680291502,
+                  "lng" : 113.1899264802915
+               },
+               "southwest" : {
+                  "lat" : 1.200165719708498,
+                  "lng" : 113.1872285197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Nasional Betung Kerihun",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108150605057245808646\"\u003eC P\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDqIJcaBLE93pHaUTEtvamYDN1tuZIgQW7xMGdV4v3opkxwZhHCYHddgZ9vzlY9odTJiJLIs_4KozM2sxaK8Q390O87_sNh69_berh4uCnASENwi6NsMEUcf1mQLhPpC-X1XK8Y-6DKIS9J8ySeG7rp5CQO8mPbYfvNqt3hlGV9h0V9",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJt_reE_nV_S0R7ZK_WZGG1rQ",
+         "rating" : 4.4,
+         "reference" : "ChIJt_reE_nV_S0R7ZK_WZGG1rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73,
+         "vicinity" : "652Q+JC4, Jl. Piere Tendean, Sibau Hulu"
+      }
+   ],
+   "status" : "OK"
+}

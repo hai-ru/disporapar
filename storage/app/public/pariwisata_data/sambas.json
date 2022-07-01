@@ -1,0 +1,833 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBIF20NLg9hTq5Y8qpRRlLpxM9lKgu_gI7keUfvDTUaLVlUPTIKMt9R9uoLX-3I23UURRA-Hxp5lNXUBTQkMZZT2ROVq0Q1CbIyvkaVgGkeDo2L04yKS0M7K7JDHw2VBHXv-a0Efco1_cZUlyIeKu0yXnSvB6QF7sPf6jWMaUnm6u_JStHW2lWGBppV3eWilc5wLd3mzDz3jmH6K-Sop1HzUZY69C3DKCiFx3msXlO4prJmaGhB9fwMeWK7SzsiyRtx8nYSSpQNp3C4WWWns91SjlO9qJiknhJ1iDDPhe2IXcqvBncMGISkEDNxB_7gDyW_Wt7yUwV1sWOGTwowyH11d9T5SfnfiOXtFp6XHuPZpWaG1Nr0B2yajim6dg8DCPLB_16r6WzXx1JOl98VwJWj8cRkxrEYFDS1CtmbYABtNJF70s9uHMfipfxbvVotgSjmVS0",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0169743,
+               "lng" : 109.6002813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.018154230291502,
+                  "lng" : 109.6033959
+               },
+               "southwest" : {
+                  "lat" : 2.015456269708498,
+                  "lng" : 109.5992431
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Batu Nenek",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114341306898456945439\"\u003eTROBOS JAK\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAiGgfjRkxq167ta0ieK7Jr-guOYvaFHdx4KRUetPwIMf0sgxSRzz81jwlbK6VEF-GSNzXBbO4CcJCx0tjEMViGG-VrmRPrngaq7UQ9IGGO0sCS43ly42K2_XrHEeHm-oEnL-xmf-jNijclwx0JHvT99dXwARiRlGWw7s0MglXsvPAL",
+               "width" : 1333
+            }
+         ],
+         "place_id" : "ChIJj0UlbJzK-jERofQepGhZRnA",
+         "rating" : 4.6,
+         "reference" : "ChIJj0UlbJzK-jERofQepGhZRnA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "2J82+Q4M, South China Sea, Temajuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9052714,
+               "lng" : 109.3310867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.90763315,
+                  "lng" : 109.3362752
+               },
+               "southwest" : {
+                  "lat" : 1.90448415,
+                  "lng" : 109.3293572
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Kampak Indah",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112035397228799182554\"\u003ejajagi jalan-jalan dan berbagi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDGIaYFUcs_WrfOUhosFLya05cFjpD61zxLXhY-44G9HUfb1jITQNoFPJ3hem1t7ru0oUEWF1bCB3Juw6eI602DhWhBiDkHQQvWjfSNWxxoGtNbn-Zir6WgtiPyAK7ekJNRuYhukavFoizXuZdgVaCiylspWG19ySU1pD0V5alNa_xk",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJUTgOWo3L-jERGLJYuRGI0Jg",
+         "rating" : 4.5,
+         "reference" : "ChIJUTgOWo3L-jERGLJYuRGI0Jg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "W84J+4C4, Unnamed Road, Temajuk"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9040912,
+               "lng" : 109.331257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.90666085,
+                  "lng" : 109.3369021
+               },
+               "southwest" : {
+                  "lat" : 1.90323465,
+                  "lng" : 109.3293753
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Rindu Samudera",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105831131408600621009\"\u003eINDRA GANDHI\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDGFmbBkkBrGP8jC1Ayiio4De1yZypMLf75IzFrkjzaWJ52p59dmatRsEWgCH-MsSTOUqzxDtNO5wc_afiMjx2e_G6Yq9CCI4Ftbe4_K1qGCahrmNEORDPNM3eUJfIdzIFwODTC104Y8UcVMDib26IE6bbsuAdB2j89791SrbBEsM0",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJlei3k-M75TER92Dz8SSP0K0",
+         "rating" : 4.8,
+         "reference" : "ChIJlei3k-M75TER92Dz8SSP0K0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "W83J+JGJ, Kampak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9038094,
+               "lng" : 109.331423
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.90635775,
+                  "lng" : 109.33702145
+               },
+               "southwest" : {
+                  "lat" : 1.90295995,
+                  "lng" : 109.32955685
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Wisata Rindu Samudeta",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112714018560643317779\"\u003eCahya ARI WIBOWO\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC7G-4J3pdJmI4_HWuxI_J6RBrB4AlKFulc77fZf4D3K5RRoCY4S2IUmXi-yc5MbY2hsqiwquIBM1dpdsLXkio-zutID3U4lbIic5RrAXzU4D_f2kKda5AbSYZsiObXhwpkyXjfm90DMgBZtmofgXgRcQ8Ls1n1gL5mRTP7RTnYatlP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQZlZLZQ75TERZMgqZqdEHzo",
+         "rating" : 4.3,
+         "reference" : "ChIJQZlZLZQ75TERZMgqZqdEHzo",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "W83J+GHF, Jalan Kampak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.8767724,
+               "lng" : 109.4500528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.878121380291502,
+                  "lng" : 109.4514017802915
+               },
+               "southwest" : {
+                  "lat" : 1.875423419708498,
+                  "lng" : 109.4487038197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "WISATA BATU BEJAMBAN PALOH SAMBAS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116920953962872256340\"\u003eDino Eiger\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB5vUNthScSeRFIVXFlxsFyKMnuyaxt6aC7egMvNsGhEuw6w2R1_40qOWepYCzo73VfpyxJD6mrmkpUAR5YGMTH_iEPlRFeb3bt31zC3qzFiKE4iiFMhVfBn14MvrdqPvG8T1ThPIM8DTQLtFd7_a21fkSEz6HN07oCy-zJgCyZhqo6",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJkfUs1IMx5TERG2mMy1vmY10",
+         "reference" : "ChIJkfUs1IMx5TERG2mMy1vmY10",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "VFG2+P23, Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.842789599999999,
+               "lng" : 109.4486104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.844122280291502,
+                  "lng" : 109.4499574802915
+               },
+               "southwest" : {
+                  "lat" : 1.841424319708498,
+                  "lng" : 109.4472595197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Steher Sungai Tengah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106306899128255902946\"\u003eRAMDANI WIJAYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDy6eqsFs912BcaVqaZyb2wmnHVAuFVdjGIm3fSw-lSpaeehiNA2tX2w4YKiNp6uZkVhLRR876Ta0NqqvmK7CFPHSx3lgsT3WWm6c1lY5LH9lKs4rZqlCB4uVGJ8EhHBNvyq1nhDqsYMnDQAYXy9S25D2YJfptnGyuZu00aGS9J-v1x",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJX5nEvs0v5TERF-7qiG8G12U",
+         "reference" : "ChIJX5nEvs0v5TERF-7qiG8G12U",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "RCVX+4C9, Jalan Sungai Tengah, Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9660264,
+               "lng" : 109.5449078
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.967385980291502,
+                  "lng" : 109.5463378802915
+               },
+               "southwest" : {
+                  "lat" : 1.964688019708498,
+                  "lng" : 109.5436399197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PLBN Sempadan Temajok Kab. Sambas (Indonesia-Malaysia)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 756,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104427011658020393008\"\u003eHairudin Mansur\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECYzUujd8HsMA2r5aP1Tfv29Ps47pThhwoCzL-4PKWkm-qGW4ULCVTUR3-RBTY2BSKrNLIsyNfm-9RCejCwGGOuubi3JtlAmWHhaOYWTKkwtPb-4mioDt0PTHIGGp6VQQ7F9yy0_m0JhUp9JzSoxqTLLqi2Q7JMdiubYf1DngCSVB6b",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJga2pdGA15TERVkNT0uHprAs",
+         "rating" : 5,
+         "reference" : "ChIJga2pdGA15TERVkNT0uHprAs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "XG8V+CX7, Dusun Sempadan, Temajuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.8007179,
+               "lng" : 109.3526369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.802036830291502,
+                  "lng" : 109.3540194802915
+               },
+               "southwest" : {
+                  "lat" : 1.799338869708498,
+                  "lng" : 109.3513215197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KIBBASKAN DEWIKU Desa Wisata Sebubus",
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115655535897843045486\"\u003ePablo Eskobar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECSTIcSaVyk_sgkjYWVm3--g4_VSA1Tmd8Q74gsWxyxCIGGKnnRL4NPeju9n4SvV6jqRx4VndR3feTYCYo9pdb766h6PNr01r-GZQ_J8PiDFfMFUodFl5x5_QdfUYwIAd8hliYyj4hO8_v3bw9N3eXJSxNvXuLJhAST6-K3t9xW6--P",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ0bJP2YUn5TERsmjcWl5axKk",
+         "rating" : 5,
+         "reference" : "ChIJ0bJP2YUn5TERsmjcWl5axKk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "R923+73J, Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7882505,
+               "lng" : 109.3322498
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.789496430291502,
+                  "lng" : 109.3351772
+               },
+               "southwest" : {
+                  "lat" : 1.786798469708498,
+                  "lng" : 109.331274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mangrove Park Sebubus Paloh",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110513387065514527192\"\u003eMangrove Park Sebubus Paloh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBMfSbz96FeA_ShSz6kkip_HOWnYEjiGXZoUPsNx_SIm_oDzJzDn6vMXZkUN5c9IRvJ8lqnVX_ncHnVE3KwjTRH2F9hym-PblFv7H0fg23wB2QOYjZ7AtKv5QzzQCwg-TZge_SHj-5WGtNjo_gouVCbKbyZzrqVRx3q7SFre4JHOcoN",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJM5xYqmEn5TERNpkcxWCiTAE",
+         "plus_code" : {
+            "compound_code" : "Q8QJ+8V Sebubus, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHFQ8QJ+8V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJM5xYqmEn5TERNpkcxWCiTAE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7848913,
+               "lng" : 109.3333797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.785776980291502,
+                  "lng" : 109.3344286802915
+               },
+               "southwest" : {
+                  "lat" : 1.783079019708498,
+                  "lng" : 109.3317307197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kampung Budidaya Kelulut Paloh",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104692866679450562154\"\u003eKampung Budidaya Kelulut Paloh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECr5glFTT0yXSGwiscF7w3xL1gcquychgATWTLR4gpN94cGZD3tQsrKXyNT7ivBCRXaeN9f0J7bAmoCTlEky10ljoOiWWE0zesYIPymwUgZkwQr4rdF9HFHdLQ6l1LxkCeggGgNi7ptNfZfMmi6oyN5Hs45PEPt8e7O5WAZoy5lbkXN",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJx1wBVSYn5TERlwbnkqskntE",
+         "plus_code" : {
+            "compound_code" : "Q8MM+X9 Sebubus, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHFQ8MM+X9"
+         },
+         "reference" : "ChIJx1wBVSYn5TERlwbnkqskntE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7833592,
+               "lng" : 109.334872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.784515380291502,
+                  "lng" : 109.3360891302915
+               },
+               "southwest" : {
+                  "lat" : 1.781817419708498,
+                  "lng" : 109.3333911697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Wisata Mangrove Sebubus",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107855161375344484274\"\u003eEko Purnomo SM\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDs2S6dDFcgKAa1LgswPvID7tdYqc9gOvvxtNHu-D-dX9hR2Us5wIzn2BaoBGGL3K6o1gagIkhXJgY36XdK1mC6oYYHTftLZEfkQEBQOP_YUUcnP7XvUJQsfJO1mFrzlr_rYwpWX2LmEgFrbJ5CazRqLKS7CwOKtgg18DYKzLdu91M-",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJQ2dvI14m5TER0y5AXOu7cMA",
+         "rating" : 3.9,
+         "reference" : "ChIJQ2dvI14m5TER0y5AXOu7cMA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Q8MM+8WX, Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7684134,
+               "lng" : 109.3299347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.769802680291502,
+                  "lng" : 109.3312919802915
+               },
+               "southwest" : {
+                  "lat" : 1.767104719708498,
+                  "lng" : 109.3285940197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jual beli tanah di area pesisir pantai paloh berbatasan dengan desa temajuk.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101491088809435256787\"\u003eJual beli tanah di area pesisir pantai paloh berbatasan dengan desa temajuk.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBwYhk94hEPT7GF6Y1luS4g7aDoybwPgP2WGINMBMuIJonew8YEq2BHXxhFs-tHUgVqV5grZgCNXyw1d2wwtWLkDtXWYPWhMJN7mwpWBykm5Pth0uUabG-s4cJQKCjMOLO9suvU18W1SRdS_uyNlQE0-3-UwKPhobosrAzkIsR0GeXq",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJUSDP2iQn5TER-Lv5-HnJnvc",
+         "plus_code" : {
+            "compound_code" : "Q89H+9X Sebubus, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHFQ89H+9X"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJUSDP2iQn5TER-Lv5-HnJnvc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Dusun melati, Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7847358,
+               "lng" : 109.296512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.786084780291502,
+                  "lng" : 109.2978609802915
+               },
+               "southwest" : {
+                  "lat" : 1.783386819708498,
+                  "lng" : 109.2951630197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Selimpai",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100072484411810909058\"\u003eHAZIQ TV\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED7ler1udvddCDdsLHmxRauoSXse8I6YIsiFnFZ6geUIFAezl66Pp4oFR20C0d85R9XdbGXl1hoRxmR5bcQIEhzU27kN-Dq-SAfGfLFtJvnI0rYPXFw5_GJLHruLCvR3GS1LJY2I-2awa81X8EBnGqkX0bxcr5shAtLWlE_F2S9wc3-",
+               "width" : 678
+            }
+         ],
+         "place_id" : "ChIJwSoyDbgm5TER8dx0Y6Lnu5Q",
+         "rating" : 4.8,
+         "reference" : "ChIJwSoyDbgm5TER8dx0Y6Lnu5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Q7MW+VJR, sububus,, Sebubus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9893952,
+               "lng" : 109.5907239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.990624730291502,
+                  "lng" : 109.5921779302915
+               },
+               "southwest" : {
+                  "lat" : 1.987926769708498,
+                  "lng" : 109.5894799697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rumah Terbalik Kalbar",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115195538153455453336\"\u003erud waishuang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAechMkl8DnIf6ioyS-93d8JEzmeWeo7wkGyXP7b9myq99_uVNec_S1EdE1yAmAAA-sJ42TZyOsCDHebL0LzWqH65EVoGC-Xxhxaku0ZQSsqkEx0jbdRWxEtpnxPBO7xVTumpZxgmpWdV9uc3Q3taXARiD4FzVplujkIGkJZ9S0QytY",
+               "width" : 1844
+            }
+         ],
+         "place_id" : "ChIJaxxKIPbL-jERL6GRp5Almdc",
+         "rating" : 4.6,
+         "reference" : "ChIJaxxKIPbL-jERL6GRp5Almdc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "XHQR+Q75, Jalan Temajuk, Temajuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9970898,
+               "lng" : 109.5919414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.998022330291502,
+                  "lng" : 109.5936727302915
+               },
+               "southwest" : {
+                  "lat" : 1.995324369708498,
+                  "lng" : 109.5909747697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Temajuk",
+         "photos" : [
+            {
+               "height" : 4330,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115331924002785183006\"\u003ePantai Temajuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA3eR0WEzc2KIVgYcZpvORxmSCC9ZKM8omBYHUgncVOvBsCfTXKb9ZxjMOLAf9joKVhVeNzISlAMeT6dORQUXOZE0207HySfEcHZOLZcjoLYcvBHQvgsKXDRkfWtpCFymtqQD7jsCgtbH6IndbToIPrkf8BFZzxVBQBmcm0FVW0f5Q-",
+               "width" : 5773
+            }
+         ],
+         "place_id" : "ChIJA7m801I25TERR5VlwGhquDI",
+         "plus_code" : {
+            "compound_code" : "XHWR+RQ Temajuk, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHFXHWR+RQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJA7m801I25TERR5VlwGhquDI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Desa Temajuk, Paloh, Temajuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0097577,
+               "lng" : 109.597947
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.010908330291502,
+                  "lng" : 109.6002513
+               },
+               "southwest" : {
+                  "lat" : 2.008210369708498,
+                  "lng" : 109.5971789
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Penginapan Mutiara Temajuk Indonesia",
+         "photos" : [
+            {
+               "height" : 1952,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104373574463908528492\"\u003ePenginapan Mutiara Temajuk Indonesia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECU8mYCNEPhQn1n4vxREHh1io7jpfWa13xkdnpsMlWQYIMCZXqIxBR3iMUqa5cuoVNyW-D-izT85vY7tfaEFSNZYCFujaZjeMB1_kR6sh6i6_KylnF0E0Z5fpwwXPRHcH-LUA3RXdN-9GclYE4hIR5KCfnKm-Gh_eDYI0XZV_ixFnTM",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJaU2vM9LL-jERvFQFi3fsp3M",
+         "plus_code" : {
+            "compound_code" : "2H5X+W5 Temajuk, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PJF2H5X+W5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJaU2vM9LL-jERvFQFi3fsp3M",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "RT 010 RW 004 Dusun, Jalan Maludin, Temajuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.95444,
+               "lng" : 109.6119918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.955788980291502,
+                  "lng" : 109.6133407802915
+               },
+               "southwest" : {
+                  "lat" : 1.953091019708498,
+                  "lng" : 109.6106428197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Samunsam Wildlife Sanctuary",
+         "place_id" : "ChIJsdy5vXnL-jERIVmqF3KmQeI",
+         "plus_code" : {
+            "compound_code" : "XJ36+QQ Lundu, Sarawak, Malaysia",
+            "global_code" : "6PHFXJ36+QQ"
+         },
+         "reference" : "ChIJsdy5vXnL-jERIVmqF3KmQeI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Lundu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0149689,
+               "lng" : 109.6026906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.016284030291501,
+                  "lng" : 109.6039904302915
+               },
+               "southwest" : {
+                  "lat" : 2.013586069708498,
+                  "lng" : 109.6012924697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Mangrove Maludin-Temajuk",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107790373339409477612\"\u003eBorneo Indonesia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBaSCU8GvzCbBVUqOYQnOYSU-I1u1klsQS_EbLAF9jwU6-Ru3JR-SarXeGnUmWnn6Feee0u24hcu7pfSoC5-r579k-bVXj5Z15HXJ1fh7BDWsRF2d8vj60tepPL9rUgvkr7NatVkP3O0z5QV0y0dbsVXxGdK1DrOQjkMbk6epA4vBFT",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJhfc7HgHL-jER9X-A6iZs408",
+         "rating" : 5,
+         "reference" : "ChIJhfc7HgHL-jER9X-A6iZs408",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2J73+X3P"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0197339,
+               "lng" : 109.6028384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.020824780291502,
+                  "lng" : 109.60534595
+               },
+               "southwest" : {
+                  "lat" : 2.018126819708498,
+                  "lng" : 109.60200255
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Maludin",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107668610509533539131\"\u003eСветлана Ёлкина\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECO1hEamlgmMQA-F107h1Rg2UkwCRCR6q6mTPzSiJsWkELY842uPD6zeOESK2fbDDSeqHvtc_J3pyPqXIdImb9jOCbiE588dPm0Vh4U-Z_xBzHSRJyk9JWw3BCLtjsEp_X6mryw7KF_kyNoH0Me88rivmPpiHbTDiK4RAyBjOyjdmVP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ32dqLerK-jERUscm3J7RPBk",
+         "rating" : 4.1,
+         "reference" : "ChIJ32dqLerK-jERUscm3J7RPBk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "2J93+V4W, Temajuk"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0261152,
+               "lng" : 109.606224
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.027400580291502,
+                  "lng" : 109.6077845302915
+               },
+               "southwest" : {
+                  "lat" : 2.024702619708498,
+                  "lng" : 109.6050865697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Pesisir Maludin",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1196,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109879817617166082598\"\u003eKarisnO\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDBRc6rH4YcoE2zPs8r4SKmSTTzdUqwMWAs5vAecvIrA-wulGoy1daWH3Z4IUilj8SLN93WRslvQ-8xJGsBKhJSZyhUSH4M0lWZPY8NSyAGKT0WM0ELdOLRLq60ubAqi_IDha0Iw2SHqXUXe1xs61GpZcW55jlhKOUspKzAFQQE2UiL",
+               "width" : 1153
+            }
+         ],
+         "place_id" : "ChIJu1JSXYu1-jERjWj3kEir6aM",
+         "reference" : "ChIJu1JSXYu1-jERjWj3kEir6aM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2JG4+CFX, Jalan Maludin"
+      }
+   ],
+   "status" : "OK"
+}

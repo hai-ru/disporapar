@@ -1,0 +1,723 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEB0v29Q5BNQHCqlQ97htyYSfY_RuMmLHQ80GBidLYR2W_vK3Wp1oNaQNftg7qmawtaEhUkS4dglQQUiIJvQHt0C5Sw9YeaCDaGwxPacM0aP7az5FLGxAexBnBH-npQkDbAG0cNhvRfeXPdvFzNr2w1VMDKb2gukdx0QlihQpU-g1KEuxb11AX2IJ7xLw2Zud9KYdeo0z77y0ZYOzmVRf4SOy9uUF1tw2Y9DaxTpJItzX2sbbKeC9yUpYH45Sx-qr7LZh2qH8HpgIYZI6u4PhJO4ta2bx3bUNd2x3DyPicPCAomMzj-goNuyZ6uhpAys-UU6dXyWy-It82lF4MJiGFBIkiSd0ot2rDEjQDWT_neuUIU-fOxHojztBFYiZOOb-MltgOLxtX_z1V8iybld3qvTQhlqrHJeyJuOCcUH5vXvQ2H_KziLgLD-tdyDjlANC8YeT10",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.1275572,
+               "lng" : 109.7148113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.126208219708498,
+                  "lng" : 109.7161602802915
+               },
+               "southwest" : {
+                  "lat" : -1.128906180291502,
+                  "lng" : 109.7134623197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pondok Pekti",
+         "place_id" : "ChIJt4G6r5VXAy4RhgrZPFJ4M5E",
+         "reference" : "ChIJt4G6r5VXAy4RhgrZPFJ4M5E",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "VPC7+XW, Kemboja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2074364,
+               "lng" : 109.6837593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.206087419708498,
+                  "lng" : 109.6851082802915
+               },
+               "southwest" : {
+                  "lat" : -1.208785380291502,
+                  "lng" : 109.6824103197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Malaikat Maut",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104890044875717963406\"\u003eAl Farabi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBPAtGB1_eswunakikYe9G5owcfZSiztw9oSlsnA2dqLp9lVXRCFjisJoc0FCqy1LCNEoXxylDNikztlamqIMDjCFRdLHHMoo0DvD6OMEIq0l8-Bus-IvAVRfa-CeoK8R1aK9OXz1PX75KVqh4Yigw-2YXP0rKa7f8ifGLIGPKQrOaL",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJVZ8B1JWpBC4RnR1HNvE-slQ",
+         "rating" : 5,
+         "reference" : "ChIJVZ8B1JWpBC4RnR1HNvE-slQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "QMVM+2GC, Unnamed Road, Tanjung Satai"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.063412,
+               "lng" : 109.8268967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.062149669708498,
+                  "lng" : 109.8281173802915
+               },
+               "southwest" : {
+                  "lat" : -1.064847630291502,
+                  "lng" : 109.8254194197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ana Diana",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104068988945609475744\"\u003eSudir Ms\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAGJdiq-QtGnJerRmRvgOnmr3A3JXdW1P0hyoBgjMMlMiTPA61FeDpMP4rxUTBVWjMQnywT6wu9gFF8ILM2alTY9fcXt-LFRrh_XncgHDFXvKCTJuBy4YdDPWaaH8VxES_adI4m60HMj7i_tGtTATPhxwsa3xmZ8BqfnFRI8I_Nf60t",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ3UfQrXdbAy4RgHz7lFnXVHY",
+         "reference" : "ChIJ3UfQrXdbAy4RgHz7lFnXVHY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "WRPG+JQJ, Unnamed Road, Padu Banjar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9954451000000001,
+               "lng" : 109.7711353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9941132197084979,
+                  "lng" : 109.7725007302915
+               },
+               "southwest" : {
+                  "lat" : -0.996811180291502,
+                  "lng" : 109.7698027697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pelabuhan Baru",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJV7hDjZFFAy4RHnD_bqYpFQc",
+         "reference" : "ChIJV7hDjZFFAy4RHnD_bqYpFQc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "2Q4C+3G, Teluk Batang Selatan"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2357058,
+               "lng" : 109.8872756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.234356819708498,
+                  "lng" : 109.8886245802915
+               },
+               "southwest" : {
+                  "lat" : -1.237054780291502,
+                  "lng" : 109.8859266197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "BMI(BUKIT MUL INDAH",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108412183601262780600\"\u003eJeky Chandra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAr8cS6Qh4SsDDcefJrPCriCFJpcnv6NeQHA4RfDOqJaBsc4M8WJEUt2Kk_BZwaUZjyqkCNEY_liTx0pySRTSv5bPfGd8vbQKcGHuGJobcz_NtS93a9t0VFQiJsbEy_I0UINWtLZH70JtFj4-mEfqkGU_rCD7bUmvIAF7gtM4rSE-tF",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJqRjn-UqjBC4RW6ZFZtfpvPA",
+         "reference" : "ChIJqRjn-UqjBC4RW6ZFZtfpvPA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "QV7P+PW6, Harapan Mulia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2155968,
+               "lng" : 109.9299459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.214505369708498,
+                  "lng" : 109.9319140802915
+               },
+               "southwest" : {
+                  "lat" : -1.217203330291502,
+                  "lng" : 109.9292161197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Pasir Mak Seni",
+         "place_id" : "ChIJzQ7trvOjBC4RRMUEGLWUSPA",
+         "plus_code" : {
+            "compound_code" : "QWMH+QX Gunung Sembilan, Kabupaten Kayong Utara, Kalimantan Barat, Indonesia",
+            "global_code" : "6PCFQWMH+QX"
+         },
+         "reference" : "ChIJzQ7trvOjBC4RRMUEGLWUSPA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Pantai Pasir Mak Seni, Gunung Sembilan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2155968,
+               "lng" : 109.9299459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.214505769708498,
+                  "lng" : 109.9319138302915
+               },
+               "southwest" : {
+                  "lat" : -1.217203730291502,
+                  "lng" : 109.9292158697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai mutiara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100255436505013206684\"\u003eMariani Rinn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEATtWG7H5vSrPF7Xn2XIS2bbLSwPNYg9De09q1iS-FEGw9r2YRIvNBAN3oaeYZ2Mh8Nb1VNwSRNiSRPRuxn8SE9Fr4wvXCt5np3VFkcPegUOeGLu0kJjlIftPLalIb9gUcA_QmPNaNM_7QvQ55XXPqRKpIksIy69jX2L55DY5t7n3sM",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJPyXLIWmjBC4R6Y57KZxBA-Q",
+         "rating" : 4.4,
+         "reference" : "ChIJPyXLIWmjBC4R6Y57KZxBA-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "QWMH+QX8, Unnamed Road, Gunung Sembilan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9377876999999999,
+               "lng" : 109.7532148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9359786999999998,
+                  "lng" : 109.7546791802915
+               },
+               "southwest" : {
+                  "lat" : -0.9432146999999999,
+                  "lng" : 109.7519812197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai Masbangun",
+         "place_id" : "ChIJPSCG-qBPAy4RpI3PTyDalqY",
+         "reference" : "ChIJPSCG-qBPAy4RpI3PTyDalqY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "3Q63+V7P, Sungai, MAS Bangun"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2277841,
+               "lng" : 109.9346485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.225867169708498,
+                  "lng" : 109.9387471
+               },
+               "southwest" : {
+                  "lat" : -1.228565130291502,
+                  "lng" : 109.9332823
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Mak Ukon",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJrWe35z-jBC4RIyJIyZVuqf8",
+         "reference" : "ChIJrWe35z-jBC4RIyJIyZVuqf8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "QWCM+VV, Gunung Sembilan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2326686,
+               "lng" : 109.9366092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.231243269708498,
+                  "lng" : 109.9379206302915
+               },
+               "southwest" : {
+                  "lat" : -1.233941230291502,
+                  "lng" : 109.9352226697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Masenik",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ3fX7N6yjBC4RG7juo_O63u4",
+         "reference" : "ChIJ3fX7N6yjBC4RG7juo_O63u4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "QW8P+WJ, Gunung Sembilan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.1028991,
+               "lng" : 109.9635493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.101356219708498,
+                  "lng" : 109.9644928802915
+               },
+               "southwest" : {
+                  "lat" : -1.104054180291502,
+                  "lng" : 109.9617949197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai Gusti Room",
+         "place_id" : "ChIJcS8l8I1hAy4RjD-LzZNwsok",
+         "reference" : "ChIJcS8l8I1hAy4RjD-LzZNwsok",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "VXW7+RCV, Telukmelano"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.1684468,
+               "lng" : 109.9700218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.167097819708498,
+                  "lng" : 109.9713707802915
+               },
+               "southwest" : {
+                  "lat" : -1.169795780291502,
+                  "lng" : 109.9686728197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Terusan Jawe Rantau Panjang",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109584160234121387954\"\u003eKayong Tv\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED0a4XRoY3wZWPrLH1jzDJYArF4ymkZ4rLfBLr0wvcfOA97X-xCyCbBxLGkald3DVuJX6eOtdQybsbuyei2L9kSpsk-2iuwtbGNJG3-zNs-X90axAuBnF5eI_3pGwC0tQk8kEjZ4i2d8xrZeCSVV9SoNCOe5ohSOFSiqyIrPuzPIDhi",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJqfAbH52fBC4RvqjAIexxFjA",
+         "reference" : "ChIJqfAbH52fBC4RvqjAIexxFjA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "RXJC+J2C, Jalan Provinsi, Harapan Mulia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2512248,
+               "lng" : 109.9441535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.250065619708498,
+                  "lng" : 109.9451758302915
+               },
+               "southwest" : {
+                  "lat" : -1.252763580291502,
+                  "lng" : 109.9424778697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Bakau Sukadana",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110833276377233694410\"\u003eSigitarius Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDGKNYED458ts1GWksJwVJSY_bryl8GdznrfoG2Vh8g7F9cSNoiYXozowhfzImhdJDf7H83Ox0hflsAaHELOFMtYjXU7Vk5z6lEty0UxLJvnN4GyAr4LZNWum7tAzyQ8lu-oO7IBYig0BeyfQeLDsX9B75B-qjc9DYoHHKZUCiPtsjP",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJbzi9NoGiBC4RaASZU-yAdyc",
+         "rating" : 4.6,
+         "reference" : "ChIJbzi9NoGiBC4RaASZU-yAdyc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "PWXV+GM6, Jalan Pelabuhan TPI, Dusun Tanah Merah, Sutera"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2259931,
+               "lng" : 109.9710625
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.224586419708498,
+                  "lng" : 109.97454715
+               },
+               "southwest" : {
+                  "lat" : -1.227284380291502,
+                  "lng" : 109.96990095
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "poktan pangkalan timur",
+         "place_id" : "ChIJqUt4rc6ZBC4RD0Jl3aJiRqs",
+         "reference" : "ChIJqUt4rc6ZBC4RD0Jl3aJiRqs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "QXFC+JC, Sutera"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2640812,
+               "lng" : 109.9604359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.262664219708498,
+                  "lng" : 109.9617463302915
+               },
+               "southwest" : {
+                  "lat" : -1.265362180291502,
+                  "lng" : 109.9590483697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pantai Pulau Datok",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102939968315349491475\"\u003eTeguh Karya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECn0cBNtIHHOzg8a0NkYeuB6Vn19jan-lU4oec_VJ3kj3FEZRkYVZ5AMTQ2vUM_a1UHDi8TJpyhOIMTT0xIKAeQ2v05u9BqxOZHbRj5Gaqx3ZYcm8WvwTKMiOSFyiHi4mNblF5LxeXdAlv31kFX0nlUUzDNWYNrX6MHEOb5ScEuRMk1",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-ZAFjHKYBC4RphEJ7PcVvl0",
+         "rating" : 4.3,
+         "reference" : "ChIJ-ZAFjHKYBC4RphEJ7PcVvl0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 644,
+         "vicinity" : "PXP6+957, Pampang Harapan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8894175999999999,
+               "lng" : 109.7855361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.8885903197084979,
+                  "lng" : 109.7863184802915
+               },
+               "southwest" : {
+                  "lat" : -0.891288280291502,
+                  "lng" : 109.7836205197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Batu Bing",
+         "place_id" : "ChIJI_L3zT1HAy4RDEVcfKQHKZk",
+         "rating" : 5,
+         "reference" : "ChIJI_L3zT1HAy4RDEVcfKQHKZk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "4Q6P+66M, Podo Rukun"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.2283271,
+               "lng" : 109.9839213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.227036819708498,
+                  "lng" : 109.9851801302915
+               },
+               "southwest" : {
+                  "lat" : -1.229734780291502,
+                  "lng" : 109.9824821697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pemandian Alam Air Paoh",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112862826711555877276\"\u003eKnia khaerunnissa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED5BHYXYxIE6-9kHAZIpuoEdTLVIA9z4Y4qfigu-0R4IfpAfpxF4P5hpgbULGQSB8nOhXsQODQfH9Vw_8KFDv2CBGHU-M43ybDjue2NkHDRjQ5PZUZF6X7rvgcc8y0vHcJfKqBjRr1kGBFP9EUbkiIXc75CSAEb2hg4zv2J4gBAxiK7",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJmwzDw8KYBC4RBFSZhDeHZuY",
+         "rating" : 4.2,
+         "reference" : "ChIJmwzDw8KYBC4RBFSZhDeHZuY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 175,
+         "vicinity" : "QXCM+MH7, Pangkalan Buton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.195277,
+               "lng" : 109.997094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.19320265,
+                  "lng" : 109.9983179302915
+               },
+               "southwest" : {
+                  "lat" : -1.19596845,
+                  "lng" : 109.9956199697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bendungan munting",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100647801058905620307\"\u003eIcky\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjUo-BBJgMjK8KyPv4iPZjCZ0N612YVD3xhKzozOcA9kH755vmov2xslZYi1IfMBL7f51qoQocwtu9srrmoU-PCwu2-_yhzvvi-iDKpSAo7K-MU-XncRGo-sOpHZWvhL_rKZrZhq_IP3iOuJOx6Oiu6HC9c8OVAExP7XMkGekiitPR",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJoynDqJafBC4RtnWAZ7Ks77w",
+         "rating" : 5,
+         "reference" : "ChIJoynDqJafBC4RtnWAZ7Ks77w",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "RX3W+VRQ, Benawai Agung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.221394,
+               "lng" : 109.990548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.220045019708498,
+                  "lng" : 109.9918969802915
+               },
+               "southwest" : {
+                  "lat" : -1.222742980291502,
+                  "lng" : 109.9891990197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pemandian Mak Jobak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100255436505013206684\"\u003eMariani Rinn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC1p7ZBH3qg5sVr6tOxZ_S-FL-hghOwcnZQ-EU1eEkaTXUJiM0i6QoQq26D-pAtVzJqJtRycScN4Obe8aRAep87OLEpyyB9fPjcgdLLg3kOjF_XghrN3WPDh3vf845p8ZGanhoc5oqUTDVIUTK_mziaQxfZgrXxiwKAjH9Q3q-YkewC",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJvdCCxmeZBC4RdRDPUoLDGek",
+         "rating" : 5,
+         "reference" : "ChIJvdCCxmeZBC4RdRDPUoLDGek",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "QXHR+C6V, Jalan Sungai Gali, Pangkalan Buton"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.246645,
+               "lng" : 109.9910443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.245267469708498,
+                  "lng" : 109.9924287302915
+               },
+               "southwest" : {
+                  "lat" : -1.247965430291502,
+                  "lng" : 109.9897307697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Simpang saut",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117306846487252361204\"\u003eCenelYutub\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAHb0FUr47b6cTfh1AU8F2GmLM4Q5VWcW50xHof4LRAAU-PLyVH-d8i_Vtvyu-VWXKRyvohN4zOergHzfq07Tx3Q31e2oPSCFSzAc40oYCLkrUwnPf6P3GYoKLiw3ylnR47W4avir71NsRjFJjz0U3n3wKA4Xk45AasWYpuAmDLXvKe",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJSaW7qOmZBC4RdCnBw1_iOHk",
+         "rating" : 5,
+         "reference" : "ChIJSaW7qOmZBC4RdCnBw1_iOHk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "QX3R+8CV, Jalan Poros Sukadana - Ketapang, Pangkalan Buton"
+      }
+   ],
+   "status" : "OK"
+}

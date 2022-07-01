@@ -1,0 +1,268 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.482861,
+               "lng" : 109.3841465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.481723869708498,
+                  "lng" : 109.3854677302915
+               },
+               "southwest" : {
+                  "lat" : -0.4844218302915021,
+                  "lng" : 109.3827697697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Makam Raja Kubu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104170042360250214167\"\u003eHeru Prasetyo Permana\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECkBI4hKfoeD3Ly8zxyaYSYrgJTwaCeiWUTUlZXPxX0U8YndBwB2grhO5eWG9zSxGNAYFPAg8kB4DSRERK97E_o4zMDyhyKGlhC0ByCUGhm8RtppwtpCj3U8mW7-4yafa31rpUABSul1W7pgwaDuWkU_6CCRd0VsVeAKZTDlJILI_kG",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJM6LbVVkvHS4RAyZTO0mND-g",
+         "plus_code" : {
+            "compound_code" : "G98M+VM Kubu, Kabupaten Kubu Raya, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFG98M+VM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJM6LbVVkvHS4RAyZTO0mND-g",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 103,
+         "vicinity" : "Kubu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.5071879999999999,
+               "lng" : 109.4025663
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5053563697084978,
+                  "lng" : 109.40425935
+               },
+               "southwest" : {
+                  "lat" : -0.5080543302915019,
+                  "lng" : 109.39748715
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Parit banjar",
+         "place_id" : "ChIJx5_3XGEpHS4RVY8LdAoQYOE",
+         "rating" : 4,
+         "reference" : "ChIJx5_3XGEpHS4RVY8LdAoQYOE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "FCV3+42G"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.4009457000000001,
+               "lng" : 109.4193928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.400088069708498,
+                  "lng" : 109.4205236802915
+               },
+               "southwest" : {
+                  "lat" : -0.4027860302915021,
+                  "lng" : 109.4178257197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Krisna Indar",
+         "place_id" : "ChIJ8SKOiCkxHS4R1SjVRWHowU0",
+         "reference" : "ChIJ8SKOiCkxHS4R1SjVRWHowU0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "HCX9+JQC, Jangkang I"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3192801,
+               "lng" : 109.3693163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.317700869708498,
+                  "lng" : 109.3707130302915
+               },
+               "southwest" : {
+                  "lat" : -0.3203988302915021,
+                  "lng" : 109.3680150697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tanah harapan ismet",
+         "place_id" : "ChIJUanxL3Q5HS4RiyP9felwjlw",
+         "rating" : 5,
+         "reference" : "ChIJUanxL3Q5HS4RiyP9felwjlw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "M9J9+7PP, Pinang Luar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3504285,
+               "lng" : 109.2744511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3488974697084979,
+                  "lng" : 109.2752775802915
+               },
+               "southwest" : {
+                  "lat" : -0.351595430291502,
+                  "lng" : 109.2725796197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SAUNG LESEHAN",
+         "photos" : [
+            {
+               "height" : 6000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114268157123166894318\"\u003eAndira Filbert\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBdT1zLlWHru6L2VsFPW_F1JXxERchAf1dHtSmZbRYj540b18jkXRdBhAmVmZqwobXCSnTYvOUJlprTOsMt7YUQlKDk7xMWzWZwIp62oTyUl2UJb_JhWVjXQA_Pon0gDyt7BohnNTLN8e_wdv4liea_tBgFcYrl_gtWXL1Lt-9EoMVG",
+               "width" : 8000
+            }
+         ],
+         "place_id" : "ChIJOxMoDXo_HS4Rj4COs-P0GFk",
+         "rating" : 4.5,
+         "reference" : "ChIJOxMoDXo_HS4Rj4COs-P0GFk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "J7XF+RQG, Unnamed Road, Sei Deras"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3622413,
+               "lng" : 109.2601451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3608923197084979,
+                  "lng" : 109.2614940802915
+               },
+               "southwest" : {
+                  "lat" : -0.363590280291502,
+                  "lng" : 109.2587961197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air Terjun Mini",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113048361786850399435\"\u003ebatoru r7\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECHKMXJB-Dra_6wVfB3wowJRm_VbcyxJ4Oh-v6y1rD2Xv25lGwjpced4X0R1moR04rzaAE8JYiqYGaKASZJ-ezRXj6C4kynA8K3xL_9deUXLHFkYaG2s23lQllTE0pNqat6kiBWrOZYDYeHfGZDDxHB1I-RAu1wSqBssNAmx2xH_5eF",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ0y4rppQ9HS4RrMH1ns7seOw",
+         "plus_code" : {
+            "compound_code" : "J7Q6+43 Sei Deras, Kabupaten Kubu Raya, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFJ7Q6+43"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0y4rppQ9HS4RrMH1ns7seOw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Unnamed Road, Sei Deras"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.5973872,
+               "lng" : 109.2562829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.59119895,
+                  "lng" : 109.2582699302915
+               },
+               "southwest" : {
+                  "lat" : -0.5994499500000001,
+                  "lng" : 109.2555719697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mangrove Beteng Batang",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104208432961395887346\"\u003earigamcoy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBdJbUMMF3xpKKG7sE_etR0ntrDOtBvzHKKIyf24gnUWF6ydngypLEvbDut6eibr2E2mWfB4p5wYMoUVikO2TOx4wadUa1h7njKxQJjaEt5IyPRzrlv4BlMrKDb1lHCj-juU1OVcaRusyEwEtFURkfEVkbXuj4wk9_R4csbIA_WsLea",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJmfRqgs_fHC4RiaLtZ4S9qFw",
+         "rating" : 4.4,
+         "reference" : "ChIJmfRqgs_fHC4RiaLtZ4S9qFw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "C734+2GV"
+      }
+   ],
+   "status" : "OK"
+}

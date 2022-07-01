@@ -1,0 +1,760 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uECC6Togt3uvE6MxluofCBWVUUxWp-6mI2QwN293lXYMsIcVCdhQw73kHGR7k7DsPNOye2aaQ8ZvZMmPudMBqVKLg5CLrovGru9YWIdybkwBVXi_Ee6p50o3-JH3CO92AaebKjqeAm3uclb4I8_p9H4exhwT0PFhQuzBDrPBz5SobIuIdQX8qZgaxd1fOPDJnnfgg5Batav4eqjcl3ApnGx1TOFWaZrVFLJOEFPZC0CyiKTcWfNc1SuOoADpc64GUBOzOl6CmJSweXDEQGeZL5dhBPUjVzrddSy5qFCHzqjB6j7YpdMmOt4mC0Elb-vdzVpCC11FDtoQCLVk43voI8PQPmvaO4oWFkNPaBhgDmwhmUA-mLS9mriWSm0K14LfPnfZhRfSivlYq18Z9Em0dtMTGn1Nvj1F7ZkQWbuSiNXJmAbH6C7PcnGarCKfzggKQBMCnes",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.4677538,
+               "lng" : 111.5143724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.466404819708498,
+                  "lng" : 111.5157213802915
+               },
+               "southwest" : {
+                  "lat" : -0.469102780291502,
+                  "lng" : 111.5130234197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Riam Gurun Nibung",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113195003884157474019\"\u003eZul Adam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBz_D0ebUV96VFPHLkpYqmRVb5YrNd0rjNi6RKLYjHIit6yIvCBtcKCPjC4Xdlssp_PI_dM7_J7Lco7xSfzF7y6ho4MzBXfjhdYHKaLNcXLSNubjuFOsrufwrjPLVw8mSkgG-9dEUhqCd6zk_aNXwLZM3fhd02kCYI8nwIKLEhG7Ck5",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJHW8FJkmiAS4R_mfAQLgsBjI",
+         "rating" : 4.6,
+         "reference" : "ChIJHW8FJkmiAS4R_mfAQLgsBjI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "GGJ7+VPX, Nanga Raya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3396364,
+               "lng" : 111.7616831
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.338333069708498,
+                  "lng" : 111.7624145
+               },
+               "southwest" : {
+                  "lat" : -0.3410310302915021,
+                  "lng" : 111.7594889
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jembatan Melawi II",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115145734450937008809\"\u003eAge Wijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDzSgCA8JisC00PLqfXhRVBS6dj71YN6ZahJazkrSmzv4otKx06EskhEdgHIUDkx61ocmiWFgZW-txbyqz9zDyjiQ1PBqkH15VYHGNKl7uWNvrRrCuCgv9mBHH5vGsvxlfCUwwulaBZZlCL-7BRDI0B9tV3eeE53G4TdPXrO12Ok14f",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJCcvZwZK1AS4RI0k3-xt7fw8",
+         "rating" : 4.7,
+         "reference" : "ChIJCcvZwZK1AS4RI0k3-xt7fw8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "MQ66+4MV, Unnamed Road, Paal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.335699,
+               "lng" : 111.7551512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.333802069708498,
+                  "lng" : 111.7565798802915
+               },
+               "southwest" : {
+                  "lat" : -0.3365000302915021,
+                  "lng" : 111.7538819197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai Melawi",
+         "place_id" : "ChIJb8k3pEe3AS4R6ecCE-KnaVk",
+         "reference" : "ChIJb8k3pEe3AS4R6ecCE-KnaVk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "MQ74+P3C, Jalan Kramat Raya, Paal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3291368,
+               "lng" : 111.7376146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.327476469708498,
+                  "lng" : 111.7390331802915
+               },
+               "southwest" : {
+                  "lat" : -0.3301744302915021,
+                  "lng" : 111.7363352197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai Melawi",
+         "place_id" : "ChIJeX0nQ323AS4RaGna7co33VY",
+         "plus_code" : {
+            "compound_code" : "MPCQ+82 Tanjung Niaga, Kabupaten Melawi, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFHMPCQ+82"
+         },
+         "reference" : "ChIJeX0nQ323AS4RaGna7co33VY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Beringin No.5, Tanjung Niaga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3326851000000001,
+               "lng" : 111.733932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3313198197084981,
+                  "lng" : 111.7352752302915
+               },
+               "southwest" : {
+                  "lat" : -0.3340177802915021,
+                  "lng" : 111.7325772697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jembatan Nanga Pinoh Melawi",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112644048348013796035\"\u003eNovendy Laia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDwxRoy2tTMCwRt7GF8szqFCcgBH1xjjKBGWmcNJ7IYNX_4B2KYSYPh5x5ZzxgAVvNEjjlwpBkmHDkVXOW9HKQP63u67NgKVO-nqVxkwHV9jYtsAGQ92k_tumh2ycWXReOVmh6RdC-RnQACTWrEXWZxDV2G1geqhfM7ZLH6UxUEyHtu",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJM6PkD-m3AS4R4DtXHT1Pxr0",
+         "rating" : 5,
+         "reference" : "ChIJM6PkD-m3AS4R4DtXHT1Pxr0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "MP8M+WHF, Jalan Raya Propinsi, Sidomulyo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3318919999999999,
+               "lng" : 111.733398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3305444197084979,
+                  "lng" : 111.7347168302915
+               },
+               "southwest" : {
+                  "lat" : -0.333242380291502,
+                  "lng" : 111.7320188697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Destinasi wisata Cahai Dahat",
+         "place_id" : "ChIJU2zPbYW3AS4Rqb0sur4CbA8",
+         "reference" : "ChIJU2zPbYW3AS4Rqb0sur4CbA8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "MP9M+69R, Desa Nyangau, Sidomulyo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3536417,
+               "lng" : 111.71472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3517596697084979,
+                  "lng" : 111.7159543302915
+               },
+               "southwest" : {
+                  "lat" : -0.354457630291502,
+                  "lng" : 111.7132563697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "THAMBUNESIA HOMESTAY",
+         "photos" : [
+            {
+               "height" : 1201,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109570687460119415617\"\u003eTHAMBUNESIA CHANNEL\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA3OeeDZxnuE0bEK2s5b_0tM8-Sm7zfqfzH7npmT-SAI5bkH1l94r8d4PxU5p1mmMJwN7369vEEr494xZMtu-EhFETqZ_jMHvAKuo-FDBVbFspJVnKaQeSUnMBoKbB62Kf83ckgrxic_j2Bq47V6wAs1kfDzhJFXYbWaRxXkbumxBUj",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJkVqJRzyxAS4RzzFeniVhBs0",
+         "reference" : "ChIJkVqJRzyxAS4RzzFeniVhBs0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "JPW7+GV, Sidomulyo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3657103,
+               "lng" : 111.7932413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3647701197084979,
+                  "lng" : 111.79421685
+               },
+               "southwest" : {
+                  "lat" : -0.367468080291502,
+                  "lng" : 111.79031465
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai Melawi",
+         "place_id" : "ChIJ60IUgkOzAS4RX9wZnDFabFs",
+         "rating" : 5,
+         "reference" : "ChIJ60IUgkOzAS4RX9wZnDFabFs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "JQMV+P79, Unnamed Road, Kelakik"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3716875,
+               "lng" : 111.7133125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3685809999999999,
+                  "lng" : 111.7143280802915
+               },
+               "southwest" : {
+                  "lat" : -0.3727230000000001,
+                  "lng" : 111.7116301197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Lepung Kurnia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110415948374753438877\"\u003eLepung Kurnia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB3Jmc48019zMMazQZ8LDBGi40xQMgDW9ZwT83hjsM7dTAwsa7sZkejPnsq96cxrz9sGcxNoRQ3edB6rrBSl57gu9QEl8C_xIzEDPnm-7F9TAMoHpn0fn0AnaC0XTl8wBixV2upIEhvwjeiikoaLKxmbYpH_TPgc3-M3w3vuqoOKuZR",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJQZKRAYixAS4RkIjsBstu-cY",
+         "plus_code" : {
+            "compound_code" : "JPH7+88 Tembawang Panjang, Kabupaten Melawi, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFHJPH7+88"
+         },
+         "rating" : 4,
+         "reference" : "ChIJQZKRAYixAS4RkIjsBstu-cY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30,
+         "vicinity" : ""
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3494375,
+               "lng" : 111.8008125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.348613969708498,
+                  "lng" : 111.80287765
+               },
+               "southwest" : {
+                  "lat" : -0.351311930291502,
+                  "lng" : 111.79461705
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SUNGAI MELAWI",
+         "place_id" : "ChIJEbbIwV2zAS4RXzZ4ORW7TD0",
+         "reference" : "ChIJEbbIwV2zAS4RXzZ4ORW7TD0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "MQ55+5GV, Paal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3264160999999999,
+               "lng" : 111.6958831
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.3250671197084979,
+                  "lng" : 111.6972320802915
+               },
+               "southwest" : {
+                  "lat" : -0.327765080291502,
+                  "lng" : 111.6945341197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KORWK G&G",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2730,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114527382587559620489\"\u003eRadius Natalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDyBLkkF9Nd-C7yblfMMxvHYbXeqenTPmPuh1atEWs6TDBSntVJGY3nAlRN-tGKyHqkbQa4eJRQAI-dF_N_RdDrEcdxhcCefXjXqDWT5GcpCpifW1PcXH2sJ55tM56_dT7qPhDfzfX40XLmRCP1t4InQU3xn7Brq5XWg9ZQnAdOKW5k",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJp6Wxgnu3AS4RMRfp5YpdOPc",
+         "plus_code" : {
+            "compound_code" : "MMFW+C9 Baru, Kabupaten Melawi, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFHMMFW+C9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJp6Wxgnu3AS4RMRfp5YpdOPc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Provinsi No.KM.13, Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.425139,
+               "lng" : 111.786575
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.423763469708498,
+                  "lng" : 111.7879485302915
+               },
+               "southwest" : {
+                  "lat" : -0.4264614302915021,
+                  "lng" : 111.7852505697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Panorama Alam AS",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103272511663117613770\"\u003esilvia mirna magdalena\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLYjWqQtYBE_QNb2fWTaxob3tKsGk3yEkqFInRadop6sVxmQQl-V3DY1DJoNQvl0jWPoUfXWSsD9py_UiYbIhp2w7cbF80Rud6Pt9iqbAdl2XVFyKg6v6kG9FK3ELUzFHfDJsEw8JyCMO1J06fEVCzaEYk7kMloqW_W1SNfSpb7ujH",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJYXVuhUGtAS4RZBDwDJVruiU",
+         "rating" : 4.3,
+         "reference" : "ChIJYXVuhUGtAS4RZBDwDJVruiU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "HQFP+WJ, Manggala"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.4271354,
+               "lng" : 111.8002099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.425786419708498,
+                  "lng" : 111.8016960302915
+               },
+               "southwest" : {
+                  "lat" : -0.428484380291502,
+                  "lng" : 111.7989980697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Panorama Alam As",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113711578843778601929\"\u003eSa Pii\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAXz0AzP1N1-U05fRcjOrGzmsWzpoIr1WUXumN4w6CAMkn2GIdwts5vqYwTbZMyeJjJXXxpdZbsPiarnDVCQJn77qhi_qinOY5-fxlFmlTFLtiqe4jJqhrOaT2DF9V2qx3YhLXhZyin249K8PskwJq5N1fiheRgAqZgwHjQq_FnV3Pa",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJm6G4HnStAS4RSN8n-oZCsho",
+         "plus_code" : {
+            "compound_code" : "HRF2+43 Manggala, Kabupaten Melawi, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFHHRF2+43"
+         },
+         "reference" : "ChIJm6G4HnStAS4RSN8n-oZCsho",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl.Propinsi No.Km.13"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3703974,
+               "lng" : 111.8433667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.369114319708498,
+                  "lng" : 111.8445954802915
+               },
+               "southwest" : {
+                  "lat" : -0.371812280291502,
+                  "lng" : 111.8418975197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DANAU KUBO",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ83SkLPCzAS4RcyvCmAwxEK4",
+         "reference" : "ChIJ83SkLPCzAS4RcyvCmAwxEK4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "JRHV+R8X, Unnamed Road, Nanga Kebebu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.4443364,
+               "lng" : 111.7972384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.4430926000000001,
+                  "lng" : 111.7983439302915
+               },
+               "southwest" : {
+                  "lat" : -0.4480677999999999,
+                  "lng" : 111.7956459697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PANORAMA ALAM AS",
+         "place_id" : "ChIJ48sBZTStAS4RPLAM-wiWyS4",
+         "reference" : "ChIJ48sBZTStAS4RPLAM-wiWyS4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "HQ4W+7V9, Manggala"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.4621029,
+               "lng" : 111.7256936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.4607539197084979,
+                  "lng" : 111.7270425802915
+               },
+               "southwest" : {
+                  "lat" : -0.463451880291502,
+                  "lng" : 111.7243446197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata batu licin",
+         "photos" : [
+            {
+               "height" : 1968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104299175420239394512\"\u003eESA27 Production\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB8snf5DzSgnZZNJbUx2y9-G2POvKYs0ZGjVKdjNkwGqK5Hzkc91GW8ikSaxc87dW3COdu-09r2EPQ9QKifAUJM-qPQ52ZfSkUgmoiI3eIyqwBU4UZcHFZDa8pI5psxSGqpNJ_310hHzP3o-GYvaSI1HmhvlLgUTioyhJoQgKN17VWQ",
+               "width" : 4144
+            }
+         ],
+         "place_id" : "ChIJ-9RYijavAS4R1VcUvqHeh5g",
+         "rating" : 4,
+         "reference" : "ChIJ-9RYijavAS4R1VcUvqHeh5g",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "GPQG+574, Poring"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.3018125,
+               "lng" : 111.6348281
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.2998706197084979,
+                  "lng" : 111.6366394802915
+               },
+               "southwest" : {
+                  "lat" : -0.302568580291502,
+                  "lng" : 111.6339415197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Matuari Water Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112937383708215570983\"\u003eANGGA RISKI F\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAQQLDXBrjx5Mw2E6hD61lcpcKOtBWZtIhr26R4NgKrOVwgrYTYMN6pSy8QemVa4IUml_iRrwKxc9kvhI5OLqEtzrxj50xfF6Z9ZpwBdknBlvsSmVbo1OZroSrz6pNokqq89QYklkjzltUW1Tk_neroaGejS9kZ_wc3rLFk3sCAVFkw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJgcqOOES4AS4RdqGcCZ7nmZo",
+         "rating" : 3.9,
+         "reference" : "ChIJgcqOOES4AS4RdqGcCZ7nmZo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 112,
+         "vicinity" : "MJXM+7WG, Pemuar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.509397,
+               "lng" : 111.802558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5080378197084978,
+                  "lng" : 111.8036423802915
+               },
+               "southwest" : {
+                  "lat" : -0.5107357802915019,
+                  "lng" : 111.8009444197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rindu Alam Cafe",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116817938405759709173\"\u003eBuka Jalan Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECW_NzhvtRcH-Fr-ZRCSJKmYAmlKbS2wmFczxOlQvPbK_F4u_jffZuOtprTfOFIW02Y5d8qPFuP20mTuXcnHEom2ketFPv8n3IhGGLzhzsKa2CKPvOCoTqRqy6ykD3LRKbJ2dzAtTgWc4oVt59odVuzFa7NBLjwdLkRUKUcTzLRLvd6",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJh3ZdZdWrAS4R6LKTrSCbRnw",
+         "rating" : 4.7,
+         "reference" : "ChIJh3ZdZdWrAS4R6LKTrSCbRnw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "FRR3+62V, Jalan Pinoh, Nanga Pintas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.5161763999999999,
+               "lng" : 111.8043322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.514828219708498,
+                  "lng" : 111.8056946302915
+               },
+               "southwest" : {
+                  "lat" : -0.5175261802915021,
+                  "lng" : 111.8029966697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Taman Wisata Bukit Lintang Melawi",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112173044152804140565\"\u003eTaman Wisata Bukit Lintang Melawi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEARU4rko3rjL_M2q-uicND5bKddI7umI2fD0hsvfgiQvdg7klPELzCje5OhIp2m9sf611NfCZTGmMVdieJIQwLtDGTDozUCp2DagNtdfRcbvn6U0oKyY_6SpxppL9xKmTWIaiR9jAlfus6Bze1f5-QYnylHPPB5okicCRsz_F29R8d_",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJn7nOQSSrAS4R7JJLFZkfU74",
+         "plus_code" : {
+            "compound_code" : "FRM3+GP Sungai Bakah, Kabupaten Melawi, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFHFRM3+GP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJn7nOQSSrAS4R7JJLFZkfU74",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Unnamed Road, Sungai Bakah"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.5162306999999999,
+               "lng" : 111.8044268
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.5148734197084979,
+                  "lng" : 111.8057180802915
+               },
+               "southwest" : {
+                  "lat" : -0.517571380291502,
+                  "lng" : 111.8030201197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Datah Darung Resort (Bukit Lintang)",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 818,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104921840278431314351\"\u003eika mds\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECKEtGgPbVyMFqOJCAQv8vQw4X5GVUdTQ0F8Ye1Dtv3oxsug0FhVoPIoHvrHRbJwOAkKp4esx2HEKCDutwKz-bCvqS5mMLCbqJBk2zKswcNc90tCM9KhCZgwxwrB5b70IWq3PAa_wwD5t8fI6sM-WiLUUEiTY96UGsQbZPHZVuwsp6u",
+               "width" : 1146
+            }
+         ],
+         "place_id" : "ChIJnzBp-YyrAS4REGzPIvZYE2c",
+         "reference" : "ChIJnzBp-YyrAS4REGzPIvZYE2c",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "FRM3+GQ3, Sungai Bakah"
+      }
+   ],
+   "status" : "OK"
+}

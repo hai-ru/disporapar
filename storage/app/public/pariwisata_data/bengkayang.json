@@ -1,0 +1,851 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.7781171,
+               "lng" : 109.4754982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7794660802915021,
+                  "lng" : 109.4768471802915
+               },
+               "southwest" : {
+                  "lat" : 0.776768119708498,
+                  "lng" : 109.4741492197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit jamur bengkayang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100911001100130943665\"\u003eAngga Hardy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECWLcSAdKHgzqgbL6OglsubM5Wst1V5Ip8FX02ekaydgNUayEV-ikeE2G4C7weZdQe77iZolouBGlKbGRuAc03ZrIjrtH2JCvrFHuMXN1GxcVITSXr2YCa9B6jcqg0L6fa_npvGdvf8QxLrTuPlb0ijGdnOoeBVJgwkW8Gcr4yvj0au",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJw_lgQdQ14zERH8R18PHh-Ps",
+         "rating" : 4.6,
+         "reference" : "ChIJw_lgQdQ14zERH8R18PHh-Ps",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 233,
+         "vicinity" : "QFHG+65X, Bhakti Mulya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8043693,
+               "lng" : 109.4737027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.806001330291502,
+                  "lng" : 109.4750232802915
+               },
+               "southwest" : {
+                  "lat" : 0.8033033697084979,
+                  "lng" : 109.4723253197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JAKU GREEN",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4624,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103857425320425666977\"\u003eJAKU GREEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJWR4yGy6LkeUcDRcnFo4GnIl-ZVYHCc4LgjTfSQMSMm5AzE1aRqsHYdKqTfzTicx5NjA7dZ9xuV6M5uGY_xjJ1N6ml_zwEOBnYg-1gf0g2JFgHrD0dQf2jVqmV_o4gGHm9bM9bZRdpVYrzRxqIXl2ES7EinP_YoEh_vNIP-VqDUU",
+               "width" : 2080
+            }
+         ],
+         "place_id" : "ChIJ66SoP-E14zER1p_DBoieHCk",
+         "plus_code" : {
+            "compound_code" : "RF3F+PF Bhakti Mulya, Kabupaten Bengkayang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGFRF3F+PF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ66SoP-E14zER1p_DBoieHCk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : ""
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8093260999999998,
+               "lng" : 109.4751892
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8107136802915019,
+                  "lng" : 109.4764732802915
+               },
+               "southwest" : {
+                  "lat" : 0.8080157197084978,
+                  "lng" : 109.4737753197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jasa Antar Jemput",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113170217215415924313\"\u003eRomeo Bky\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAt6_vuacJdfbiqTRLPjLPDbfoH6kTLZEFOEsTYFYd4VTWsYq-AzIETpDP5P-QazN-6FEdjlEZViAb7cbKkAJqBERzvGF8-HpiwwRKxChWXfxdv6vJv4AVejcz1epQUCnXc4a6XUnAfi3ULvE2Pg_-CNKINTuPHzjQ1SgKXCj-P6lLd",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJJev4cig04zERihRwpE1lofk",
+         "rating" : 3.9,
+         "reference" : "ChIJJev4cig04zERihRwpE1lofk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "RF5G+P3P, Malo Jelayan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8212739999999999,
+               "lng" : 109.4833634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.822660230291502,
+                  "lng" : 109.4846198302915
+               },
+               "southwest" : {
+                  "lat" : 0.8199622697084979,
+                  "lng" : 109.4819218697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Kota Bumi Sebalo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109704130493293701210\"\u003eReno Junior\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAlv8YFOoDWxwsCDjOUrwoMMDgLl38B5G61ji30Ku2iHlmEAt5-htcaRVQN0osjDgLQXoqz76lyQQ0zZ1ahDCZ9wEAK9cC879zB04afOeywm265s1uiuj5QTvb87Tep2QS9Q-TDfsv-c39R3WNNDnaP_95_34Vvgm_augu9Hl7RsP-H",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJuXGKONI14zER06oF2sk-wrw",
+         "rating" : 3.6,
+         "reference" : "ChIJuXGKONI14zER06oF2sk-wrw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 171,
+         "vicinity" : "RFCM+G85, Jalan Perwira, Malo Jelayan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8101939,
+               "lng" : 109.4419984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8115428802915022,
+                  "lng" : 109.4433473802915
+               },
+               "southwest" : {
+                  "lat" : 0.8088449197084981,
+                  "lng" : 109.4406494197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sepadang Hill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106569231968259230918\"\u003eHatari; Tana&#39;k Panyanggar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECLkx9-XMWejZ9pnSmktndsmab0r_NcERegxe6fpPEzFI6MFS2oij7Kt-9mO0ve4-6x254PYWVhtTJdU9GrD7k1MvrDf73Xdfl-1b3-vjjSCHrvsOgWF0Hay-JEaIaAk_BPYZJC6QDTHFcMTg6hiX12gWPdTH_UsDAnOiiT6NJ8IL6e",
+               "width" : 3998
+            }
+         ],
+         "place_id" : "ChIJX5vjDqU34zERhl5Zb67iUuQ",
+         "rating" : 4.6,
+         "reference" : "ChIJX5vjDqU34zERhl5Zb67iUuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "RC6R+3QH, Cipta Karya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8112342000000001,
+               "lng" : 109.4089147
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8126435802915021,
+                  "lng" : 109.4102270302915
+               },
+               "southwest" : {
+                  "lat" : 0.809945619708498,
+                  "lng" : 109.4075290697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Gampo",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118251114802632908686\"\u003eMuslimin 95\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEASQuJXf4-yH6RfsslXbbhIq8yPTSvOjamWuyRhSPSTWI2fDKbRx_VChmXZUsEGG0qCUrKiQvlvDBdOF5S5JATS5Qad8j1KQwlS_rJdZUQ9hxXxidhSASONyjMFZ_jkKA7gwZh3IwS9Y3p05QjwTeEXn1Dsqk6TRGOj4WJ4HmyToyHU",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJE6BaQYk34zERQG5CD9qLt7I",
+         "plus_code" : {
+            "compound_code" : "RC65+FH Cipta Karya, Kabupaten Bengkayang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGFRC65+FH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJE6BaQYk34zERQG5CD9qLt7I",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Dusun Lamas Semalat, Cipta Karya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.851745,
+               "lng" : 109.4418975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8526889000000001,
+                  "lng" : 109.4433317302915
+               },
+               "southwest" : {
+                  "lat" : 0.8489133000000001,
+                  "lng" : 109.4406337697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "WISATA DESA CIPTA KARYA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111711167536286550460\"\u003eWISATA DESA CIPTA KARYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDDgCpv5PTw8mR7Jp9F1NDEllThiVB3qtNj76defQuxqyCL0lk8_hu3I6JGDHpOGamxHhVdIsbulYkIuofhEhUgGl_lgs0w11KBbDwEsuTzncER_8ecZnE8CVgq75IRE2ui91tqB0YBY_p18lInNjCOyswps_zfcg2t00lRrqvW_Cq9",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJa_9jwW434zERhtcLYtJSzn8",
+         "plus_code" : {
+            "compound_code" : "VC2R+MQ Cipta Karya, Kabupaten Bengkayang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGFVC2R+MQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJa_9jwW434zERhtcLYtJSzn8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Singkawang-Bengkayang, Cipta Karya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8620934999999998,
+               "lng" : 109.4924186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.863365480291502,
+                  "lng" : 109.4936777302915
+               },
+               "southwest" : {
+                  "lat" : 0.8606675197084979,
+                  "lng" : 109.4909797697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jaramy Camping Island",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117937876891940789537\"\u003eMulti Siahaan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBquawWxCS7ZDbfhcP4NyBY85ReVQsbOx6XWlOtgn6PXuJZDse-jlIuXFgba5tlNTK-08JoKxHN_uz9ZMiyNxMrQX2g5Jh6LsXCtqPtxEJGNjMUHh42oCx6cD7iINXh1ktTsqAuomHIRatBDcofVwwdUl3P9NvJiezbGnMlKvzzXjoo",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1Y_844hL4zERbDpJpvc8OgQ",
+         "rating" : 5,
+         "reference" : "ChIJ1Y_844hL4zERbDpJpvc8OgQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "VF6R+RXM, Jalan Sekayok, Sebalo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8496449000000001,
+               "lng" : 109.4199623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8506251302915021,
+                  "lng" : 109.4218728
+               },
+               "southwest" : {
+                  "lat" : 0.847927169708498,
+                  "lng" : 109.4142308
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "WISATA AIR TERJUN RIAM BUDI",
+         "photos" : [
+            {
+               "height" : 2056,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113752180444041757127\"\u003eRidho Wahyu Wisuda\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB-X9B--i-k78mwe2Mb_KYd2UVyunBrplVVYjs_hdmEwx3Zoa2pIan7wkp116QPW8HU9vWWpiCrAWUjKpPINDwHtA28ofUdDDrBUPNrYXLzzTgwhYaZrEi0AZ_lxxQVvaEYdMstymRVxvHVNJ9gLwLIyOWCPc946-dzoZ8rVmufpJ2-",
+               "width" : 3088
+            }
+         ],
+         "place_id" : "ChIJ_____9M34zER8-zj_46va_8",
+         "rating" : 4.1,
+         "reference" : "ChIJ_____9M34zER8-zj_46va_8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "RCX9+VX4, Cipta Karya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6832674999999998,
+               "lng" : 109.413632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6846164802915019,
+                  "lng" : 109.4149809802915
+               },
+               "southwest" : {
+                  "lat" : 0.6819185197084978,
+                  "lng" : 109.4122830197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air terjun Riam Siname",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 774,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105625053484128080770\"\u003eEduardus Eddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDXAjXK-SqCqR87iqKqwqEsRs6aNghQMWZSQ17WsSiuLOA_mW5BQLgg1OUPks7jqt2jXSCmrAGaUQk3Kfqw297T9R9FObs-Wq48WmWhQ-vhsGtI-wyQgMa9bnq68374F9sLruIwheLeoKhExCJztdl4VmGoOoJTyHFfJ6Sad5hs9KMv",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJDZugAe4v4zERqLvAnJu-SRM",
+         "rating" : 5,
+         "reference" : "ChIJDZugAe4v4zERqLvAnJu-SRM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "MCM7+8F2, Tiang Tanjung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8944561999999999,
+               "lng" : 109.4912183
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8960756802915019,
+                  "lng" : 109.4925557302915
+               },
+               "southwest" : {
+                  "lat" : 0.8933777197084979,
+                  "lng" : 109.4898577697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Teletubbies, Desa Magmagan Karya",
+         "photos" : [
+            {
+               "height" : 1424,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117609267035933170297\"\u003eTri Utami\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAy5ueiZivFT6qxF7BKEaCFw36-z2YWds_776jfUJccZlTnRnPWXJ0ht8OC8rek2dgZtXbThcfEjsBWA6uo75VGQHt5llEOblS8XLe4LFJTkhuv3PvfzpjKnpFFawsat8wgxJXNq9XZQMetDpP3JO90kXgXTq_sq1mAYpTpQVBl993a",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJZchJcexL4zERHs_lsVsYfec",
+         "rating" : 4.5,
+         "reference" : "ChIJZchJcexL4zERHs_lsVsYfec",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "VFVR+QFP, Sebalo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.7923000000000001,
+               "lng" : 109.3455617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.7959344999999999,
+                  "lng" : 109.3465621302915
+               },
+               "southwest" : {
+                  "lat" : 0.7910885000000004,
+                  "lng" : 109.3438641697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Bukit Rancut",
+         "photos" : [
+            {
+               "height" : 3452,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114161198242967883333\"\u003eNur Indah Permatasari\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAROHbl5W9Nodf3KNI5F73y4VBjbYgNfP4n6KfzDKCCyNuCnYsCZvAxy1Jhp7FTmBHZLuk0Ny3Tv9Xuxn30o4ijzJq0xHbQ24opWipGZco3ZPHoeBLGz1-_4sLjligsNnxlqL3l5mmQ8ItHTsFULZ22kUxZiR2TVmvzDcSRcHtR3DjW",
+               "width" : 4603
+            }
+         ],
+         "place_id" : "ChIJec_ehSw54zERzOxHiFLrmxI",
+         "rating" : 4.3,
+         "reference" : "ChIJec_ehSw54zERzOxHiFLrmxI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Q8RW+W67, Suka Maju"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.7967647,
+               "lng" : 109.3417505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.797921630291502,
+                  "lng" : 109.3430517802915
+               },
+               "southwest" : {
+                  "lat" : 0.7952236697084979,
+                  "lng" : 109.3403538197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gunung Vandering",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118396426801970454840\"\u003eabo milin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED8TQniuZ0tX4W92z26j84N0E1AUh5MDJZUeZbivB5a-xLyi3leaXhR-c6owklnbsdgov77ycSh2BMMycZpjIfPOkvxffZcwGo5wz3E-aTVYz9rvUgbZBVnnHs49ZE_2HgMEGDMbILXSe_wqXvyLx1jTy8D4G4Cw8K0rhdn7ds-sNQc",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJCxqm75k54zERcj8d7UFR5Ow",
+         "rating" : 4.4,
+         "reference" : "ChIJCxqm75k54zERcj8d7UFR5Ow",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 84,
+         "vicinity" : "Q8WR+PP2, Suka Maju, Sungai Betung, Suka Maju"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.9167626999999999,
+               "lng" : 109.4632928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.917741730291502,
+                  "lng" : 109.46469355
+               },
+               "southwest" : {
+                  "lat" : 0.9150437697084979,
+                  "lng" : 109.45909055
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Riam Sebol",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100097316913566503142\"\u003eDino Arwandy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECl3uYY8bqHVE8EPfd7E8bnONrrpxQ79eTb3F1KcDVeiu40NOpb1egH2VhFCz61SE0W7JN9sKzleJWhIwTqQOjGnKCObkmoyDUnVsDskQ-sVIecSg0YTiuVzWVIsgBFeA_O2WufEYoz4nrRaMmwRS1SMJs3czWxj7WT85MOGuW8Rw2E",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ22E-4tBJ4zERlFjTvc3SHyw",
+         "reference" : "ChIJ22E-4tBJ4zERlFjTvc3SHyw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "WF87+P83, Magmagan Karya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6481047999999999,
+               "lng" : 109.3966104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6491923302915019,
+                  "lng" : 109.3977875802915
+               },
+               "southwest" : {
+                  "lat" : 0.6464943697084978,
+                  "lng" : 109.3950896197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air Terjun Riam Tikalong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112035397228799182554\"\u003ejajagi jalan-jalan dan berbagi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBZAO3cbMijXzuQ1W_U2VuZDBTBDyOM_JmyKfG7wDDwxOdKdnAkmdz7akGC1lkDWuYiPQCUU6uwsU9tnjhXY3Ps9C9q-O9qi2gj0dCRCm4_ejLrFKw5UrjGteKHwIxtQAc3-q9DXjiryr1I-DJFpc38B-ERSAslYv3HND6jVkYQN6Kr",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJJS0KBEYv4zERAtbN1kDwyVE",
+         "rating" : 4.4,
+         "reference" : "ChIJJS0KBEYv4zERAtbN1kDwyVE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "J9XW+6JX, Tunang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.9169618000000003,
+               "lng" : 109.4408229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9181588302915021,
+                  "lng" : 109.4423222802915
+               },
+               "southwest" : {
+                  "lat" : 0.915460869708498,
+                  "lng" : 109.4396243197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bendungan Air Wisata Madi",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106001065549510173899\"\u003eLiitle Miinty\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC_VwUMTodKai-NMS1JKk4tk6UoD_Cmc5FeqKUcgJKUMtCOyiggfHTGQ-IHRer9cRpOKtEY4oyqg-gJ4w9KCOVZ-8wfXCFWPI-R4lT57Srg5v7wpB5QZ1Tm1Y0-SaW4kdZRM4UZVNSjOm-8gT5JD7q8_SPGrz0T4ZERAmXk9j_1VeQp",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJU2jQfzpJ4zERIkcBP29WO9s",
+         "rating" : 4.3,
+         "reference" : "ChIJU2jQfzpJ4zERIkcBP29WO9s",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 94,
+         "vicinity" : "WC8R+Q8P, Tiga Berkat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6264719999999999,
+               "lng" : 109.416722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6278209802915021,
+                  "lng" : 109.4180709802915
+               },
+               "southwest" : {
+                  "lat" : 0.625123019708498,
+                  "lng" : 109.4153730197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Tunang",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105380366180810141049\"\u003eFelix Robert\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-H2H07URw-Td6tnBVdBWTPEoXS_xjSmUctR_rI0_lXkPP8hv0aRb9px02_5RomQAfY6lpEZbPQ5juVwrnk0OQhPxb2rvZEDd7cIFMOKNBMJhUIXn8i7XZaKg9ozBHgP7cWQWQBGkqDvTyX8e5dLgLc1V1uFn2wxxRMAq3x3yiGREO",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJc5SHfx0p4zER8IUXMknNWXU",
+         "rating" : 3.5,
+         "reference" : "ChIJc5SHfx0p4zER8IUXMknNWXU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "JCG8+HMQ, Sailo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.9227185000000001,
+               "lng" : 109.4168758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.9240674802915021,
+                  "lng" : 109.4182247802915
+               },
+               "southwest" : {
+                  "lat" : 0.921369519708498,
+                  "lng" : 109.4155268197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air Terjun Batu Timah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115067934529766348281\"\u003eYang Yaoxian\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDqkZpLKm3bj8DpBuNklmWj7PziJNFqH2tt9ZEMNIe9RFuOQL1GtqFVMM0xstIhcVIuzKgeJ1cT3dEQ0tn_MMW_WAdawotwoEeBIh4cY2slP7As4CiLaowxPrf1U-BWlGOgIJmFMaboUgM498nmKYWLhQf_TEAYzVcOzsjdreQx_075",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlY40gUZJ4zERN_0fsUClQO0",
+         "rating" : 4.1,
+         "reference" : "ChIJlY40gUZJ4zERN_0fsUClQO0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "WCF8+3QJ, Tiga Berkat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8006068000000001,
+               "lng" : 109.3079219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8065049500000001,
+                  "lng" : 109.3092399802915
+               },
+               "southwest" : {
+                  "lat" : 0.7986407500000002,
+                  "lng" : 109.3065420197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Alam Bukit Amus",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111386447104534624825\"\u003etexsas tek\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBA5vIXiQag6vjWKp0b66regKp3I_Q0RlUOicAbovLRLj17-cMxNtmdvUMFSXiarEUyX80fTdw2-yJL4lYhDZFORgnS43mEhQ_tnKfgPj16EdJRYtEPDPbKwVE4QGhjiFcEZrrnPd-5sE0kFAG4FtuPLGJcxJgTtWWa8QzGycg-J3bB",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJdT164rs54zERU7STmtPeMNA",
+         "plus_code" : {
+            "compound_code" : "R825+65 Pasti Jaya, Kabupaten Bengkayang, Kalimantan Barat, Indonesia",
+            "global_code" : "6PGFR825+65"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdT164rs54zERU7STmtPeMNA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Pasti Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.7240124999999999,
+               "lng" : 109.3079979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.725904430291502,
+                  "lng" : 109.3097267802915
+               },
+               "southwest" : {
+                  "lat" : 0.7232064697084979,
+                  "lng" : 109.3070288197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Riamp Batas Rancang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109489357875114414898\"\u003eAlponTariu Chanel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDnzxCs-EPMyaIDvorTBoxKCseVF_E0i5GbkJ2oLKuPDeBZfAq37fffC8CAKU9k0WB3aamz8O5PpF38Qql7cNkDstStIAfepbDeb4mahih2F8WEG1YBEpnML8tIjLkoonFVkYVy0jmVMMcnJGqY9o8CIMkQahTTrixu8bepaAKxlbhI",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJiQyDmXY74zER6yTbIxTQXpE",
+         "rating" : 5,
+         "reference" : "ChIJiQyDmXY74zER6yTbIxTQXpE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "P8F5+J55, Tumiang"
+      }
+   ],
+   "status" : "OK"
+}

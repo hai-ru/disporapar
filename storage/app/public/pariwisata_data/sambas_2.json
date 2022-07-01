@@ -1,0 +1,750 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDcrwpr9viP0roppcqWebxxo9c8Qiq3R0ebCsH1CBwaEIrxtKPL26ZDLXkWaHbYgMfgk3csouPSzusknnQ1yiXknjW-y2ub4SDbONKzxJLqnsedXj3et76BnJmEZfhqWSbr_oZ9LxB2IFFUbpXI20W8ihhHRNbpgVJSYRyYjJxE0iEzoNegxDinIxY4liP5aX-BugRp1h6eS2hOFhxkLfIoZKNWCAmQs7GzzIbcUipgKCMn-wwLWKBZx-A4ACVo_eqf7iGeIADuHWn_Nu4tcJDCS2GCrnBERcJOYBpMFHgH89Br-dQHTggh7-l5bhwmHRjA37tJUIaiOglxt-c_Q2vuljsL39nKuYVfRv16jH803WN88PGWwZ4ngyojTPkobB5LTmDVgnSsKb78y1EcjKUJiFyiAQQfvjb20m02nZAmrswUgZsbaC_ybUgOycxPz4yVmCg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3647247,
+               "lng" : 109.2968682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.365894380291502,
+                  "lng" : 109.2982518302915
+               },
+               "southwest" : {
+                  "lat" : 1.363196419708498,
+                  "lng" : 109.2955538697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Daerah Sambas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116776602667644114218\"\u003eHapi Paizal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJEAZzVtjy6S-3Y5PDBm-9ePpIJqvswWPPkEEgN0jLDooleOeO7XSd-fWQu4PzTPqI8HJTkDE36BKKAyYiWZhoZ61KPbc2ngVosE7rf34pwOiz7F1XqGdteIyoelTEU79Qu8bvageGGG5-nGgJHUjG6ZRY6jb1B7msfuIQpSN95ll3",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJVxBds1m55DER6BMHLPPnJL4",
+         "rating" : 4.1,
+         "reference" : "ChIJVxBds1m55DER6BMHLPPnJL4",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75,
+         "vicinity" : "977W+VPQ, Jalan Siapat, Lorong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.337955,
+               "lng" : 109.356222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.339450780291502,
+                  "lng" : 109.3576277802915
+               },
+               "southwest" : {
+                  "lat" : 1.336752819708498,
+                  "lng" : 109.3549298197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tambang Pasir Sorat",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107965275481085596064\"\u003eRiki\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDqVcVkYMUj9nTvvLCa2YPMQ_5herf7Y_wGbBIGVYOjl4BbHXyFM2qPMBLLB4pWMpm8YDfCYmWkE0sAstX603GYI6zzxTTd73eFxFv2zmgbcTV4ZYWI23w-ikiOmz1BAWrwaBmAVEEv4BlRAMf4rq7hXsBG3s01Fysx2ItPzr18GtKX",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ5YEdoP-75DERCwZdftaMgto",
+         "reference" : "ChIJ5YEdoP-75DERCwZdftaMgto",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "89Q4+5F, Dalam Kaum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3637664,
+               "lng" : 109.3305151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.365129830291502,
+                  "lng" : 109.3318474802915
+               },
+               "southwest" : {
+                  "lat" : 1.362431869708498,
+                  "lng" : 109.3291495197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JAMBI",
+         "place_id" : "ChIJl3CBDSu55DER6doszkXEwQQ",
+         "plus_code" : {
+            "compound_code" : "987J+G6 Dalam Kaum, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHF987J+G6"
+         },
+         "reference" : "ChIJl3CBDSu55DER6doszkXEwQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Sejahtera No.4, Dalam Kaum"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3803575,
+               "lng" : 109.3773867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.381706480291502,
+                  "lng" : 109.3787356802915
+               },
+               "southwest" : {
+                  "lat" : 1.379008519708498,
+                  "lng" : 109.3760377197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "kabon gatah pak lajim",
+         "permanently_closed" : true,
+         "place_id" : "ChIJMesx6Ua55DERMusaRQjX2bc",
+         "reference" : "ChIJMesx6Ua55DERMusaRQjX2bc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "99JG+4XR, Unnamed Road, Sumber Harapan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3617151,
+               "lng" : 109.3149734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.363073530291502,
+                  "lng" : 109.3163254802915
+               },
+               "southwest" : {
+                  "lat" : 1.360375569708498,
+                  "lng" : 109.3136275197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Lapangan Keraton Sambas",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116225467983677300330\"\u003ebahana dwi panji kalitantra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEALPSMDg6o7b8RP19z4sDQ06CpfEWzNOxPvxS596V6sLAb4oh4ZeriALY_5mAEU0KWaLrzO4NJYA6fQ7A_4-UlTLBOJf4QtXcacxAE4AuTHHw1D1fvGe_uer08IL-9aVI3tHGACZqoXPNLsUIcY74bjvjyAyGpePLS4ojXtDYhEIWb6",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJL4X5mti75DERyVoQJZYlqI8",
+         "rating" : 4.4,
+         "reference" : "ChIJL4X5mti75DERyVoQJZYlqI8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "9867+MXQ, Dalam Kaum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3613916,
+               "lng" : 109.3148826
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.362698680291502,
+                  "lng" : 109.3161509802915
+               },
+               "southwest" : {
+                  "lat" : 1.360000719708498,
+                  "lng" : 109.3134530197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Masjid Jami Istana Sambas",
+         "photos" : [
+            {
+               "height" : 2063,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101127365198739935307\"\u003eAji Ervanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEACeiEa0dDfODpxhefil37V0bb1MGaBxqaTzMxAiX94Wgl4GxsXKC_1kBFrJfT06N-6mwqwpdgkwaFaSHgevndzy4SP262YJg9Wbqk4qvktJmh7I9OXTWzBiqr-r0HHYt-SLoHlxs26rRbNhBwgFdpXK9tSPjzFpFqGUlR-TtVh-uB-",
+               "width" : 3670
+            }
+         ],
+         "place_id" : "ChIJUUrYk9i75DERdzoCYVfsGV0",
+         "plus_code" : {
+            "compound_code" : "9867+HX Dalam Kaum, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHF9867+HX"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJUUrYk9i75DERdzoCYVfsGV0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 469,
+         "vicinity" : "Jalan Istana, Dalam Kaum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3627403,
+               "lng" : 109.314486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.364083480291502,
+                  "lng" : 109.3158758302915
+               },
+               "southwest" : {
+                  "lat" : 1.361385519708498,
+                  "lng" : 109.3131778697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dermaga Wisata Sambas",
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106957177336415063315\"\u003eSolfie B\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLkuE_qryuVmkSEZxtTEWKRrv6AXY_mP0JHPidIYdezzPZv9AmZsJMOjVI3684Q6ZobDtZPiTYR1NINe9G0zz8J3fgVoa2DygLSAWT9YXt-Iyl4ltykVC8xdpCfo5lY9O6VXw5LQgcp6u2JJi0aibfmrl6MCDjNy7INEABWCCSGzzr",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJsQxec2K55DERI1GFwAbwzcc",
+         "rating" : 4.2,
+         "reference" : "ChIJsQxec2K55DERI1GFwAbwzcc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 217,
+         "vicinity" : "9877+3QX, Dalam Kaum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3636572,
+               "lng" : 109.314685
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.364981330291502,
+                  "lng" : 109.3160935302915
+               },
+               "southwest" : {
+                  "lat" : 1.362283369708498,
+                  "lng" : 109.3133955697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Waterfront Sambas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101495169602227733287\"\u003eBlack Bird\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECrhVXAgzHS1aC5K1etHEfzwyqBhdZMuTYioS5xLZj4N6QVdh19VFmTCdWawZCmjWGrBeMWCkieqM7XtrEawfDfSHMeI5-d2EBk9-m9Ledg5V42ii55XSBvUtAK4VFhvX_jp1T0yrzG-fEndppqHXaOu7NJwiBK-KimZlfI0KVLxZy8",
+               "width" : 6144
+            }
+         ],
+         "place_id" : "ChIJH91OQWK55DERMBy46RvwHTE",
+         "rating" : 4.2,
+         "reference" : "ChIJH91OQWK55DERMBy46RvwHTE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 112,
+         "vicinity" : "9877+FV7, Jalan Istana, Dalam Kaum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3720759,
+               "lng" : 109.3155685
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.373495730291502,
+                  "lng" : 109.3172952302915
+               },
+               "southwest" : {
+                  "lat" : 1.370797769708498,
+                  "lng" : 109.3145972697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Alam Tanjung Mekar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 390,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107549780076965564081\"\u003eErwinda Saputra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED4RyEdCAqsjcfF-SYQPe3pxRMkK7A7ty0eJc9eqxnRDOo4ru97EcALmGXm8QoJ3nrPJbbAHXb85Cm-baVZNl44smVxq71u4x6dB5B0tE3el6RT9YOP9UM7CXil8affpdTe5BurvcPCHDAcsmhv1iCmnyCljD5zQAchsvmWAu4qUbWF",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJmdfBpja55DEROI76u2vkwPc",
+         "rating" : 4.4,
+         "reference" : "ChIJmdfBpja55DEROI76u2vkwPc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "98C8+R6P, Tanjung Mekar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3828268,
+               "lng" : 109.309917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.383596380291502,
+                  "lng" : 109.31414625
+               },
+               "southwest" : {
+                  "lat" : 1.380898419708498,
+                  "lng" : 109.30850725
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "LAZYBONES",
+         "place_id" : "ChIJNadMb6C55DERXVSxs7O1kaY",
+         "reference" : "ChIJNadMb6C55DERXVSxs7O1kaY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "98M5+4XM, Tumuk Manggis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4011972,
+               "lng" : 109.3706289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.402539430291502,
+                  "lng" : 109.3719381802915
+               },
+               "southwest" : {
+                  "lat" : 1.399841469708498,
+                  "lng" : 109.3692402197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Basecamp jomblo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJqXA4cIG55DERA2GajmJhWQg",
+         "plus_code" : {
+            "compound_code" : "C92C+F7 Tengguli, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHFC92C+F7"
+         },
+         "reference" : "ChIJqXA4cIG55DERA2GajmJhWQg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Jambu - Sambas, Tengguli"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3636811,
+               "lng" : 109.3009762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.365035830291502,
+                  "lng" : 109.3023561302915
+               },
+               "southwest" : {
+                  "lat" : 1.362337869708498,
+                  "lng" : 109.2996581697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pemandu wisata",
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116097981929688936996\"\u003ePemandu wisata\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClgVdK8IkK_yTuJHtFg0BlQxk9MH5P_VLRYgtn7rHtBq8cBo5VW6-c4yx_FAT2XYgeMV_n55DbQwG_AtoklTTL_YjcnLbMM8YTOIRpx5iBIDMZnQ0Q3pKeFQriRzClcECH6oagQx-NfecMbGSjIBJq14IkjdyjJ2hBUj_SCExhENiF",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJi-k7X_255DERE2245FJC-U0",
+         "plus_code" : {
+            "compound_code" : "9872+F9 Durian, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHF9872+F9"
+         },
+         "reference" : "ChIJi-k7X_255DERE2245FJC-U0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jln ir, Jalan Sucitro No.007"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3649057,
+               "lng" : 109.2987379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.366343730291502,
+                  "lng" : 109.3000537802915
+               },
+               "southwest" : {
+                  "lat" : 1.363645769708498,
+                  "lng" : 109.2973558197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Air terjun",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104227153280378626601\"\u003eRiki Dadau\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEATrxAh6Chxb8kVDA9avrjBvd9tAgJ5Yqlq9IAdyoky6JsQj8gvfEP8COfF3JfcUEaKV-ahLhJS_WrgkGfEvYfam7nOABuBqauS9Yo2GcM842Ar3sahjL8TMXAKlZTPbd0xVaDq_61wr54myTZ5cPvz6kdL758O6JjiVYR4VtqhMdgj",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJtXoWei655DERK-JG-zqGB-M",
+         "plus_code" : {
+            "compound_code" : "977X+XF Jagur, Kabupaten Sambas, Kalimantan Barat, Indonesia",
+            "global_code" : "6PHF977X+XF"
+         },
+         "reference" : "ChIJtXoWei655DERK-JG-zqGB-M",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Pendidikan No.65, Jagur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4111416,
+               "lng" : 109.4055334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.412460230291502,
+                  "lng" : 109.4068836802915
+               },
+               "southwest" : {
+                  "lat" : 1.409762269708498,
+                  "lng" : 109.4041857197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Heri sajad",
+         "place_id" : "ChIJb3uVMoW35DERCmRQwmlI5d8",
+         "reference" : "ChIJb3uVMoW35DERCmRQwmlI5d8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "CC64+F63, Kuayan, Mekar Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3451464,
+               "lng" : 109.2666074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.347116480291503,
+                  "lng" : 109.2684183302915
+               },
+               "southwest" : {
+                  "lat" : 1.344418519708498,
+                  "lng" : 109.2657203697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Watebom kyofun",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109542906757598464992\"\u003eAli Akbarul Falah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECak2UpwM7qCSjOkpd49jJc8PYaeFS_EuLOTT2AnI4YK2sREJ5k27w4AO__eO6MgBM2XxHCk_V-O6jQHdbis5MO5m9eUgbEVHCgsBezpTsePyt6d0VAGxq6f8Hj59DymXYCMmMzdmiAzjITfDRv6teDgnfCbwvBS6JGmQKvtgP_9JDt",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ72zNfPO95DERLW17jju3g94",
+         "rating" : 5,
+         "reference" : "ChIJ72zNfPO95DERLW17jju3g94",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "87W8+3J5, Saing Rambi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4470042,
+               "lng" : 109.3940982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.45081675,
+                  "lng" : 109.3955853302915
+               },
+               "southwest" : {
+                  "lat" : 1.44573335,
+                  "lng" : 109.3928873697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gek semunyian",
+         "place_id" : "ChIJ75c3zmvJ5DERE-K-J_VdI7Q",
+         "reference" : "ChIJ75c3zmvJ5DERE-K-J_VdI7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C9WV+RJ, Sendoyan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4596049,
+               "lng" : 109.3149834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.460653880291502,
+                  "lng" : 109.3158540802915
+               },
+               "southwest" : {
+                  "lat" : 1.457955919708498,
+                  "lng" : 109.3131561197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Piantus",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100708076904298797166\"\u003eSu Maulidi Cnl\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBfUdsoLGGK8sp-nQqYpJa292_8Zpvqqe5YN-WvAtzHNbUKHrkA6infi8SfNM7qEvjGnnUFuTcdf_iAAFa0rNVvytoO0a-2RMDqymWDF_f5fnvXYkIc-m0CLxRslcPNStYF7cX7pPFZDlvdBd8P55pU-1bBZoCUxqXiMKh-V-my3Rv1",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJa_dJp0HH5DERKh9q3tf-cG8",
+         "rating" : 3.8,
+         "reference" : "ChIJa_dJp0HH5DERKh9q3tf-cG8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "F857+RXX, Kenanai, Sejangkung, Sekuduk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4335571,
+               "lng" : 109.432145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.434950530291502,
+                  "lng" : 109.4335377802915
+               },
+               "southwest" : {
+                  "lat" : 1.432252569708498,
+                  "lng" : 109.4308398197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Perigi Limus",
+         "place_id" : "ChIJr3nYDYu35DER_7Tqf9n81Ow",
+         "rating" : 4,
+         "reference" : "ChIJr3nYDYu35DER_7Tqf9n81Ow",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "CCMJ+CVC, Pulau Peranggi"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4016011,
+               "lng" : 109.2483065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.403000780291502,
+                  "lng" : 109.2497191802915
+               },
+               "southwest" : {
+                  "lat" : 1.400302819708498,
+                  "lng" : 109.2470212197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sambas",
+         "permanently_closed" : true,
+         "place_id" : "ChIJu3HMCwq_5DERCpFNW3Hc6BM",
+         "reference" : "ChIJu3HMCwq_5DERCpFNW3Hc6BM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "C62X+J8V, Jalan A. Yani, Kubangga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2922793,
+               "lng" : 109.2532876
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.293634580291502,
+                  "lng" : 109.2546440802915
+               },
+               "southwest" : {
+                  "lat" : 1.290936619708498,
+                  "lng" : 109.2519461197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "210Tech Batu Bekajang Sirkuit",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113404525691250018834\"\u003eHadly\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNOxUjY0V2vzBjxzrVOmefcMuBr5pc0AvEn94HKp2rhD4CIroRHK0gQyCG7cHYVL6NIKD61wb7JJQQa7kAjFYfyteK2pkSPWgwtkHBU7Xej0QjofcHXbf25-398JJR43gsP-CLxoNwZCzCxVO0690Qx4bt1eq6My34xTRHAl5va2T9",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJk4b6uEq95DERfBIEX2voTxk",
+         "rating" : 4.1,
+         "reference" : "ChIJk4b6uEq95DERfBIEX2voTxk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "77R3+W87, Semanjang"
+      }
+   ],
+   "status" : "OK"
+}

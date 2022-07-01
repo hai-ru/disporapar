@@ -1,0 +1,187 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.09250589999999999,
+               "lng" : 109.371643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.09123126970849796,
+                  "lng" : 109.3730286802915
+               },
+               "southwest" : {
+                  "lat" : -0.09392923029150202,
+                  "lng" : 109.3703307197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Qubu Resort",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109190013584607498949\"\u003eQubu Resort\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAp1o5MzoNcihDTXBdHWodHpCUInO-kItXz9m40ST3RwgQ9pRqq6fh5E5nXyNNGNLBrevF4OwN2wTU1yjJ9Me6BkB89kHNWQA0QnSIjSwSZmLEjQ6MjQVUUt1BTqacQ76vn7lK3Z-UEUVCFuqvprIvet94FRCflMO4KlnQHiovL8Ast",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJzSakEHRaHS4RGP1m1vKMbYw",
+         "plus_code" : {
+            "compound_code" : "W94C+XM Sungai Raya, Kabupaten Kubu Raya, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFW94C+XM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJzSakEHRaHS4RGP1m1vKMbYw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "amusement_park",
+            "lodging",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2383,
+         "vicinity" : "Jalan Arteri Supadio No.16, Sungai Raya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.09306729999999999,
+               "lng" : 109.3711242
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.09174041970849796,
+                  "lng" : 109.3724326302915
+               },
+               "southwest" : {
+                  "lat" : -0.09443838029150203,
+                  "lng" : 109.3697346697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Waterpark Paradis-Q",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107159127719898008299\"\u003eDany A\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEATIixDk5lRIjr3P-udVjpmnRLuZjUvnMSRAHIley5ZShRJdl9jl9UIcFzdYioiW3WVmK7s5lpbbBY-bWRyitpM6VhsCaaYx8SmbOHM3mmPd9QTTc2lnGb4xsV5C0RuCyTH0w3IhWvXx3JSq4PksCuXeLEeGCp5wLFJniM5JqlgO2Nj",
+               "width" : 1124
+            }
+         ],
+         "place_id" : "ChIJp5Ati2tQHS4RqDyjFBcK0qM",
+         "plus_code" : {
+            "compound_code" : "W94C+QC Sungai Raya, Kabupaten Kubu Raya, Kalimantan Barat, Indonesia",
+            "global_code" : "6PFFW94C+QC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJp5Ati2tQHS4RqDyjFBcK0qM",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1824,
+         "vicinity" : "Jalan Arteri Supadio KM 12.8 No. 16, Sungai Raya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.036429,
+               "lng" : 109.902895
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.03834334999999999,
+                  "lng" : 109.90376815
+               },
+               "southwest" : {
+                  "lat" : 0.03068595000000001,
+                  "lng" : 109.90027555
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wisata Alam Danau Laet",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102528085904241490543\"\u003eAgil Saputra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBimcRC-wMtYSnWxm4_8hYTgyJbK1u1DPZge-XRTgzBYGCMrhnfpk1HEDmdAToAtIaP_7mz1KpQATxSu4BEBxUEv0miukyg9QanB19_96Q0eelQsgI3L91Ekw85wrGqa_VReNR5kVtUmypYoYkO5H4dBQqi5qSmsfCYqyAvw8nCSLFk",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJMxcHTXpf_TEREymnXdnzVbc",
+         "rating" : 5,
+         "reference" : "ChIJMxcHTXpf_TEREymnXdnzVbc",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "2WP3+H5C, Unnamed Road, Subah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.0262608,
+               "lng" : 109.3316362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.02497421970849797,
+                  "lng" : 109.3330040302915
+               },
+               "southwest" : {
+                  "lat" : -0.02767218029150203,
+                  "lng" : 109.3303060697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bundaran Tugu Penghargaan Bank Indonesia",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116194943977419004844\"\u003eNazriel Habibie Novinsya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAB0Uw1Be583x3TUzLjobByGddssj2PH5iiU6eH3gKDpasf__jLIr6YsF924Cix03xz5Vy-uv1LvlguzDwoU2OtKR-iCzhyfZjwT-nvj1AWjOS31O9U3nQn8_KGGdC_JfjT4ydvwSfZBzGqGNFDfOG73Fbl6rfpa9XDSDOqVqRR2vF-",
+               "width" : 3413
+            }
+         ],
+         "place_id" : "ChIJMzf8HFhYHS4RPuD_u-5KaRw",
+         "rating" : 4.3,
+         "reference" : "ChIJMzf8HFhYHS4RPuD_u-5KaRw",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "X8FJ+FMR, Tengah"
+      }
+   ],
+   "status" : "OK"
+}

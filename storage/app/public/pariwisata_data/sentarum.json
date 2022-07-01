@@ -1,0 +1,577 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.8838014000000002,
+               "lng" : 112.1192623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.8851503802915023,
+                  "lng" : 112.1206112802915
+               },
+               "southwest" : {
+                  "lat" : 0.8824524197084982,
+                  "lng" : 112.1179133197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Taman Nasional Danau Sentarum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111808833311051437651\"\u003eDidit Aja\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECnVTm_T2Xw0LzRAhcxiQkoxX6I8FnBdJb7mw0fpaicq7xKNCihoj-MUOaCUbEEZV8SN8z4fKa6A22h43eLGw3vgLInnJACLCw1McOHYUWUf1jtEldfiCu_F7XkxCcs-rJnlE4EKWbPrvRSWSyS0ohh8dFtva4Nph-JIWrKxRkLbiYd",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ58W4lCroAC4RybalqK0S_As",
+         "rating" : 4.6,
+         "reference" : "ChIJ58W4lCroAC4RybalqK0S_As",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 344,
+         "vicinity" : "V4M9+GPC, Nanga Leboyan, Sentarum, Nanga Leboyan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6581699999999999,
+               "lng" : 112.28866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.659518980291502,
+                  "lng" : 112.2900089802915
+               },
+               "southwest" : {
+                  "lat" : 0.6568210197084979,
+                  "lng" : 112.2873110197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau Tebingak",
+         "place_id" : "ChIJlQHLz31z_zEREjKquZt6Yak",
+         "reference" : "ChIJlQHLz31z_zEREjKquZt6Yak",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "M75Q+7F7, Jongkong Kanan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6964722000000001,
+               "lng" : 112.3158056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6978211802915021,
+                  "lng" : 112.3171545802915
+               },
+               "southwest" : {
+                  "lat" : 0.695123219708498,
+                  "lng" : 112.3144566197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pasir Panjang Saka",
+         "place_id" : "ChIJP5EHo0Rz_zERdhhkvMzYicY",
+         "reference" : "ChIJP5EHo0Rz_zERdhhkvMzYicY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "M8W8+H8M, Jongkong Kiri Hulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.6004851,
+               "lng" : 112.1246136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.6018579802915021,
+                  "lng" : 112.1259413302915
+               },
+               "southwest" : {
+                  "lat" : 0.599160019708498,
+                  "lng" : 112.1232433697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Semangit_wonderful",
+         "place_id" : "ChIJ1aJXgU4J_zER_KbeTEe_LNM",
+         "reference" : "ChIJ1aJXgU4J_zER_KbeTEe_LNM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "J42F+5RX, Dusun batu rawan semangit.desa leboyan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.9129299999999999,
+               "lng" : 112.356465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.914278980291502,
+                  "lng" : 112.3578139802915
+               },
+               "southwest" : {
+                  "lat" : 0.9115810197084979,
+                  "lng" : 112.3551160197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Meliau Long House",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104623197343361984360\"\u003eHendra Sen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAV3ySwaVAKgr5V7NJTUQK0rWEwbj4fnO8dFmhX3qYBBcosMRcK9GDXU0Y5nBxwpIbHAhDQCakKiwGZIU-P-ZuvEWvnq0SjSr5r1QswO9CbQIzt_d5SW5jGzUzIoYwMI-eQFX3Tf2u9jOK3nCkDfNnlSWyAsmpuGCiA9q3O4No7jYAy",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJs2NA8zVF_zERPt-NqOxwb0M",
+         "rating" : 3.7,
+         "reference" : "ChIJs2NA8zVF_zERPt-NqOxwb0M",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "W974+5HG, Melemba"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.9705837,
+               "lng" : 112.2698695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.971932680291502,
+                  "lng" : 112.2712184802915
+               },
+               "southwest" : {
+                  "lat" : 0.9692347197084979,
+                  "lng" : 112.2685205197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bukit Babi",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108759649060131090809\"\u003eGung Kayan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECzzFP0-1A_4S9_FHuV38lpWwdLxs1lsdf8OSKrZU-q-m0quhR0QAD4G_zi2_YhoXfMNUFX_86jVrK4ieCxtVgm8UB3i4By1XOhKxLEtIhSpkktc3q6PWCi9yHiUHeQoUWu85rFtLcPKNUMOqC76F0poyAy7OVCPCX8oNAAl5KoY53x",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJTXfgDH5H_zERjUT-yy06Xw8",
+         "rating" : 5,
+         "reference" : "ChIJTXfgDH5H_zERjUT-yy06Xw8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "X7C9+6W, Lanjak Deras"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5794782000000001,
+               "lng" : 111.9605229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5808236802915022,
+                  "lng" : 111.9618175302915
+               },
+               "southwest" : {
+                  "lat" : 0.5781257197084981,
+                  "lng" : 111.9591195697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danau sungai gandal",
+         "place_id" : "ChIJ1z_npT0H_zERD9WMuj3_o9U",
+         "rating" : 4.5,
+         "reference" : "ChIJ1z_npT0H_zERD9WMuj3_o9U",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "HXH6+Q6R, Jalan Semitau Hilir, Nanga Suhaid"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5635882999999999,
+               "lng" : 111.9635167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5651017802915022,
+                  "lng" : 111.9646950802915
+               },
+               "southwest" : {
+                  "lat" : 0.5624038197084981,
+                  "lng" : 111.9619971197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "P3M PT. KPC",
+         "permanently_closed" : true,
+         "place_id" : "ChIJWVndlQ4H_zERfuyQvGu4xPk",
+         "reference" : "ChIJWVndlQ4H_zERfuyQvGu4xPk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "HX77+CCJ, Desa Marsedan Raya, Semitau Hulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4684178000000001,
+               "lng" : 112.2850578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4697667802915021,
+                  "lng" : 112.2864067802915
+               },
+               "southwest" : {
+                  "lat" : 0.467068819708498,
+                  "lng" : 112.2837088197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "bukit ampan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100408802538772264594\"\u003eEndi Stiawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECHbbWEhDcFCsJGNO1zxPirX1KN2LW6T9GSs_9oLauTtjBR4XbgN1xbAXxxNPdqHVCBmQgP1e6EnQDoLFIVpIVBZdkN7NCSg-IJzSJiFsLkTjnnS4kXe4wrM0faruAmsBO2JQkm-H2ZWF2I_flIuMzg6Zph48zc75U_9p3btGmUwbid",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJIyxkXaSZ_zERnD3Bzezr3fg",
+         "rating" : 4.9,
+         "reference" : "ChIJIyxkXaSZ_zERnD3Bzezr3fg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "F79P+927, nanga pedian"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4497013,
+               "lng" : 112.0379617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4510751302915021,
+                  "lng" : 112.0391700802915
+               },
+               "southwest" : {
+                  "lat" : 0.448377169708498,
+                  "lng" : 112.0364721197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gurung seberuang kecamatan sejiram",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 928,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109333830719585514472\"\u003eRoshary Rosetha cantik\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDKM5ZtX2vZGdJTRAVRXm9AdpzGMFfY5peLj3DlM-z0jUxzuBgswtvTRQX3-5OIXLK6kRMCx9hzzMyBoSynzBP5HRptZehquTsUYTlGk-jbrE3aRtnfdb456Pvn0lAjBYtcEgZNVAsuM7N8PXvQBr2O_2KuXcWZ6i0AUN-h28meMqb4",
+               "width" : 1888
+            }
+         ],
+         "place_id" : "ChIJ2cS1c5Cv_zERwVREWftk5r0",
+         "rating" : 4.8,
+         "reference" : "ChIJ2cS1c5Cv_zERwVREWftk5r0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "C2XQ+V5P, Gurung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.0639859,
+               "lng" : 112.2234596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.065351630291502,
+                  "lng" : 112.2248033302915
+               },
+               "southwest" : {
+                  "lat" : 1.062653669708498,
+                  "lng" : 112.2221053697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Genting Lanjak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106156396469365555109\"\u003eFaisal Nafis\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDmjTrbMHvl6BwPI0GRrhMQH2w1ehLMmSY9sH0iGsps3vgK-ecQD4nOyWlLEZVbeI_F8SrHTx5cvYVRns6MusELwa1PE1hYfS7oq1zMI6oBULx11-GWcu5RSZrwexdDSW8AfMlzkqozDqPv67K8YkeWxcsu3J5xHRyEIlCYPj8qI-II",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJATDsy1dL_zER6lYLOXKeGqc",
+         "rating" : 5,
+         "reference" : "ChIJATDsy1dL_zER6lYLOXKeGqc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "367F+H9W, Jalan Lintas Kalimantan Poros Utara, Putussibau Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3685781,
+               "lng" : 112.3039728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.370499680291502,
+                  "lng" : 112.3053768802915
+               },
+               "southwest" : {
+                  "lat" : 0.367801719708498,
+                  "lng" : 112.3026789197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Agro Wisata BUKIT BELUAN",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105423582598096664789\"\u003eTris Nawati\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBmHEWdGATszkU04axycmiglJLwqMm8MfExieSqH6u8L7DDXCXC0fwCG0eTQGohOOok9NVG_V8sLr6jUxB9cfuSzvO5LdAneRxJTJUinX22Shn46yYnDp0_A7dWtfiapiGb9lRZzb8cjUl0BglnELCf7pvQSbtyShTND7DJSqnKHKRc",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ2V_hXo2X_zER__A67KieMIk",
+         "rating" : 5,
+         "reference" : "ChIJ2V_hXo2X_zER__A67KieMIk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "9893+CHQ, Nanga Tepuai"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4113017,
+               "lng" : 112.402865
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4123288802915021,
+                  "lng" : 112.4041565302915
+               },
+               "southwest" : {
+                  "lat" : 0.409630919708498,
+                  "lng" : 112.4014585697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Digital Corner Bukit Manggis",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104968702586745315681\"\u003eEko Novianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7ak0FvBv_CfGlGsB1UkwFwVmSN15IHyHPS0nJx3FO4LyhoWXGBeMRi4TcIcjyaCTe6Ni5HDniTgXwxx2yIF3xISv3b7jeW729QkMQrRQdrO7UhqM0rvzWqBkOQ0HPajKPJqvky6wMdEweVMlDzzvEUbObYXITZluMgTD3M5sNix_V",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ96Ttu7uR_zERrtXauUkyrpQ",
+         "rating" : 5,
+         "reference" : "ChIJ96Ttu7uR_zERrtXauUkyrpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "CC63+G4H, Unnamed Road, Riam Panjang"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.4903743,
+               "lng" : 112.4976212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.4929696000000002,
+                  "lng" : 112.4990184802915
+               },
+               "southwest" : {
+                  "lat" : 0.4895091999999999,
+                  "lng" : 112.4963205197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "objew wisata",
+         "permanently_closed" : true,
+         "place_id" : "ChIJr3Xdk46D_zERgmhoGc8NRWM",
+         "reference" : "ChIJr3Xdk46D_zERgmhoGc8NRWM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "FFRX+42X"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.3412475,
+               "lng" : 112.3012406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.3425964802915021,
+                  "lng" : 112.3025895802915
+               },
+               "southwest" : {
+                  "lat" : 0.339898519708498,
+                  "lng" : 112.2998916197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Eko wisata Beluan Kompleks",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116457290780760336937\"\u003e4ntrax 82\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDcyLdXEPQJm_4eNS7P1jlsdb7D2B2pg09iZ6ZrWCi-Z2m6EqIjNX2ch4mMavAY39y5nvtwtKbGAtHRHZIFYkOJkle76ZINwAG88YoJle7X6glAstPTvnZyelsJLcJryVbvvouCDny7ls4gzhJz-h6bg_Cqqwl_u_ufS71z86WbMH1j",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJl4XHDWWV_zERNOaPvjV9mvI",
+         "rating" : 5,
+         "reference" : "ChIJl4XHDWWV_zERNOaPvjV9mvI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "88R2+FFX, Landau Kumpang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 0.5637434,
+               "lng" : 112.5748835
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 0.5650923802915022,
+                  "lng" : 112.5762324802915
+               },
+               "southwest" : {
+                  "lat" : 0.5623944197084981,
+                  "lng" : 112.5735345197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sungai landau",
+         "place_id" : "ChIJG15dSEd__zERtzjd0XYtt6s",
+         "reference" : "ChIJG15dSEd__zERtzjd0XYtt6s",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "HH7F+FX, Nanga Boyan"
+      }
+   ],
+   "status" : "OK"
+}
