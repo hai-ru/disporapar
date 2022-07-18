@@ -10,6 +10,8 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
+		<meta name="csrf-token" content="{{ csrf_token() }}" />
+
 		<meta name="google-site-verification" content="" />
 		<meta name="robots" content="index, follow" />
 		<meta name="description" content="Dinas Kepemudaan, Olah Raga dan Pariwisata Provinsi Kalimantan Barat ">
@@ -201,6 +203,11 @@
 			$(document).ready(function(){
 				$(".preloader").fadeOut();
 			})
+			$.ajaxSetup({
+				headers: {
+					'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+				}
+			});
 		</script>
 		@yield('js')
 

@@ -88,4 +88,12 @@ class DestinationsController extends Controller
         ->get();
         return view("template.porto_video.places",$data);
     }
+
+    public function delete(Request $request)
+    {
+        $p = \App\Models\Place::where("slug",$request->slug)->firstorfail();
+        $p->delete();
+        return ["status"=>true,"message"=>"data berhasil di hapus"];
+    }
+
 }

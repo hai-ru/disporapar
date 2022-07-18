@@ -29,8 +29,9 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::group(["middleware"=>"auth"],function(){
+Route::group(["prefix"=>"admin","middleware"=>"auth"],function(){
     Route::get("admin/pages",[PagesController::class,"index"])->name("admin.pages");
+    Route::post("admin/destinations/delete",[DestinationsController::class,"delete"])->name("admin.destination");
     Route::get("admin/filemanager",function(){
         return view('binshopsblog_admin::filemanager');
     })->name("filemanager");

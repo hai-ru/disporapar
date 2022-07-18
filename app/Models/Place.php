@@ -11,6 +11,7 @@ class Place extends Model
 
     protected $casts = [
         'google_places_api' => 'array',
+        'photos' => 'array',
     ];
 
     protected $fillable = [
@@ -26,6 +27,8 @@ class Place extends Model
         "category_place_id",
         "wilayah_id",
         "alamat",
+        "active",
+        "kecamatan_id",
     ];
 
     public function category_place() {

@@ -55,9 +55,16 @@
             background: #f6f6f6;
             padding: 20px;
         }
-        img.destination_image{
-            height: 111px;
+        .destination_image{
+            height: 100%;
             width: 100%;
+            background-size: cover;
+            background-position: center center;
+        }
+        @media (max-width: 768px) {
+            .destination_image{
+                height: 20vh;
+            }
         }
         .destination_details{
             position: relative;
@@ -184,8 +191,14 @@
             const elm = $("#list");
             elm.empty();
             list.map( item => {
-                item.cover = JSON.parse(item.photos);
-                const image = item.cover.length > 0 ? item.cover[0]: "/storage/foto_google/No_Image_Available.jpeg";
+                console.lo
+                try {
+                    item.cover = item.photos;
+                } catch (error) {
+                    item.cover = [];
+                }
+                const image = item.cover?.length > 0 ? item.cover[0]: "/storage/foto_google/No_Image_Available.jpeg";
+                // const image = ""
                 const alamat = item.alamat === null ? "" :
                 `<p class="mb-0 pb-0"><i class="fa fa-map-marker-alt"></i> ${item.alamat}</p>`
                 const phone = item.phone === null ? "" :
@@ -202,16 +215,14 @@
                 elm.append(`
                     <div class="card mb-3">
                         <div class="row g-0">
-                            <div class="col-lg-4">
+                            <div class="col-sm-4">
                                 <a href="/places/${item.slug}">
-                                    <img 
-                                        src="${image}" 
-                                        class="rounded-start destination_image" alt="..."
-                                    >
+                                    <div class="rounded-start destination_image" style="background-image:url('${image}')"></div>
                                 </a>
                             </div>
-                            <div class="col-lg-8">
+                            <div class="col-sm-8">
                                     <div class="card-body destination_details">
+                                        <button onclick="delete_destinasi('${item.slug}',this)" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</button>
                                         <a href="/places/${item.slug}">
                                             <h4 class="card-title mb-1 text-4 font-weight-bold">${item.name}</h4>
                                         </a>
@@ -227,6 +238,35 @@
             })
         }
 
+        const delete_destinasi = (slug,btn) => {
+            btn = $(btn)
+            btn_html = btn.html();
+            $.ajax({
+                url:"{{route('admin.destination')}}",
+                type:"POST",
+                data:{slug:slug},
+                beforeSend:function(){
+                    btn.html('<i class="fas fa-sync fa-spin"></i>')
+                    btn.attr('disabled',true)
+                },
+                complete:function(){
+                    btn.html(btn_html)
+                    btn.removeAttr('disabled')
+                },
+                success: res => {
+
+                    if(!res.status) return console.log(res.message);
+                    
+                    loadData({
+                        "category_place":category
+                    })
+
+                },
+                error: e => {
+                    console.log(e)
+                }
+            })
+        }
 
         const loadData = (body) => {
             body = body ?? {}
@@ -269,16 +309,23 @@
             });
 
             clearMarkers();
-        
+            
+            let markers = [];
             // Add some markers to the map.
-            markers = list.map((item, i) => {
+            // markers = list.map((item, i) => {
+            list.forEach((item, i) => {
+                if(item.latitude === null) return null;
                 const position =  { lat: item.latitude, lng: item.longitude };
                 const marker = new google.maps.Marker({position});
 
                 // markers can only be keyboard focusable when they have click listeners
                 // open info window when marker is clicked
                 marker.addListener("click", () => {
-                    item.cover = JSON.parse(item.photos);
+                    try {
+                        item.cover = JSON.parse(item.photos);
+                    } catch (error) {
+                        item.cover = []
+                    }
                     const image = item.cover.length > 0 ? `
                     <a href="/places/${item.slug}">
                         <img class="img-preview_iw" src="${item.cover}" />
@@ -305,7 +352,8 @@
                     `);
                     infoWindow.open(map, marker);
                 });
-                return marker;
+                // return marker;
+                markers.push(marker);
             });
 
             // Add a marker clusterer to manage the markers.
