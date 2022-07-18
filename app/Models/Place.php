@@ -37,4 +37,25 @@ class Place extends Model
     public function wilayah() {
         return $this->belongsTo(Wilayah::class);
     }
+    public function kecamatan() {
+        return $this->belongsTo(kecamatan::class);
+    }
+
+    public function alamat()
+    {
+        $alamat = $this->alamat;
+        if(!empty($this->kecamatan)) $alamat .= "<br />Kec. ".ucwords($this->kecamatan->name);
+        if(!empty($this->wilayah)) $alamat .= "<br />".$this->wilayah->name;
+        $this->alamat = $alamat;
+        return $this->alamat;   
+    }
+    
+    public function address()
+    {
+        $alamat = $this->alamat;
+        if(!empty($this->kecamatan)) $alamat .= "<br />Kec. ".ucwords($this->kecamatan->name);
+        if(!empty($this->wilayah)) $alamat .= "<br />".$this->wilayah->name;
+        $this->alamat = $alamat;
+        return $this->alamat;   
+    }
 }

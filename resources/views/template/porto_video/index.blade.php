@@ -3,7 +3,7 @@
 @section('css')
     <style>
         .terkait_image{
-            width:177px;
+            width:100%;
             height:103px;
             background-size: contain !important;
             background-position: center center !important;
@@ -109,8 +109,8 @@
                                         </div>
                                     </div>
                                     @php
-                                        $image = json_decode($item->photos,true);
-                                        $image = count($image) > 0 ? $image[0] : "/storage/foto_google/No_Image_Available.jpeg"; 
+                                        // $image = json_decode($item->photos,true);
+                                        $image = count($item->photos) > 0 ? $item->photos[0] : "/storage/foto_google/No_Image_Available.jpeg"; 
                                     @endphp
                                     <div class="destinasi_image_container" style="
                                         background: url({{$image}}) no-repeat;
@@ -172,19 +172,14 @@
                 Layanan & Link Terkait
             </h2>
             <div class="row mt-4">
-                <div class="owl-carousel owl-theme show-nav-hover" data-plugin-options="{'items': 4, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}">
+                <div class="owl-carousel owl-theme full-width dots-morphing" data-plugin-options="{'items': 4, 'margin': 20, 'loop': true, 'nav': false, 'dots': true}">
                     @foreach ($link_terkait as $item)    
-                        {{-- @for ($i = 0; $i < 10; $i++)     --}}
                             <a href="{{ $item->target }}">
                                 <div
                                     class="terkait_image"
                                     style="background: url({{$item->image}}) no-repeat;"
                                 ></div>
-                                {{-- <img 
-                                    alt="{{ $item->name }}" class="img-fluid rounded" 
-                                    src="{{ $item->image }}"> --}}
                             </a>
-                        {{-- @endfor --}}
                     @endforeach
                 </div>
             </div>

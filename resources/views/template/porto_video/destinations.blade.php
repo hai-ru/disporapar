@@ -212,6 +212,10 @@
                     star += '<i class="fa fa-star "></i>';
                     
                 }
+                let control_btn = ""
+                @if(!Auth::guest())
+                    control_btn = `<button onclick="delete_destinasi('${item.slug}',this)" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</button>`;
+                @endif
                 elm.append(`
                     <div class="card mb-3">
                         <div class="row g-0">
@@ -222,11 +226,12 @@
                             </div>
                             <div class="col-sm-8">
                                     <div class="card-body destination_details">
-                                        <button onclick="delete_destinasi('${item.slug}',this)" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</button>
+                                        ${control_btn}
                                         <a href="/places/${item.slug}">
                                             <h4 class="card-title mb-1 text-4 font-weight-bold">${item.name}</h4>
                                         </a>
                                         ${alamat}
+                                        ${item.category_place?.name}
                                         ${phone}
                                         <div>${star}</div>
                                         <a href="/places/${item.slug}" class="read-more text-color-primary font-weight-semibold text-2">Selengkapnya <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>

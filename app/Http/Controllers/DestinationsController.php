@@ -34,9 +34,10 @@ class DestinationsController extends Controller
 
     public function load_markers(Request $request){
 
-        $place = \App\Models\Place::select("id","alamat","slug","name","phone","rating","description","category_place_id","wilayah_id","photos")
+        $place = \App\Models\Place::select("id","alamat","slug","name","phone","rating","description","category_place_id","wilayah_id","photos","active")
         ->addSelect(DB::raw("ST_X(location) as latitude, ST_Y(location) as longitude"))
         ->with("wilayah","category_place")
+        ->where("active",1)
         ->orderBy("created_at","asc");
 
         if($request->has("wilayah_id") && !empty($request->wilayah_id)){
@@ -52,12 +53,17 @@ class DestinationsController extends Controller
         if($request->has("take")){
             $place = $place->take($request->take);
         }
+
+        $data = $place->get();
+        foreach ($data as $key => $value) {
+            $data[$key]->alamat = $value->alamat();
+        }
         
         return [
             "status"=>true,
             "total_records"=>$place->count(),
             "query"=>$place->toSql(),
-            "data"=>$place->get()
+            "data"=>$data
         ];
     }
 
@@ -78,9 +84,11 @@ class DestinationsController extends Controller
     public function show(Request $request,String $slug = "")
     {
         $data["place"] = \App\Models\Place::where("slug",$slug)
-        ->addSelect(DB::raw("*, ST_X(location) as latitude, ST_Y(location) as longitude"))
+        ->addSelect(DB::raw("*, IF(location is not null, ST_X(location), location) as latitude, IF(location is not null, ST_Y(location), location) as longitude"))
         ->firstorfail();
-        $data["nearest"] = DB::select(DB::raw("SELECT *, (ST_Distance(location, POINT( {$data["place"]->latitude}, {$data["place"]->longitude})) * 111195) / 1000 as distance FROM `places` WHERE id != {$data["place"]->id} order by distance ASC LIMIT 5"));
+        $lat = $data["place"]->latitude ?? 0;
+        $long = $data["place"]->longitude ?? 0;
+        $data["nearest"] = DB::select(DB::raw("SELECT *, IF(location is not null, (ST_Distance(location, POINT( {$lat}, {$long} ) ) * 111195) / 1000, 0) as distance FROM `places` WHERE id != {$data["place"]->id} order by distance ASC LIMIT 5"));
         $data["related"] = \App\Models\Place::where("category_place_id",$data["place"]->category_place_id)
         ->where("wilayah_id",$data["place"]->wilayah_id)
         ->orderBy("views","desc")
