@@ -11,7 +11,9 @@ Route::group(['middleware' => ['web'], 'namespace' => '\BinshopsBlog\Controllers
         Route::get('/search', 'BinshopsReaderController@search')
             ->name('binshopsblog.search');
 
-        Route::get('/category{subcategories}', 'BinshopsReaderController@view_category')->where('subcategories', '^[a-zA-Z0-9-_\/]+$')->name('binshopsblog.view_category');
+        Route::get('/category/{subcategories}', 'BinshopsReaderController@view_category')
+        ->where('subcategories', '^[a-zA-Z0-9-_\/]+$')
+        ->name('binshopsblog.view_category');
 
 //        Route::get('/category/{categorySlug}',
 //            'BinshopsReaderController@view_category')

@@ -41,14 +41,4 @@ Route::group(['prefix' => 'filemanager', 'middleware' => ['web']], function () {
     \UniSharp\LaravelFilemanager\Lfm::routes();
 });
 
-// Route::get("test",function(){
-//     $places = \App\Models\Place::select("id","name","photos","google_places_api")->get();
-//     // $places = \App\Models\Wilayah::get();
-//     foreach($places as $place){
-//         // $place->name = Str::replaceLast('.json', '', $place->name);
-//         $place->slug = Str::slug($place->name);
-//         $place->google_places_api = json_decode($place->google_places_api,true);
-//         $place->save();
-//     }
-//     return $places;
-// });
+Route::get("test",[PagesController::class,"test"]);

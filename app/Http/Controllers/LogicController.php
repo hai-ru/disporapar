@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Grimzy\LaravelMysqlSpatial\Types\Point;
 use DB;
 use Str;
+use Http;
 
 class LogicController extends Controller
 {
@@ -52,5 +53,14 @@ class LogicController extends Controller
             }
         }
         return "OK";
+    }
+
+    public function getCoodinates()
+    {
+        $data = \App\Models\Place::where("active",1)->get();
+        foreach ($data as $key => $value) {
+            $location_name = $value["name"];
+            $url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?fields=business_status,formatted_address,geometry,icon,icon_mask_base_uri,icon_background_color,name,photo,place_id,plus_code,type&input={$location_name}&inputtype=textquery&key=AIzaSyBDpoXg_iNv-dAAXEM1mek_sSKqLijSNOI"
+        }
     }
 }

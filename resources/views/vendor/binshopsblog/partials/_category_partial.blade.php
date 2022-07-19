@@ -5,7 +5,7 @@
     @endphp
     @if($trans != null)
         <li class="nav-item">
-            @php $nameChain = $nameChain .'/'. $trans->slug @endphp
+            @php $nameChain = $nameChain .''. $trans->slug @endphp
 
             <a 
                 href="{{route("binshopsblog.view_category",[$locale, $nameChain ])}}"

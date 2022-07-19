@@ -21,7 +21,8 @@ class Helper
     public static function getPost($config = []){
         $lang = BinshopsLanguage::where("locale",app()->getLocale())->first();
         $query = BinshopsPostTranslation::where("lang_id",$lang->id)
-        ->whereHas("post",function($q){return $q->where("type",0);});
+        ->whereHas("post",function($q){return $q->where("type",0);})
+        ->take(5);
         if(isset($config["popular"])){
             return $query->orderBy("views")->get();
         }

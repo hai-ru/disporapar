@@ -75,7 +75,7 @@
 
                             <div class="post-image ms-0">
                                 <a href="#">
-                                    {!! $post->image_tag("medium", false, 'd-block mx-auto img-fluid img-thumbnail img-thumbnail-no-borders rounded-0') !!}
+                                    {!! $post->image_tag("large", false, 'd-block mx-auto img-fluid img-thumbnail img-thumbnail-no-borders rounded-0') !!}
                                 </a>
                             </div>
 

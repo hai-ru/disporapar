@@ -94,8 +94,8 @@
         <div class='alert alert-warning'>No posts to show you. Why don't you add one?</div>
     @endforelse
 
-    {{--    <div class='text-center'>--}}
-    {{--        {{$posts->appends( [] )->links()}}--}}
-    {{--    </div>--}}
+       <div class='text-center'>
+           {{$post_translations->links()}}
+       </div>
 
 @endsection

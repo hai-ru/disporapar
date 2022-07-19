@@ -26,6 +26,10 @@ class BinshopsPostTranslation extends Model implements SearchResultInterface
         'meta_desc',
         'slug',
         'use_view_file',
+        'video',
+        'image_large',
+        'image_medium',
+        'image_thumbnail',
     ];
     
     public function getTitle($limit = 0)
@@ -112,7 +116,11 @@ class BinshopsPostTranslation extends Model implements SearchResultInterface
     {
         $this->check_valid_image_size($size);
         $filename = $this->{"image_" . $size};
-        return asset(config("binshopsblog.blog_upload_dir", "blog_images") . "/" . $filename);
+        $file_path = config("binshopsblog.blog_upload_dir", "blog_images") . "/" . $filename;
+        if(file_exists(public_path($file_path))){
+            return asset($file_path);
+        }
+        return "/storage/".$filename;
     }
 
     /**

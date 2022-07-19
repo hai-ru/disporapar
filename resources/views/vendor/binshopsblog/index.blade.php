@@ -85,7 +85,7 @@
                             <article class="card pb-0 card-border card-border-bottom card-border-hover bg-color-light box-shadow-6 box-shadow-hover anim-hover-translate-top-10px transition-3ms">
                                 <a href="{{$post->url($locale)}}">
                                     <img 
-                                        src="{{ $post->image_url("medium") }}" 
+                                        src="{{ $post->image_url("large") }}" 
                                         class="card-img-top img-thumbnail img-thumbnail-no-borders rounded-0" 
                                         alt="{{$post->title}}" 
                                     />
@@ -126,6 +126,7 @@
                     </div>
 
                 </div>
+                {!! $posts->links() !!}
             </div>
         </div>
 
