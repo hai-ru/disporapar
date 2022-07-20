@@ -61,11 +61,6 @@
             background-size: cover;
             background-position: center center;
         }
-        @media (max-width: 768px) {
-            .destination_image{
-                height: 20vh;
-            }
-        }
         .destination_details{
             position: relative;
             z-index: 1;
@@ -108,6 +103,11 @@
         }
         .select2-selection__arrow {
             height: 40px !important;
+        }
+        @media (max-width: 768px) {
+            .destination_image{
+                height: 20vh;
+            }
         }
     </style>
 @endsection
@@ -297,7 +297,9 @@
                     loadMarkers();
 
                     if(body !== {} && list.length > 0){
-                        map.setCenter({lat:list[0].latitude,lng:list[0].longitude})
+                        const data = list.find(elm => elm.latitude !== null);
+                        // console.log(data)
+                        map.setCenter({lat:data.latitude,lng:data.longitude})
                     }
 
                 },
@@ -321,20 +323,20 @@
             list.forEach((item, i) => {
                 if(item.latitude === null) return null;
                 const position =  { lat: item.latitude, lng: item.longitude };
-                const marker = new google.maps.Marker({position});
+                const marker = new google.maps.Marker({
+                    position:position,
+                    draggable:true
+                });
 
                 // markers can only be keyboard focusable when they have click listeners
                 // open info window when marker is clicked
                 marker.addListener("click", () => {
                     try {
-                        item.cover = JSON.parse(item.photos);
+                        item.cover = item.photos;
                     } catch (error) {
                         item.cover = []
                     }
-                    const image = item.cover.length > 0 ? `
-                    <a href="/places/${item.slug}">
-                        <img class="img-preview_iw" src="${item.cover}" />
-                    </a>` : "";
+                    const image = item.cover.length > 0 ? item.cover : "/storage/foto_google/No_Image_Available.jpeg";
                     const alamat = item.alamat === null ? "" :
                     `<p class="mb-0 pb-0"><i class="fa fa-map-marker-alt"></i> ${item.alamat}</p>`
                     const phone = item.phone === null ? "" :
@@ -342,7 +344,9 @@
                     infoWindow.setContent(`
                     <div class="row pb-3">
                         <div class="col-md-6">
-                            ${image}
+                            <a href="/places/${item.slug}">
+                                <img class="img-preview_iw" src="${image}" />
+                            </a>
                         </div>
                         <div class="col-md-6">
                             <a href="/places/${item.slug}">

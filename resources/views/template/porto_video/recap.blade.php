@@ -20,6 +20,21 @@
         .dataTables_wrapper .dt-buttons {
             float:right;
         }
+        #example_filter label {
+            margin-right: 10px;
+            margin-top: 5px;
+        }
+        @media (max-width: 768px) {
+            /* #example_filter label {
+                float: right;
+            } */
+            .destination_image{
+                height: 20vh;
+            }
+            .dt-buttons{
+                margin-top: 20px;
+            }
+        }
     </style>
 @endsection
 
@@ -85,9 +100,9 @@
         $(document).ready(function () {
             $('#example').DataTable({
                 dom: 'lBfrtip',
-                language:{url:"//cdn.datatables.net/plug-ins/1.12.1/i18n/id.json"},
+                language:{url:"/vendor/id.json"},
                 buttons: [ 'copy', 'excel', 'pdf', 'colvis' ],
-                searching: false,
+                searching: true,
                 processing: true,
                 serverSide: true,
                 ajax:"{{route('recap.data')}}",
@@ -96,8 +111,10 @@
                         "data": "photos",
                         "render": (data,type,row)=>{
                             // console.log(row)
-                            const cover = JSON.parse(row.photos.replace(/&quot;/g,'"'));
-                            const image = cover.length > 0 ? cover[0] : "/storage/foto_google/No_Image_Available.jpeg" ;
+                            // const cover = JSON.parse(row.photos.replace(/&quot;/g,'"'));
+                            const cover = row.photos;
+                            if(cover !== null) console.log(cover)
+                            const image = cover?.length > 0 ? cover[0] : "/storage/foto_google/No_Image_Available.jpeg" ;
                             return `<img class="img-prw" src="${image}" />`;
                         },
                         "className":"text-center"

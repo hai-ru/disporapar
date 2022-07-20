@@ -24,8 +24,9 @@ class DestinationsController extends Controller
     
     public function recap(Request $request)
     {
-        $query = \App\Models\Place::select("id","alamat","slug","name","phone","rating","description","category_place_id","wilayah_id","photos")
+        $query = \App\Models\Place::select("id","alamat","slug","name","phone","rating","description","category_place_id","wilayah_id","photos","active")
         ->addSelect(DB::raw("ST_X(location) as latitude, ST_Y(location) as longitude"))
+        ->where("active",1)
         ->with("wilayah","category_place")
         ->orderBy("created_at","asc");
 
@@ -102,6 +103,16 @@ class DestinationsController extends Controller
         $p = \App\Models\Place::where("slug",$request->slug)->firstorfail();
         $p->delete();
         return ["status"=>true,"message"=>"data berhasil di hapus"];
+    }
+
+    public function search(Request $request)
+    {
+        $d = \App\Models\Place::select("id","name as text")
+        ->where("active",1);
+        if($request->has("wilayah_id")){
+            $d->where("wilayah_id",$request->wilayah_id);
+        }
+        return $d->get();
     }
 
 }

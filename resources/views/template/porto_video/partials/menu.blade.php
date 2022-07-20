@@ -100,8 +100,30 @@
         </ul>
     </li>
     <li class="dropdown">
-        <a class="dropdown-item" href="{{route("recap")}}">
-            REKAPITULASI
+        <a class="dropdown-item dropdown-toggle" href="#">
+            KAJIAN
         </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a class="dropdown-item" href="{{ route("collecting",1) }}">
+                    Identifikasi Sarana dan Prasarana Digital
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="https://www.facebook.com/disporapar.kalbar.75">
+                    Pemasaran Produk Pariwisata
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("collecting",2) }}">
+                    Identifikasi Pengembangan Objek Wisata
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("collecting",3) }}">
+                    Target pasar wisata
+                </a>
+            </li>
+        </ul>
     </li>
 </ul>

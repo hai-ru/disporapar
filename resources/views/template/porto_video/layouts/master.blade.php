@@ -199,6 +199,8 @@
 
 		<!-- Theme Custom -->
 		<!-- <script src="js/custom.js"></script> -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/localization/messages_id.min.js"></script>
 		<script>
 			$(document).ready(function(){
 				$(".preloader").fadeOut();
@@ -208,6 +210,16 @@
 					'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
 				}
 			});
+			function getFormData($form){
+				let unindexed_array = $form.serializeArray();
+				let indexed_array = {};
+
+				$.map(unindexed_array, function(n, i){
+					indexed_array[n['name']] = n['value'];
+				});
+
+				return indexed_array;
+			}
 		</script>
 		@yield('js')
 
