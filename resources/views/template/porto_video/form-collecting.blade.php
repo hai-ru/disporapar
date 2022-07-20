@@ -56,6 +56,7 @@
         </div>
     </section>
     <div class="container py-4">
+        @if(!Auth::guest())
         <div class="form-group">
             <label>Kab/Kota</label>
             <select class="form-control" id="wilayah">
@@ -78,6 +79,7 @@
                 <button class="btn btn-primary btn-fluid">Simpan</button>
             </div>
         </form>
+        @endif
 
         <table id="example" class="table table-striped" style="width:100%">
             <thead>
@@ -196,8 +198,11 @@
                 { 
                     "data": "name",
                     "render": (data,type,row,index)=>{
-                        const action = `<br/> <button onclick="edit(${index.row})" class="btn btn-primary btn-xs">Edit</button>`;
-                        return data+action;
+                        @if(!Auth::guest())
+                            const action = `<br/> <button onclick="edit(${index.row})" class="btn btn-primary btn-xs">Edit</button>`;
+                            data = data+action;
+                        @endif
+                        return data;
                     },
                 },
                 { 
