@@ -110,7 +110,7 @@
                 </a>
             </li>
             <li>
-                <a class="dropdown-item" href="https://www.facebook.com/disporapar.kalbar.75">
+                <a class="dropdown-item" href="{{ route("collecting",4) }}">
                     Pemasaran Produk Pariwisata
                 </a>
             </li>
