@@ -58,16 +58,16 @@ class User extends Authenticatable
 
         // $this->email === "admin@disporaparkalbar.com"
 
-        if (
-            $this->id === 1 && 
-            $this->email === "om.joko@icloud.com"
-           ){
+        // if (
+            // $this->id === 1 && 
+            // $this->email === "om.joko@icloud.com"
+        //    ){
 
            // return true so this user CAN edit/post/delete
            // blog posts (and post any HTML/JS)
 
            return true;
-        }
+        // }
 
         // otherwise return false, so they have no access
         // to the admin panel (but can still view posts)
