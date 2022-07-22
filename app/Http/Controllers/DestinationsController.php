@@ -115,4 +115,32 @@ class DestinationsController extends Controller
         return $d->get();
     }
 
+    public function update(Request $request)
+    {
+        $data = $request->all();
+        $p = \App\Models\Place::where("slug",$data["slug"])->firstorfail();
+        $p->update($data);
+        return ["status"=>true,"message"=>"data berhasil disimpan"];
+    }
+
+    public function uploadImage(Request $request)
+    {
+        $image = $request->file('file');
+        $imageName = $image->getClientOriginalName();
+        $image->move(public_path('images'),$imageName);
+        
+        return response()->json([
+            'status'=>true,
+            'message'=>'OK',
+            'data'=>'/images/'.$imageName
+        ]);
+    }
+
+    public function kecamatan(Request $request)
+    {
+        return \App\Models\kecamatan::where('wilayah_id', $request->wilayah_id)
+        ->select("id","name as text","wilayah_id")
+        ->get();
+    }
+
 }

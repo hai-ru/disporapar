@@ -6,6 +6,18 @@
         .post-meta span {
             margin-right: 10px;
         }
+        nav[aria-label="Pagination Navigation"] {
+            text-align:center;
+        }
+        nav[aria-label="Pagination Navigation"] 
+        p{
+            margin: 10px auto;
+        }
+        nav[aria-label="Pagination Navigation"] 
+        svg{
+            max-width:20px;
+            max-height:20px;
+        }
     </style>
 @endsection
 

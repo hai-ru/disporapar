@@ -29,6 +29,10 @@ Route::post('/collecting/{slug}', [CollectingController::class,"store"])->name("
 Route::get('/places/{slug}', [DestinationsController::class,"show"])->name("places");
 Route::post('/places/search', [DestinationsController::class,"search"])->name("places.search");
 Route::get('/destinations/{slug?}', [DestinationsController::class,"index"])->name("destinations");
+Route::post('/destinations', [DestinationsController::class,"update"])->name("destinations.update");
+Route::post('/kecamatan', [DestinationsController::class,"kecamatan"])->name("kecamatan.data");
+
+Route::post('/upload-image', [DestinationsController::class,"uploadImage"])->name("destinations.upload");
 
 Auth::routes();
 

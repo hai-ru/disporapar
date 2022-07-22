@@ -74,9 +74,20 @@
                             </div>
 
                             <div class="post-image ms-0">
-                                <a href="#">
+                                @if(!empty($post->video))
+                                <div class="position-relative">
+                                    <div class="ratio ratio-4x3">
+                                        <video id="video" class="float-start" width="100%" height="100%" muted loop preload="metadata" poster="{{$post->image_url('large')}}">
+                                            <source src="/storage{{$post->video}}" type="video/mp4">
+                                        </video>
+                                        <a href="#" class="position-absolute top-50pct left-50pct transform3dxy-n50 bg-light rounded-circle d-flex align-items-center justify-content-center text-decoration-none bg-color-hover-primary text-color-hover-light play-button-lg pulseAnim pulseAnimAnimated" data-trigger-play-video="#video" data-trigger-play-video-remove="yes">
+                                            <i class="fas fa-play text-5"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                @else 
                                     {!! $post->image_tag("large", false, 'd-block mx-auto img-fluid img-thumbnail img-thumbnail-no-borders rounded-0') !!}
-                                </a>
+                                @endif
                             </div>
 
                             {!! $post->post_body_output() !!}

@@ -43,6 +43,9 @@
             padding: 5px;
             border-radius: 5px;
         }
+        .thumb_data{
+            height: 30vh;
+        }
     </style>
 @endsection
 @section('content')
@@ -145,16 +148,17 @@
                         <div class="row g-0">
                             <div class="col-lg-5">
                                 <a href="{{ $item->url(app()->getLocale()) }}">
-                                    <img 
-                                        src="{{$item->image_url("medium")}}"
-                                        class="rounded-start berita_image" alt="{{$item->title}}"
-                                    >
+                                    <span class="thumb-info thumb-info-no-borders thumb-info-no-borders-rounded thumb-info-slow-image-zoom-hover thumb_data">
+                                        <span class="thumb-info-wrapper">
+                                            <img src="{{$item->image_url("large")}}" class="img-fluid"  alt="{{$item->title}}">
+                                        </span>
+                                    </span>
                                 </a>
                             </div>
                             <div class="col-lg-7">
                                     <div class="card-body destination_details">
                                         <a href="{{ $item->url(app()->getLocale()) }}">
-                                            <h4 class="card-title mb-1 text-4 font-weight-bold">{{$item->title}}</h4>
+                                            <h4 class="card-title mb-1 text-4 font-weight-bold">{{Str::limit($item->title,40)}}</h4>
                                         </a>
                                         <p>{!! mb_strimwidth($item->post_body_output(), 0, 100, "...") !!}</p>
                                         <a href="{{ $item->url(app()->getLocale()) }}" class="read-more text-color-primary font-weight-semibold text-2">Selengkapnya <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>

@@ -38,7 +38,7 @@ class CollectingController extends Controller
             ];
             \App\Models\ColectingStore::create($input);
         }
-        return ["status"=>true,"message"=>"Data berhasil disimpan"];
+        return ["status"=>true,"message"=>"Data berhasil disimpan","data"=>$data];
     }
 
     public function data(Request $request)
@@ -48,6 +48,16 @@ class CollectingController extends Controller
         ->where("active",1)
         ->with("wilayah","category_place","form_store")
         ->orderBy("created_at","asc");
+        
+        if(!empty($request->category_place_id)){
+            $query = $query->where("category_place_id",$request->category_place_id);
+        }
+        if(!empty($request->wilayah_id)){
+            $query = $query->where("wilayah_id",$request->wilayah_id);
+        }
+        if(!empty($request->kecamatan_id)){
+            $query = $query->where("kecamatan_id",$request->kecamatan_id);
+        }
 
         $table = Datatables::of($query);
         $c = \App\Models\ColectingCategory::find($request->id);
