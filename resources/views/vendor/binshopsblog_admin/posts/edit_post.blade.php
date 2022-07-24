@@ -14,7 +14,7 @@
             To apply changes, click save changes for each language.
         </p>
 
-        <input type='submit' name="submit_btn" class='btn btn-primary' value='Save Changes' >
+        {{-- <input type='submit' name="submit_btn" class='btn btn-primary' value='Save Changes' > --}}
 
         @csrf
         @include("binshopsblog_admin::posts.form", [
@@ -24,6 +24,7 @@
 
     </form>
 
+@section('scripts')
     <script>
         //multi language
         var edit_toggle_url = '{{route("binshopsblog.admin.edit_post_toggle",$post->id)}}';
@@ -38,5 +39,6 @@
             $('#edit-post-form').trigger('submit');
         });
     </script>
+@endsection
 
 @endsection

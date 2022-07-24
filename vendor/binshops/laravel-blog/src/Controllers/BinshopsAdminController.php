@@ -108,6 +108,7 @@ class BinshopsAdminController extends Controller
             ]
         )->first();
 
+
         if (!$translation){
             $translation = new BinshopsPostTranslation();
         }
@@ -320,6 +321,7 @@ class BinshopsAdminController extends Controller
                 ['lang_id', '=', $request['lang_id']]
             ]
         )->first();
+
 
         if (!$translation){
             $translation = new BinshopsPostTranslation();

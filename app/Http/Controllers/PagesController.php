@@ -58,11 +58,15 @@ class PagesController extends Controller
         $language_id = $request->get('language_id') ?? \App\Helpers\Helper::getLocaleID() ;
         $posts = BinshopsPostTranslation::orderBy("post_id", "desc")
         ->where('lang_id', $language_id)
+        ->with("post")
         ->whereHas("post",function($q) use($type) {return $q->where("type",$type);});
 
         return Datatables::of($posts)
         ->addColumn('photos',function($q){
             return $q->image_url();
+        })
+        ->addColumn('author',function($q){
+            return $q->post->author_string();
         })
         ->make(true);
         
