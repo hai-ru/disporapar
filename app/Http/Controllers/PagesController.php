@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use BinshopsBlog\Models\BinshopsPost;
 use BinshopsBlog\Models\BinshopsPostTranslation;
 use DB;
+use Datatables;
 
 class PagesController extends Controller
 {
@@ -49,6 +50,22 @@ class PagesController extends Controller
                 "category_id"=>1,
             ]);
         }
+    }
+
+    public function data(Request $request)
+    {
+        $type = $request->type ?? 0;
+        $language_id = $request->get('language_id') ?? \App\Helpers\Helper::getLocaleID() ;
+        $posts = BinshopsPostTranslation::orderBy("post_id", "desc")
+        ->where('lang_id', $language_id)
+        ->whereHas("post",function($q) use($type) {return $q->where("type",$type);});
+
+        return Datatables::of($posts)
+        ->addColumn('photos',function($q){
+            return $q->image_url();
+        })
+        ->make(true);
+        
     }
     
 }

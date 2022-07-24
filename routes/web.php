@@ -40,6 +40,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::group(["prefix"=>"admin","middleware"=>"auth"],function(){
     Route::get("pages",[PagesController::class,"index"])->name("admin.pages");
+    Route::get("pages/data",[PagesController::class,"data"])->name("admin.pages.data");
     Route::post("destinations/delete",[DestinationsController::class,"delete"])->name("admin.destination");
     Route::get("filemanager",function(){
         return view('binshopsblog_admin::filemanager');

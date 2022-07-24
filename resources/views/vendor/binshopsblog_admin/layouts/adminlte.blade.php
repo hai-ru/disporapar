@@ -20,6 +20,11 @@
     <link href="https://cdn.datatables.net/buttons/1.2.4/css/buttons.dataTables.min.css" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.5.1/min/dropzone.min.css" rel="stylesheet" />
     <link href="{{ asset('css/custom.css') }}" rel="stylesheet" />
+    <style>
+        div.dt-buttons{
+            margin-left: 20px;
+        }
+    </style>
     @yield('styles')
 </head>
 
@@ -128,120 +133,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.5.1/min/dropzone.min.js"></script>
     <script src="{{ asset('js/main.js') }}"></script>
-    <script>
-        $(function() {
-  let copyButtonTrans = '{{ __('global.datatables.copy') }}'
-  let csvButtonTrans = '{{ __('global.datatables.csv') }}'
-  let excelButtonTrans = '{{ __('global.datatables.excel') }}'
-  let pdfButtonTrans = '{{ __('global.datatables.pdf') }}'
-  let printButtonTrans = '{{ __('global.datatables.print') }}'
-  let colvisButtonTrans = '{{ __('global.datatables.colvis') }}'
-  let selectAllButtonTrans = '{{ __('global.select_all') }}'
-  let selectNoneButtonTrans = '{{ __('global.deselect_all') }}'
-
-  let languages = {
-    'id': 'https://cdn.datatables.net/plug-ins/1.10.19/i18n/Indonesian.json'
-  };
-
-  $.extend(true, $.fn.dataTable.Buttons.defaults.dom.button, { className: 'btn' })
-  $.extend(true, $.fn.dataTable.defaults, {
-    language: {
-      url: languages['{{ app()->getLocale() }}']
-    },
-    columnDefs: [{
-        orderable: false,
-        className: 'select-checkbox',
-        targets: 0
-    }, {
-        orderable: false,
-        searchable: false,
-        targets: -1
-    }],
-    select: {
-      style:    'multi+shift',
-      selector: 'td:first-child'
-    },
-    order: [],
-    scrollX: true,
-    pageLength: 100,
-    dom: 'lBfrtip<"actions">',
-    buttons: [
-      {
-        extend: 'selectAll',
-        className: 'btn-primary',
-        text: selectAllButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        },
-        action: function(e, dt) {
-          e.preventDefault()
-          dt.rows().deselect();
-          dt.rows({ search: 'applied' }).select();
-        }
-      },
-      {
-        extend: 'selectNone',
-        className: 'btn-primary',
-        text: selectNoneButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'copy',
-        className: 'btn-default',
-        text: copyButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'csv',
-        className: 'btn-default',
-        text: csvButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'excel',
-        className: 'btn-default',
-        text: excelButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'pdf',
-        className: 'btn-default',
-        text: pdfButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'print',
-        className: 'btn-default',
-        text: printButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'colvis',
-        className: 'btn-default',
-        text: colvisButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      }
-    ]
-  });
-
-  $.fn.dataTable.ext.classes.sPageButton = '';
-});
-
-    </script>
     <script>
         /*!
      * AdminLTE v3.0.0-alpha.2 (https://adminlte.io)
