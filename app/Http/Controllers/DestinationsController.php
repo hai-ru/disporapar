@@ -89,9 +89,10 @@ class DestinationsController extends Controller
         ->firstorfail();
         $lat = $data["place"]->latitude ?? 0;
         $long = $data["place"]->longitude ?? 0;
-        $data["nearest"] = DB::select(DB::raw("SELECT *, IF(location is not null, (ST_Distance(location, POINT( {$lat}, {$long} ) ) * 111195) / 1000, 0) as distance FROM `places` WHERE id != {$data["place"]->id} order by distance ASC LIMIT 5"));
+        $data["nearest"] = DB::select(DB::raw("SELECT *, IF(location is not null, (ST_Distance(location, POINT( {$lat}, {$long} ) ) * 111195) / 1000, 0) as distance FROM `places` WHERE id != {$data["place"]->id} AND location is not null and active = 1 order by distance ASC LIMIT 5"));
         $data["related"] = \App\Models\Place::where("category_place_id",$data["place"]->category_place_id)
         ->where("wilayah_id",$data["place"]->wilayah_id)
+        ->where('active',1)
         ->orderBy("views","desc")
         ->take(5)
         ->get();

@@ -90,7 +90,8 @@
                     </ul>
                     <div class="tab-content">
                         <div id="popular10" class="tab-pane active">
-                            @foreach ($nearest as $item)    
+                            @foreach ($nearest as $item) 
+                            @php($item->photos = json_decode($item->photos,true))   
                                 <div class="card mb-3">
                                     <div class="row g-0">
                                         <div class="col-lg-5">
