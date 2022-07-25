@@ -58,7 +58,8 @@
                         return data+`
                             <div>
                                 <a href="/id/blog/${row.slug}" target="_blank" class="card-link btn btn-outline-secondary btn-xs"><i class="fa fa-file-text-o" aria-hidden="true"></i> View Post</a>
-                                <a href="/admin/edit_post/${row.post_id}" class="card-link btn btn-primary btn-xs"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Edit Post</a>
+                                <a href="/admin/edit_post/${row.post_id}" class="card-link btn btn-primary btn-xs"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Edit</a>
+                                <button onclick="deleteData(${row.post_id})" class="card-link btn btn-danger btn-xs"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Delete</button>
                             </div>`
                     },
                 },
@@ -79,5 +80,33 @@
                 }
             ]
         })
+
+        const deleteData = (id) => {
+            swal({
+                title: "Are you sure?",
+                text: "Once deleted, you will not be able to recover this imaginary file!",
+                icon: "warning",
+                buttons: true,
+                dangerMode: true,
+            })
+            .then((willDelete) => {
+                if (!willDelete) return null;
+                $.ajax({
+                    url:'/admin/delete_post/'+id,
+                    type:'post',
+                    data:{_method:'delete'},
+                    success:function(res){
+                        console.log(res)
+                        swal("Poof! Your imaginary file has been deleted!", {
+                            icon: "success",
+                        });
+                    },
+                    error:function(e){
+
+                    }
+                })                
+            });
+           
+        }
     </script>
 @endsection
