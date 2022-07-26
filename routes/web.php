@@ -43,7 +43,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::group(["prefix"=>"admin","middleware"=>"auth"],function(){
     Route::group(["prefix"=>"config"],function(){
         Route::get("video",function(){
-            $config = \App\Models\Config::first();
+            $config = \App\Models\config::first();
             return view("binshopsblog_admin::video-home",$config->toArray());
         })->name("admin.config.video");
     Route::post("update",[ConfigController::class,"update"])->name("admin.config.update");
