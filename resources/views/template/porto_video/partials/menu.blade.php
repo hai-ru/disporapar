@@ -61,6 +61,11 @@
                     VIDEO
                 </a>
             </li>
+            <li>
+                <a class="dropdown-item" href="{{ route("pages","data-laporan-naskah") }}">
+                    LAPORAN
+                </a>
+            </li>
         </ul>
     </li>
     <li class="dropdown">
@@ -93,7 +98,7 @@
                 </a>
             </li>
             <li>
-                <a class="dropdown-item" href="/">
+                <a class="dropdown-item" href="https://www.youtube.com/watch?v=HPiWxGa-u04&list=PLaZA1s54Jb0ojkTSdtUeXsCsV_YxSRUmI">
                     VIRTUAL TOUR
                 </a>
             </li>
