@@ -6,6 +6,8 @@ use \App\Http\Controllers\PagesController;
 use \App\Http\Controllers\DestinationsController;
 use \App\Http\Controllers\LogicController;
 use \App\Http\Controllers\CollectingController;
+use \App\Http\Controllers\ConfigController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -39,6 +41,14 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::group(["prefix"=>"admin","middleware"=>"auth"],function(){
+    Route::group(["prefix"=>"config"],function(){
+        Route::get("video",function(){
+            $config = \App\Models\Config::first();
+            return view("binshopsblog_admin::video-home",$config->toArray());
+        })->name("admin.config.video");
+    Route::post("update",[ConfigController::class,"update"])->name("admin.config.update");
+
+    });
     Route::get("pages",[PagesController::class,"index"])->name("admin.pages");
     Route::get("pages/data",[PagesController::class,"data"])->name("admin.pages.data");
     Route::post("destinations/delete",[DestinationsController::class,"delete"])->name("admin.destination");
